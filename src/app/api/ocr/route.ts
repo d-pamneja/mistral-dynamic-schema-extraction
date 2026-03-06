@@ -86,6 +86,9 @@ export async function POST(request: NextRequest) {
     full_text: postResult.full_text,
   };
 
+  // ── 6. Cost estimate ($1 per 1000 pages, OCR is the only AI cost) ──
+  const ocrCostUsd = ocrResult.pages.length * (1 / 1000);
+
   return NextResponse.json({
     success: true,
     data: document,
@@ -93,6 +96,12 @@ export async function POST(request: NextRequest) {
       ocr_ms: ocrResult.ocrDurationMs,
       postprocess_ms: postResult.postprocess_duration_ms,
       total_ms: now - totalStart,
+    },
+    cost: {
+      ocr_pages: ocrResult.pages.length,
+      ocr_cost_usd: parseFloat(ocrCostUsd.toFixed(4)),
+      postprocess_cost_usd: 0,
+      total_cost_usd: parseFloat(ocrCostUsd.toFixed(4)),
     },
   });
 }
