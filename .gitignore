@@ -28,9 +28,16 @@ yarn-error.log*
 .env*.local
 .env
 
+# script output
+scripts/output/
+
 # vercel
 .vercel
 
 # typescript
 *.tsbuildinfo
 next-env.d.ts
+
+.claude
+planV1.md 
+package-lock.json

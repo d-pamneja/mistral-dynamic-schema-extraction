@@ -1,0 +1,3274 @@
+
+--- PAGE 1 ---
+Form 1120-S
+U.S. Income Tax Return for an S Corporation
+Do not file this form unless the corporation has filed or is attaching Form 2553 to elect to be an S corporation.
+Go to www.irs.gov/Form1120S for instructions and the latest information.
+EXTENSION GRANTED TO 09/15/25
+OMB No. 1545-0123
+2024
+
+For calendar year 2024 or tax year beginning , ending
+
+|  A | S election effective date
+12/27/1988 | Name
+COM-JET CORPORATION |   |   | D | Employer identification number
+59-2051580  |
+| --- | --- | --- | --- | --- | --- | --- |
+|  B | Business activity code number (see instructions)
+488100 | Number, street, and room or suite no. If a P.O. box, see instructions.
+8235 NW 56 STREET |   |   | E | Date incorporated
+12/24/1980  |
+|  C | Check if Sch. M-3 attached ☐ | City or town, state or province, country, and ZIP or foreign postal code
+MIAMI, FL 33166 |   |   | F | Total assets (see instructions)
+$ 6,999,552.  |
+
+G Is the corporation electing to be an S corporation beginning with this tax year? ☐ Yes ☑ No
+H Check if: (1) ☐ Final return (2) ☐ Name change (3) ☐ Address change (4) ☐ Amended return (5) ☐ S election termination
+I Enter the number of shareholders who were shareholders during any part of the tax year 5
+J Check if corporation: (1) ☐ Aggregated activities for section 465 at-risk purposes (2) ☐ Grouped activities for section 469 passive activity purposes
+
+|  Caution: Include only trade or business income and expenses on lines 1a through 22. See the instructions for more information.  |   |   |   |   |   |
+| --- | --- | --- | --- | --- | --- |
+|  Income | 1 a Gross receipts or sales 14,331,414. b Less return and allowances c Balance |   |   |   | 1c 14,331,414.  |
+|   |  2 Cost of goods sold (attach Form 1125-A) |   |   |   | 2 8,144,114.  |
+|   |  3 Gross profit. Subtract line 2 from line 1c |   |   |   | 3 6,187,300.  |
+|   |  4 Net gain (loss) from Form 4797, Part II, line 17 (attach Form 4797) |   |   |   | 4  |
+|   |  5 Other income (loss) (attach statement) |   |   |   | 5  |
+|   |  6 Total income (loss). Add lines 3 through 5 |   |   |   | 6 6,187,300.  |
+|  Deductions (see instructions for limitations) | 7 Compensation of officers (see instrs. - attach Form 1125-E) |   |   |   | 7 535,600.  |
+|   |  8 Salaries and wages (less employment credits) |   |   |   | 8 951,741.  |
+|   |  9 Repairs and maintenance |   |   |   | 9 213,284.  |
+|   |  10 Bad debts |   |   |   | 10  |
+|   |  11 Rents |   |   |   | 11 365,069.  |
+|   |  12 Taxes and licenses STATEMENT 1 |   |   |   | 12 327,285.  |
+|   |  13 Interest (see instructions) |   |   |   | 13 579,847.  |
+|   |  14 Depreciation from Form 4562 not claimed on Form 1125-A or elsewhere on return (attach Form 4562) |   |   |   | 14 757.  |
+|   |  15 Depletion (do not deduct oil and gas depletion.) |   |   |   | 15  |
+|   |  16 Advertising |   |   |   | 16 128,619.  |
+|   |  17 Pension, profit-sharing, etc., plans |   |   |   | 17  |
+|   |  18 Employee benefit programs |   |   |   | 18  |
+|   |  19 Energy efficient commercial buildings deduction (attach Form 7205) |   |   |   | 19  |
+|   |  20 Other deductions (attach statement) STATEMENT 2 |   |   |   | 20 2,148,484.  |
+|   |  21 Total deductions. Add lines 7 through 20 |   |   |   | 21 5,250,686.  |
+|   |  22 Ordinary business income (loss). Subtract line 21 from line 6 |   |   |   | 22 936,614.  |
+|  Tax and Payments | 23 a Excess net passive income or LIFO recapture tax (see in structions) |   | 23a |  | 23c  |
+|   |  b Tax from Schedule D (Form 1120-S) |   | 23b |   |   |
+|   |  c Add lines 23a and 23b |   |  |   |   |
+|   |  24 a Current year's estimated tax payments and preceding year's overpayment credited to the current year |   | 24a |   |   |
+|   |  b Tax deposited with Form 7004 |   | 24b |   |   |
+|   |  c Credit for federal tax paid on fuels (attach Form 4136) |   | 24c |  | 24z  |
+|   |  d Elective payment election amount from Form 3800 |   | 24d |   |   |
+|   |  z Add lines 24a through 24d |   |  |   |   |
+|   |  25 Estimated tax penalty (see instructions). Check if Form 2220 is attached ☐ |   |   |   | 25  |
+|   |  26 Amount owed. If line 24z is smaller than the total of lines 23c and 25, enter amount owed |   |   |   | 26  |
+|   |  27 Overpayment. If line 24z is larger than the total of lines 23c and 25, enter amount overpaid |   |   |   | 27  |
+|  28 Enter amount from line 27: Credited to 2025 estimated tax Refunded |   |   |   | 28  |   |
+|  Sign
+Here | Under penalties of perjury, I declare that I have examined this return, including accompanying schedules and statements, and to the best of my knowledge and belief, it is true, correct, and complete. Declaration of preparer (other than taxpayer) is based on all information of which preparer has any knowledge.
+Signature of officer 7/23/2025 AUTHORIZED OFFICER
+Date Title  |   |   |   |   |
+| --- | --- | --- | --- | --- | --- |
+|   |  Print/Type preparer's name
+DAVID MERZEL | Preparer's signature
+DAVID MERZEL | Date
+07/22/25 | Check if
+self
+employed ☐ | PTIN
+P00089178  |
+|  Print
+Preparer
+Use
+Only | Firm's name KAUFMAN, ROSSIN & CO., P.A. |   |   | Firm's EIN 59-1818353  |   |
+|   |  Firm's address ONE TOWN CENTER ROAD, SUITE 400
+BOCA RATON, FL 33486 |   |   | Phone no
+561-394-5100  |   |
+
+LHA For Paperwork Reduction Act Notice, see separate instructions.
+1
+411701 12-10-24
+Form 1120-S (2024)
+13350722 756350 18968000
+2024.04010 COM-JET CORPORATION
+18968001
+
+--- PAGE 2 ---
+Form 1120-S (2024) COM-JET CORPORATION 59-2051580 Page 2
+
+|  Schedule B Other Information (see instructions) |   |   |   |   |   | Yes | No  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  1 Check accounting method: a ☐ Cash b ☑ Accrual c ☐ Other (specify) |   |   |   |   |   |  |   |
+|  2 See the instructions and enter the: a Business activity AIRCRAFT REPAIRS b Product or service OVERHAULING PARTS |   |   |   |   |   |  |   |
+|  3 At any time during the tax year, was any shareholder of the corporation a disregarded entity, a trust, an estate, or a nominee or similar person? If "Yes," attach Schedule B-1, Information on Certain Shareholders of an S Corporation |   |   |   |   |   |  | ☑  |
+|  4 At the end of the tax year, did the corporation: a Own directly 20% or more, or own, directly or indirectly, 50% or more of the total stock issued and outstanding of any foreign or domestic corporation? For rules of constructive ownership, see instructions. If "Yes," complete (i) through (v) below |   |   |   |   |   |  | ☑  |
+|  (i) Name of Corporation | (ii) Employer Identification Number (if any) | (iii) Country of Incorporation | (iv) Percentage of Stock Owned | (v) If Percentage in (iv) is 100%, Enter the Date of Application: a Qualified Subsidiary or a Subsidiary Election Was Made  |   |   |   |
+|  |   |   |   |   |   |   |   |
+|  |   |   |   |   |   |   |   |
+|  |   |   |   |   |   |   |   |
+|  |   |   |   |   |   |   |   |
+|  b Own directly an interest of 20% or more, or own, directly or indirectly, an interest of 50% or more in the profit, loss, or capital in any foreign or domestic partnership (including an entity treated as a partnership) or in the beneficial interest of a trust? For rules of constructive ownership, see instructions. If "Yes," complete (i) through (v) below |  |  |   |   |   |   |   |
+|   |   |   |   |   |   | ☑ |   |
+|  (i) Name of Entity | (ii) Employer Identification Number (if any) | (iii) Type of Entity | (iv) Country of Organization |   | (v) Maximum Percentage Owned in Profit, Loss, or Capital  |   |   |
+|  |   |   |   |   |   |   |   |
+|  |   |   |   |   |   |   |   |
+|  |   |   |   |   |   |   |   |
+|  |   |   |   |   |   |   |   |
+|  5a At the end of the tax year, did the corporation have any outstanding shares of restricted stock? If "Yes," complete lines (i) and (ii) below. (i) Total shares of restricted stock (ii) Total shares of non-restricted stock b At the end of the tax year, did the corporation have any outstanding stock options, warrants, or similar instruments? If "Yes," complete lines (i) and (ii) below. (i) Total shares of stock outstanding at the end of the tax year (ii) Total shares of stock outstanding if all instruments were executed |   |   |   |   |  | ☑ |   |
+|  6 Has this corporation filed, or is it required to file, Form 8918, Material Advisor Disclosure Statement, to provide info. on any reportable transaction? |   |   |   |   |  | ☑ |   |
+|  7 Check this box if the corporation issued publicly offered debt instruments with original issue discount If checked, the corporation may have to file Form 8281, Information Return for Publicly Offered Original Issue Discount Instruments. |   |   |   |   |  |  |   |
+|  8 If the corporation (a) was a C corporation before it elected to be an S corporation or the corporation acquired an asset with a basis determined by reference to the basis of the asset (or the basis of any other property) in the hands of a C corporation, and (b) has net unrealized built-in gain in excess of the net recognized built-in gain from prior years, enter the net unrealized built-in gain reduced by net recognized built-in gain from prior years $ |   |   |   |   |  |  |   |
+|  9 Did the corporation have an election under section 163(j) for any real property trade or business or any farming business in effect during the tax year? See instructions |   |   |   |   |  | ☑ |   |
+|  10 Does the corporation satisfy one or more of the following? See instructions |   |   |   |   |  | ☑ |   |
+|  a The corporation owns a pass-through entity with current, or prior year carryover, excess business interest expense. b The corporation's aggregate average annual gross receipts (determined under section 448(c)) for the 3 tax years preceding the current tax year are more than $30 million and the corporation has business interest expense. c The corporation is a tax shelter and the corporation has business interest expense. If "Yes," complete and attach Form 8990, Limitation on Business Interest Expense Under Section 163(j). |   |   |   |   |  |  |   |
+|  11 Does the corporation satisfy both of the following conditions? |   |   |   |   |  | ☑ |   |
+|  a The corporation's total receipts (see instructions) for the tax year were less than $250,000. b The corporation's total assets at the end of the tax year were less than $250,000. If "Yes," the corporation is not required to complete Schedules L and M-1. |   |   |   |   |  |  |   |
+
+411711 12-10-24
+
+Form 1120-S (2024)
+
+13350722 756350 18968000
+
+2024.04010 COM-JET CORPORATION
+
+18968001
+
+--- PAGE 3 ---
+Form 1120-S (2024) COM-JET CORPORATION 59-2051580 Page 3
+
+|  Schedule B | Other Information (see instructions) (continued) |   |   | Yes | No  |
+| --- | --- | --- | --- | --- | --- |
+|  12 | During the tax year, did the corporation have any non-shareholder debt that was canceled, was forgiven, or had the terms modified so as to reduce the principal amount of the debt?
+If "Yes," enter the amount of principal reduction |   |   |  | X  |
+|  13 | During the tax year, was a qualified subchapter S subsidiary election terminated or revoked? If "Yes," see instructions |   |   |  | X  |
+|  14a | Did the corporation make any payments that would require it to file Form(s) 1099?
+If "Yes," did or will the corporation file required Form(s) 1099? |   |   |  | X  |
+|  15 | Is the corporation attaching Form 8996 to certify as a Qualified Opportunity Fund?
+If "Yes," enter the amount from Form 8996, line 15 |   |   |  | X  |
+|  16 | At any time during the tax year, did the corporation: (a) receive (as a reward, award, or payment for property or services);
+or (b) sell, exchange, or otherwise dispose of a digital asset (or a financial interest in a digital asset)? See instructions |   |   |  | X  |
+|  Schedule K | Shareholders' Pro Rata Share Items |   |   | Total amount  |   |
+|  Income (Loss) | 1 Ordinary business income (loss) (page 1, line 22) |   |   | 1 | 936,614.  |
+|   |  2 Net rental real estate income (loss) (attach Form 8825) |   |   | 2 |   |
+|   |  3a Other gross rental income (loss) | 3a |  | 3c |   |
+|   |  b Expenses from other rental activities (attach statement) | 3b |   |   |   |
+|   |  c Other net rental income (loss). Subtract line 3b from line 3a  |   |   |   |   |
+|   |  4 Interest income STATEMENT 3 |   |   | 4 | 22,176.  |
+|   |  5 Dividends: a Ordinary dividends |   |   | 5a |   |
+|   |  b Qualified dividends | 5b |  | 6 |   |
+|   |  6 Royalties  |   |   |   |   |
+|   |  7 Net short-term capital gain (loss) (attach Schedule D (Form 1120-S)) |   |   | 7 |   |
+|   |  8a Net long-term capital gain (loss) (attach Schedule D (Form 1120-S)) |   |   | 8a |   |
+|   |  b Collectibles (28%) gain (loss) | 8b |  | 9 |   |
+|   |  c Unrecaptured section 1250 gain (attach statement) | 8c |   |   |   |
+|   |  9 Net section 1231 gain (loss) (attach Form 4797)  |   |   |   |   |
+|   |  10 Other income (loss) (see instructions) Type |   |   | 10 |   |
+|  Deductions | 11 Section 179 deduction (attach Form 4562) |   |   | 11 | 154,161.  |
+|   |  12a Cash charitable contributions STATEMENT 4 |   |   | 12a | 20,401.  |
+|   |  b Noncash charitable contributions |   |   | 12b |   |
+|   |  c Investment interest expense |   |   | 12c |   |
+|   |  d Section 59(a)(2) expenditures Type |   |   | 12d |   |
+|   |  e Other deductions (see instructions) Type |   |   | 12e |   |
+|   |  |   |   |   |   |
+|  Credits | 13a Low-income housing credit (section 42(j)(5)) |   |   | 13a |   |
+|   |  b Low-income housing credit (other) |   |   | 13b |   |
+|   |  c Qualified rehabilitation expenditures (rental real estate) (attach Form 3468, if applicable) |   |   | 13c |   |
+|   |  d Other rental real estate |   |   | 13d |   |
+|   |  e Credits (see instructions) Type |   |   | 13e |   |
+|   |  f Biofuel producer credit (attach Form 6478) |   |   | 13f |   |
+|   |  g Other credits |   |   | 13g |   |
+|   |  g (see instructions) Type |   |   |  |   |
+|  International | 14 Attach Schedule K-2 (Form 1120-S), Shareholders' Pro Rata Share Items - International, and check this box to indicate you are reporting items of international tax relevance |   |   |  |   |
+|  Alternative Minimum Tax (AMT) Items | 15a Post-1986 depreciation adjustment |   |   | 15a |   |
+|   |  b Adjusted gain or loss |   |   | 15b |   |
+|   |  c Depletion (other than oil and gas) |   |   | 15c |   |
+|   |  d Oil, gas, and geothermal properties - gross income |   |   | 15d |   |
+|   |  e Oil, gas, and geothermal properties - deductions |   |   | 15e |   |
+|   |  f Other AMT items (attach statement) |   |   | 15f |   |
+|   |  |   |   |   |   |
+|  Items Affecting Shareholder Basis | 16a Tax-exempt interest income |   |   | 16a |   |
+|   |  b Other tax-exempt income |   |   | 16b |   |
+|   |  c Nondeductible expenses STATEMENT 5 |   |   | 16c | 146,887.  |
+|   |  d Distributions (attach statement if required) |   |   | 16d |   |
+|   |  e Repayment of loans from shareholders |   |   | 16e |   |
+|   |  f Foreign taxes paid or accrued |   |   | 16f |   |
+
+Form 1120-S (2024)
+
+411721 12-10-24
+
+13350722 756350 18968000
+
+2024.04010 COM-JET CORPORATION
+
+18968001
+
+--- PAGE 4 ---
+Form 1120S (2024) COM-JET CORPORATION 59-2051580 Page 4
+
+|  Schedule K |   | Shareholders' Pro Rata Share Items (continued) |   |   |   | Total amount  |   |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  Other Information | 17a Investment income |   |   |   |   | 17a | 22,176.  |
+|   |  b Investment expenses |   |   |   |   | 17b |   |
+|   |  c Dividend distributions paid from accumulated earnings and profits |   |   |   |   | 17c |   |
+|   |  d Other items and amounts (at size) STATEMENT 6 |   |   |   |   |  |   |
+|  Recon-iliation | 18 Income (loss) reconciliation . Combine the total amounts on lines 1 through 10. From the result, subtract the sum of the amounts on lines 11 through 12d and 16f |   |   |   |   | 18 | 784,228.  |
+|  Schedule L |   | Balance Sheets per Books |   | Beginning of tax year |   | End of tax year  |   |
+|  Assets |   |   | (a) | (b) | (c) | (d)  |   |
+|  1 | Cash |   |  |  |  | 144,865.  |   |
+|  2a | Trade notes and accounts receivable |   | 1,620,327. |  | 2,433,425. |   |   |
+|  b | Less allowance for bad debts |   |  | 1,620,327. |  | 2,433,425.  |   |
+|  3 | Inventories |   |  | 1,982,041. |  | 2,086,632.  |   |
+|  4 | U.S. government obligations |   |  |  |  |   |   |
+|  5 | Tax-exempt securities |   |  |  |  |   |   |
+|  6 | Other current assets (att. stmt.) |   | STATEMENT 7 |  |  | 146.  |   |
+|  7 | Loans to shareholders |   |  | 82,536. |  |   |   |
+|  8 | Mortgage and real estate loans |   |  |  |  |   |   |
+|  9 | Other investments (att. stmt.) |   |  |  |  |   |   |
+|  10a | Buildings and other depreciable assets |   | 502,760. |  | 623,769. |   |   |
+|  b | Less accumulated depreciation |   | (388,402.) | 114,358. | (424,583.) | 199,186.  |   |
+|  11a | Depletable assets |   |  |  |  |   |   |
+|  b | Less accumulated depletion |   |  |  |  |   |   |
+|  12 | Land (net of any amortization) |   |  |  |  |   |   |
+|  13a | Intangible assets (amortizable only) |   | 241,421. |  | 241,422. |   |   |
+|  b | Less accumulated amortization |   | (133,222.) | 108,199. | (149,657.) | 91,765.  |   |
+|  14 | Other assets (att. stmt.) |   | STATEMENT 8 | 1,944,282. |  | 2,043,533.  |   |
+|  15 | Total assets |   |  | 5,851,743. |  | 6,999,552.  |   |
+|  Liabilities and Shareholders' Equity |   |   |  |  |  |   |   |
+|  16 | Accounts payable |   |  | 1,252,670. |  | 1,479,324.  |   |
+|  17 | Mortgages, notes, bonds payable in less than 1 year |   |  |  |  |   |   |
+|  18 | Other current liabilities (att. stmt.) |   | STATEMENT 9 | 345,444. |  | 221,377.  |   |
+|  19 | Loans from shareholders |   |  | 48,740. |  | 232,918.  |   |
+|  20 | Mortgages, notes, bonds payable in 1 year or more |   |  | 4,599,764. |  | 5,806,786.  |   |
+|  21 | Other liabilities (att. stmt.) |   | STATEMENT 10 | 1,068,987. |  | 0.  |   |
+|  22 | Capital stock |   |  | 500. |  | 500.  |   |
+|  23 | Additional paid-in capital |   |  | 784,095. |  | 784,095.  |   |
+|  24 | Retained earnings |   | STATEMENT 11 | -2,601,881. |  | -1,878,872.  |   |
+|  25 | Adjustments to shareholders' equity (att. stmt.) |   | STATEMENT 12 | 353,424. |  | 353,424.  |   |
+|  26 | Less cost of treasury stock |   |  |  |  |   |   |
+|  27 | Total liabilities and shareholders' equity |   |  | 5,851,743. |  | 6,999,552.  |   |
+
+Form 1120-S (2024)
+
+411731
+
+12-10-24
+
+13350722 756350 18968000
+
+2024.04010 COM-JET CORPORATION
+
+18968001
+
+--- PAGE 5 ---
+Form 1120-S (2024) COM-JET CORPORATION 59-2051580 Page 5
+
+## Schedule M-1 Reconciliation of Income (Loss) per Books With Income (Loss) per Return
+
+Note: The corporation may be required to file Schedule M-3. See instructions.
+
+|  1 | Net income (loss) per books | 723,009. | 5 Income recorded on books this year not included on Schedule K, lines 1 through 10 (itemize);
+a Tax-exempt interest $ |   |
+| --- | --- | --- | --- | --- |
+|  2 | Income included on Schedule K, lines 1, 2, 3c, 4, 5a, 6, 7, 8a, 9, and 10, not recorded on books this year (itemize): |  |  |   |
+|  3 | Expenses recorded on books this year not included on Schedule K, lines 1 through 12e, and 16f (itemize);
+a Depreciation $
+b Travel and entertainment $ 103,011.
+STMT 13 76,945. | 179,956. | 6 Deductions included on Schedule K, lines 1 through 12 and 16f, not charged against book income this year (itemize);
+a Depreciation $ 118,737. | 118,737.  |
+|  4 | Add lines 1 through 3 | 902,965. | 7 Add lines 5 and 6
+8 Income (loss) (Schedule K, line 18). Subtract line 7 from line 4 | 118,737.  |
+
+## Schedule M-2 Analysis of Accumulated Adjustments Account, Shareholders’ Undistributed Taxable Income Previously Taxed, Accumulated Earnings and Profits, and Other Adjustments Account (see instrs.)
+
+|  | (a) Accumulated
+adjustments account | (b) Shareholders’
+undistributed taxable
+income previously taxed | (c) Accumulated
+earnings and profits | (d) Other adjustments
+account |
+| --- | --- | --- | --- | --- |
+| 1 Balance at beginning of tax year | -1,454,260. |  |  |  |
+| 2 Ordinary income from page 1, line 22 | 936,614. |  |  |  |
+| 3 Other additions STATEMENT 14 | 22,176. |  |  |  |
+| 4 Loss from page 1, line 22 |  |  |  |  |
+| 5 Other reductions STATEMENT 15 | 321,449. |  |  |  |
+| 6 Combine lines 1 through 5 | -816,919. |  |  |  |
+| 7 Distributions |  |  |  |  |
+| 8 Balance at end of tax year. Subtract line 7 from line 6 | -816,919. |  |  |  |
+
+Form 1120-S (2024)
+
+411732
+12-10-24
+13350722 756350 18968000 2024.04010 COM-JET CORPORATION 18968001
+
+--- PAGE 6 ---
+Form 1125-A
+(Rev. November 2024)
+Department of the Treasury
+Internal Revenue Service
+
+# Cost of Goods Sold
+
+Attach to Form 1120, 1120-C, 1120-F, 1120S, or 1065.
+Go to www.irs.gov/Form1125A for the latest information.
+
+OMB No. 1545-0123
+
+|  Name
+COM-JET CORPORATION |   | Employer Identification number
+59-2051580  |   |
+| --- | --- | --- | --- |
+|  1 | Inventory at beginning of year | 1 | 1,982,041.  |
+|  2 | Purchases | 2 | 5,495,420.  |
+|  3 | Cost of labor | 3 | 2,565,478.  |
+|  4 | Additional section 263A costs (attach schedule) | 4 |   |
+|  5 | Other costs (attach schedule) SEE STATEMENT 17 | 5 | 187,807.  |
+|  6 | Total. Add lines 1 through 5 | 6 | 10,230,746.  |
+|  7 | Inventory at end of year | 7 | 2,086,632.  |
+|  8 | Cost of goods sold. Subtract line 7 from line 6. Enter here and on Form 1120, page 1, line 2, or the appropriate line of your tax return. See instructions | 8 | 8,144,114.  |
+
+9 a Check all methods used for valuing closing inventory. See instructions.
+
+(i) ☐ Cost
+(ii) ☑ Lower of cost or market
+(iii) ☐ Other (specify method used and attach explanation)
+
+For certain small business taxpayers, alternative methods of accounting for inventories:
+
+(iv) ☐ Non-incidental materials and supplies method
+(v) ☐ AFS method
+(vi) ☐ Non-AFS method
+
+b Check if there was a writedown of subnormal goods ☐
+c Check if the LIFO inventory method was adopted this tax year for any goods (if checked, attach Form 970) ☐
+d (i) If the LIFO inventory method was used for this tax year, enter amount of closing inventory figured under LIFO 9d(i) ☐
+(ii) If the LIFO inventory method was used for this tax year, enter amount of the closing LIFO Reserve 9d(ii) ☐
+
+e If property is produced or acquired for resale, do the rules of Section 263A apply to the entity? See instructions ☐ Yes ☑ No
+f Was there any change in determining quantities, cost, or valuations between opening and closing inventory? If "Yes," attach explanation ☐ Yes ☑ No
+
+For Paperwork Reduction Act Notice, see instructions.
+
+Form 1125-A (Rev. 11-2024)
+
+LHA 424441
+13350722 756350 18968000
+2024.04010 COM-JET CORPORATION
+18968001
+
+--- PAGE 7 ---
+Form 1125-E
+(Rev. October 2016)
+Department of the Treasury
+Internal Revenue Service
+OMB No. 1545-0123
+
+# Compensation of Officers
+
+► Attach to Form 1120, 1120-C, 1120-F, 1120-REIT, 1120-RIC, or 1120S.
+► Information about Form 1125-E and its separate instructions is at www.irs.gov/form1125e.
+
+Name
+COM-JET CORPORATION
+
+Employer Identification number
+59-2051580
+
+Note: Complete Form 1125-E only if total receipts are $500,000 or more. See instructions for definition of total receipts.
+
+|  (a) Name of officer | (b) Social security number | (c) Percent of time devoted to business | Percent of stock owned |   | (f) Amount of compensation  |
+| --- | --- | --- | --- | --- | --- |
+|   |   |   |  (d) Common | (e) Preferred  |   |
+|  JEANNETTE FOREMEN | 262-96-9168 |  |  |  | 108,000.  |
+|  MELANIE FOREMEN | 592-07-9965 |  |  |  | 175,000.  |
+|  MICHAEL A. FOREMEN | 593-07-0171 |  |  |  | 105,000.  |
+|  MICHELLE FOREMEN | 593-07-0240 |  |  |  | 74,100.  |
+|  MARISA FOREMEN | 593-07-2076 |  |  |  | 73,500.  |
+|  |   |   |   |   |   |
+|  |   |   |   |   |   |
+|  |   |   |   |   |   |
+|  |   |   |   |   |   |
+|  |   |   |   |   |   |
+|  |   |   |   |   |   |
+|  |   |   |   |   |   |
+|  |   |   |   |   |   |
+|  |   |   |   |   |   |
+|  |   |   |   |   |   |
+|  |   |   |   |   |   |
+|  |   |   |   |   |   |
+|  |   |   |   |   |   |
+|  |   |   |   |   |   |
+|  |   |   |   |   |   |
+|  2 Total compensation of officers |   |   |   | 2 | 535,600.  |
+|  3 Compensation of officers claimed on Form 1125-A or elsewhere on return |   |   |   | 3 |   |
+|  4 Subtract line 3 from line 2. Enter the result here and on Form 1120, page 1, line 12 or the appropriate line of your tax return |   |   |   | 4 | 535,600.  |
+
+For Paperwork Reduction Act Notice, see separate instructions.
+
+Form 1125-E (Rev. 10-2016)
+
+424451 04-01-24 LHA
+13350722 756350 18968000
+2024.04010 COM-JET CORPORATION
+18968001
+
+--- PAGE 8 ---
+Form 4562
+
+Department of the Treasury
+Internal Revenue Service
+
+Name(s) shown on return
+
+Date of application: 10/15/2024
+
+OTHER DEPRECIATION
+
+OMB No. 1545-0172
+
+2024
+
+Attachment Sequence No. 179
+
+# Depreciation and Amortization
+(Including Information on Listed Property)
+
+Attach to your tax return.
+
+Go to www.irs.gov/Form4562 for instructions and the latest information.
+
+|  Name(s) shown on return | Business or activity to which this form relates | Identifying number  |
+| --- | --- | --- |
+|  COM-JET CORPORATION | OTHER DEPRECIATION | 59-2051580  |
+
+Part I Election To Expense Certain Property Under Section 179 Note: If you have any listed property, complete Part V before you complete Part I.
+
+|  1 Maximum amount (see instructions) |   |   | 1 | 1,220,000.  |
+| --- | --- | --- | --- | --- |
+|  2 Total cost of section 179 property placed in service (see instructions) |   |   | 2 | 121,010.  |
+|  3 Threshold cost of section 179 property before reduction in limitation |   |   | 3 | 3,050,000.  |
+|  4 Reduction in limitation. Subtract line 3 from line 2. If zero or less, enter -0- |   |   | 4 |   |
+|  5 Dollar limitation for tax year. Subtract line 4 from line 1. If zero or less, enter -0-. If married filing separately, see instructions |   |   | 5 | 1,220,000.  |
+|  6(a) Description of property | (b) Cost (business use only) | (c) Elected cost |  |   |
+|  |   |   |   |   |
+|  |   |   |   |   |
+|  |   |   |   |   |
+|  SEE STATEMENT 18 | 121,010. | 121,010. |  |   |
+|  7 Listed property. Enter the amount from line 29 | 7 |  |  |   |
+|  8 Total elected cost of section 179 property. Add amounts in column (c), lines 6 and 7 |   |   | 8 | 121,010.  |
+|  9 Tentative deduction. Enter the smaller of line 5 or line 8 |   |   | 9 | 121,010.  |
+|  10 Carryover of disallowed deduction from line 13 of your 2023 Form 4562 |   |   | 10 | 33,151.  |
+|  11 Business income limitation. Enter the smaller of business income (not less than zero) or line 5 |   |   | 11 | 936,614.  |
+|  12 Section 179 expense deduction. Add lines 9 and 10, but don't enter more than line 11 |   |   | 12 | 154,161.  |
+|  13 Carryover of disallowed deduction to 2025. Add lines 9 and 10, less line 12 |   |   | 13 |   |
+
+Note: Don't use Part II or Part III below for listed property. Instead, use Part V.
+
+Part II Special Depreciation Allowance and Other Depreciation (Don't include listed property.)
+
+|  14 Special depreciation allowance for qualified property (other than listed property) placed in service during the tax year |   |   | 14 |   |
+| --- | --- | --- | --- | --- |
+|  15 Property subject to section 168(f)(1) election |   |   | 15 |   |
+|  16 Other depreciation (including ACRS) |   |   | 16 | 154.  |
+
+Part III MACRS Depreciation (Don't include listed property. See instructions.)
+
+Section A
+
+|  17 | MACRS deductions for assets placed in service in tax years beginning before 2024 | 17 | 603.  |
+| --- | --- | --- | --- |
+|  18 | If you are electing to group any assets placed in service during the tax year into one or more general asset accounts, check here | ☐ |   |
+
+Section B - Assets Placed in Service During 2024 Tax Year Using the General Depreciation System
+
+|  (a) Classification of property |   | (b) Month and year placed in service | (c) Basis for depreciation (business/investment use only - see instructions) | (d) Recovery period | (e) Convention | (f) Method | (g) Depreciation deduction  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  19a | 3-year property |  |  |  |  |  |   |
+|  b | 5-year property |  |  |  |  |  |   |
+|  c | 7-year property |  |  |  |  |  |   |
+|  d | 10-year property |  |  |  |  |  |   |
+|  e | 15-year property |  |  |  |  |  |   |
+|  f | 20-year property |  |  |  |  |  |   |
+|  g | 25-year property |  |  | 25 yrs. |  | S/L |   |
+|  h | Residential rental property | / |  | 27.5 yrs. | MM | S/L |   |
+|   |   |  / |  | 27.5 yrs. | MM | S/L |   |
+|  i | Nonresidential real property | / |  | 39 yrs. | MM | S/L |   |
+|   |   |  / |  |  | MM | S/L |   |
+
+Section C - Assets Placed in Service During 2024 Tax Year Using the Alternative Depreciation System
+
+|  20a | Class life |  |  |  |  | S/L |   |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  b | 12-year |  |  | 12 yrs. |  | S/L |   |
+|  c | 30-year | / |  | 30 yrs. | MM | S/L |   |
+|  d | 40-year | / |  | 40 yrs. | MM | S/L |   |
+
+Part IV Summary (See instructions.)
+
+|  21 | Listed property. Enter amount from line 28 | 21 |   |
+| --- | --- | --- | --- |
+|  22 | Total. Add amounts from line 12, lines 14 through 17, lines 19 and 20 in column (g), and line 21. Enter here and on the appropriate lines of your return. Partnerships and S corporations - see instr. | 22 | 757.  |
+|  23 | For assets shown above and placed in service during the current year, enter the portion of the basis attributable to section 263A costs | 23 |   |
+
+416251 12-20-24 LHA For Paperwork Reduction Act Notice, see separate instructions.
+
+Form 4562 (2024)
+
+--- PAGE 9 ---
+Form 4562 (2024)
+COM-JET CORPORATION
+59-2051580
+Page 2
+
+Part V Listed Property (Include automobiles, certain other vehicles, certain aircraft, and property used for entertainment, recreation, or amusement.)
+Note: For any vehicle for which you are using the standard mileage rate or deducting lease expense, complete only 24a, 24b, columns (a) through (c) of Section A, all of Section B, and Section C if applicable.
+
+Section A - Depreciation and Other Information (Caution: See the instructions for limits for passenger automobiles.)
+
+|  24a Do you have evidence to support the business/investment use claimed? |   |   |   | ☑ | Yes | ☐ | No | 24b If "Yes," is the evidence written? |   | ☑ | Yes | ☐ | No  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  (a) Type of property (list vehicles first) | (b) Date placed in service | (c) Business/investment use percentage | (d) Cost or other basis | (e) Basis for depreciation (business/investment use only) |   | (f) Recovery period |   | (g) Method/ Convention |   | (h) Depreciation deduction |   | (i) Elected section 179 cost  |   |
+|  25 Special depreciation allowance for qualified listed property placed in service during the tax year and used more than 50% in a qualified business use |   |   |   |   |   |   |   |   | 25 |  |   |   |   |
+
+26 Property used more than 50% in a qualified business use:
+
+|  AUTOMOTIVE | 042017 | 100.00 % | 4,310. |  | 5.00 | 200DB-HY |  |   |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|   | : | % |  |  | . |  |  |   |
+|   | : | % |  |  |  |  |  |   |
+
+27 Property used 50% or less in a qualified business use:
+
+|   | : | % |  |  | S/L - |   |
+| --- | --- | --- | --- | --- | --- | --- |
+|   | : | % |  |  | S/L - |   |
+|   | : | % |  |  | S/L - |   |
+|  28 Add amounts in column (h), lines 25 through 27. Enter here and on line 21, page 1 |   |   |   |   | 28 |   |
+|  29 Add amounts in column (i), line 26. Enter here and on line 7, page 1 |   |   |   |   |   | 29  |
+
+Section B - Information on Use of Vehicles
+
+Complete this section for vehicles used by a sole proprietor, partner, or other "more than 5% owner," or related person. If you provided vehicles to your employees, first answer the questions in Section C to see if you meet an exception to completing this section for those vehicles.
+
+|  30 Total business/investment miles driven during the year (don't include commuting miles) | (a) Vehicle 1 |   | (b) Vehicle 2 |   | (c) Vehicle 3 |   | (d) Vehicle 4 |   | (e) Vehicle 5 |   | (f) Vehicle 6  |   |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|   |  |   |   |   |   |   |   |   |   |   |   |   |
+|  31 Total commuting miles driven during the year ... |  |   |  |   |  |   |  |   |  |   |   |   |
+|  32 Total other personal (noncommuting) miles driven |  |   |  |   |  |   |  |   |  |   |   |   |
+|  33 Total miles driven during the year. Add lines 30 through 32 |  |   |  |   |  |   |  |   |  |   |   |   |
+|  34 Was the vehicle available for personal use during off-duty hours? | Yes | No | Yes | No | Yes | No | Yes | No | Yes | No | Yes | No  |
+|   |  |   |   |   |   |   |   |   |   |   |   |   |
+|  35 Was the vehicle used primarily by a more than 5% owner or related person? |  |  |  |  |  |  |  |  |  |  |  |   |
+|  36 Is another vehicle available for personal use? |  |  |  |  |  |  |  |  |  |  |  |   |
+
+Section C - Questions for Employers Who Provide Vehicles for Use by Their Employees
+
+Answer these questions to determine if you meet an exception to completing Section B for vehicles used by employees who aren't more than 5% owners or related persons.
+
+|  37 Do you maintain a written policy statement that prohibits all personal use of vehicles, including commuting, by your employees? | Yes | No  |
+| --- | --- | --- |
+|  38 Do you maintain a written policy statement that prohibits personal use of vehicles, except commuting, by your employees? See the instructions for vehicles used by corporate officers, directors, or 1% or more owners |  |   |
+|  39 Do you treat all use of vehicles by employees as personal use? |  |   |
+|  40 Do you provide more than five vehicles to your employees, obtain information from your employees about the use of the vehicles, and retain the information received? |  |   |
+|  41 Do you meet the requirements concerning qualified automobile demonstration use? |  |   |
+|  Note: If your answer to 37, 38, 39, 40, or 41 is "Yes," don't complete Section B for the covered vehicles.  |   |   |
+
+Part VI Amortization
+
+|  (a) Description of costs | (b) Date amortization begins | (c) Amortizable amount | (d) Code section | (e) Amortization period or percentage | (f) Amortization for this year  |
+| --- | --- | --- | --- | --- | --- |
+
+42 Amortization of costs that begins during your 2024 tax year:
+
+|  |   |   |   |   |   |
+| --- | --- | --- | --- | --- | --- |
+|  |   |   |   |   |   |
+
+43 Amortization of costs that began before your 2024 tax year
+44 Total. Add amounts in column (f). See the instructions for where to report
+
+|  43 | 16,435.  |
+| --- | --- |
+|  44 | 16,435.  |
+
+416252 12-20-24
+Form 4562 (2024)
+
+--- PAGE 10 ---
+2024 DEPRECIATION AND AMORTIZATION REPORT
+
+OTHER DEPRECIATION
+OTHER
+
+|  Asset No | Description | Date Acquired | Method | Life | C P I | Line No. | Unadjusted Cost Or Basis | Bus % Excl | Section 179 Expense | Reduction In Basis | Basis For Depreciation | Beginning Accumulated Depreciation | Current Sec 179 Expense | Current Year Deduction | Ending Accumulated Depreciation  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  4 | FURNITURE & FIXTURES | 07/01/11 | 200DM | 7.00 | HY | 17 | 838. |  |  |  | 838. | 838. |  | 0. | 838.  |
+|  5 | FURNITURE & FIXTURES | 07/01/12 | 200DM | 7.00 | HY | 17 | 1,600. |  |  |  | 1,600. | 1,600. |  | 0. | 1,600.  |
+|  17 | FURNITURE & FIXTURES | 03/31/13 | 200DM | 7.00 | HY | 17 | 1,850. |  |  |  | 1,850. | 1,850. |  | 0. | 1,850.  |
+|  34 | SHELVING | 06/23/15 | 200DM | 7.00 | HY | 17 | 930. |  | 930. |  |  |  |  | 0. |   |
+|  39 | OFFICE FURNITURE | 10/05/16 | 200DM | 7.00 | HY | 17 | 7,995. |  | 7,995. |  |  |  |  | 0. |   |
+|  49 | FURNITURE | 10/19/17 | 200DM | 7.00 | HY | 17 | 10,420. |  | 10,420. |  |  |  |  | 0. |   |
+|  50 | FURNITURE | 07/05/18 | 200DM | 7.00 | HY | 17 | 6,654. |  | 6,654. |  |  |  |  | 0. |   |
+|  54 | GULFSTREAM CONTAINER | 10/12/22 | 200DM | 7.00 | MJ | 17 | 2,700. |  |  | 2,700. |  |  |  | 0. |   |
+|  73 | NATIONAL BUSINESS FURNITURE | 01/31/23 | 200DM | 7.00 | HY | 17 | 11,843. |  | 11,843. |  |  |  |  | 0. |   |
+|  74 | FURNITURE & FIXTURES | 03/30/23 | 200DM | 7.00 | HY | 17 | 3,250. |  | 3,250. |  |  |  |  | 0. |   |
+|  77 | FURNITURE & FIXTURES | 12/13/23 | 200DM | 7.00 | HY | 17 | 10,000. |  | 10,000. |  |  |  |  | 0. |   |
+|  85 | CARRYOVER FROM 2023 ASSET # 73 |  |  |  |  | 10 |  |  |  |  |  |  | 11,843. | 11,843. |   |
+|  86 | CARRYOVER FROM 2023 ASSET # 74 |  |  |  |  | 10 |  |  |  |  |  |  | 3,250. | 3,250. |   |
+|  87 | CARRYOVER FROM 2023 ASSET # 77 |  |  |  |  | 10 |  |  |  |  |  |  | 10,000. | 10,000. |   |
+|  89 | FURNITURE & FIXTURES | 03/11/24 | 200DM | 7.00 | HY | 19C | 9,950. |  | 9,950. |  |  |  | 9,950. | 9,950. |   |
+|  90 | FURNITURE & FIXTURES | 07/26/24 | 200DM | 7.00 | HY | 19C | 14,913. |  | 14,913. |  |  |  | 14,913. | 14,913. |   |
+|  96 | FURNITURE & FIXTURES | 11/08/24 | 200DM | 7.00 | HY | 19C | 14,913. |  | 14,913. |  |  |  | 14,913. | 14,913. |   |
+|  97 | FURNITURE & FIXTURES | 06/12/24 | 200DM | 7.00 | HY | 19C | 55,000. |  | 55,000. |  |  |  | 55,000. | 55,000. |   |
+
+428111 04-01-24
+
+(D) - Asset disposed
+
+* ITC, Salvage, Bonus, Commercial Revitalization Deduction, GO Zone
+
+--- PAGE 11 ---
+2024 DEPRECIATION AND AMORTIZATION REPORT
+
+OTHER DEPRECIATION
+OTHER
+
+|  Asset No. | Description | Date Acquired | Method | Life | C. P. D. | Life No. | Unadjusted Cost Or Basis | Bus % Excl | Section 179 Expense | Reduction In Basis | Basis For Depreciation | Beginning Accumulated Depreciation | Current Sec 179 Expense | Current Year Deduction | Ending Accumulated Depreciation  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|   | " OTHER TOTAL - |  |  |  |  |  | 152,856, |  | 145,868, | 2,700, | 4,288, | 4,288, | 119,869, | 119,869, | 4,288,  |
+|  10 | OFFICE EQUIPMENT | 07/01/11 | 200DM | 7.00 | HY | 17 | 5,524, |  |  |  | 5,524, | 5,524, |  | 0, | 5,524,  |
+|  12 | OFFICE EQUIPMENT | 07/01/12 | 200DM | 7.00 | HY | 17 | 898, |  |  |  | 898, | 898, |  | 0, | 898,  |
+|  19 | OFFICE EQUIPMENT | 10/31/13 | 200DM | 7.00 | HY | 17 | 1,275, |  |  |  | 1,275, | 1,275, |  | 0, | 1,275,  |
+|  24 | COMPUTER | 05/30/14 | 200DM | 5.00 | HY | 17 | 3,133, |  |  |  | 3,133, | 3,133, |  | 0, | 3,133,  |
+|  40 | OFFICE EQUIPMENT | 11/02/16 | 200DM | 7.00 | HY | 17 | 21,114, |  | 21,114, |  |  |  |  | 0, |   |
+|  47 | OFFICE EQUIPMENT | 06/27/17 | 200DM | 7.00 | HY | 17 | 284, |  | 284, |  |  |  |  | 0, |   |
+|  51 | OFFICE EQUIPMENT | 10/01/18 | 200DM | 7.00 | HY | 17 | 3,163, |  | 3,163, |  |  |  |  | 0, |   |
+|  55 | NETWORK COMPUTER PROS | 10/31/22 | 200DM | 5.00 | MQ | 17 | 2,503, |  |  | 2,503, |  |  |  | 0, |   |
+|  62 | OFFICE EQUIPMENT | 11/17/19 | 200DM | 5.00 | HY | 17 | 3,206, |  |  | 3,206, |  |  |  | 0, |   |
+|  63 | 2 DELL COMPUTERS | 05/05/20 | 200DM | 5.00 | HY | 17 | 2,873, |  |  | 2,873, |  |  |  | 0, |   |
+|   | " OTHER TOTAL - |  |  |  |  |  | 43,973, |  | 24,561, | 8,582, | 10,830, | 10,830, |  | 0, | 10,830,  |
+|  11 | MACHINERY & EQUIPMENT | 07/01/11 | 200DM | 7.00 | HY | 17 | 6,057, |  |  |  | 6,057, | 6,057, |  | 0, | 6,057,  |
+|  13 | SHOP EQUIPMENT | 07/01/12 | 200DM | 7.00 | HY | 17 | 17,961, |  |  |  | 17,961, | 17,961, |  | 0, | 17,961,  |
+|  18 | OFFICE EQUIPMENT | 08/31/13 | 200DM | 7.00 | HY | 17 | 560, |  |  |  | 560, | 560, |  | 0, | 560,  |
+|  20 | MACHINERY & EQUIPMENT | 02/28/13 | 200DM | 7.00 | HY | 17 | 950, |  |  |  | 950, | 950, |  | 0, | 950,  |
+|  21 | MACHINERY & EQUIPMENT | 08/31/13 | 200DM | 7.00 | HY | 17 | 2,615, |  |  |  | 2,615, | 2,615, |  | 0, | 2,615,  |
+|  22 | MACHINERY & EQUIPMENT | 12/31/13 | 200DM | 7.00 | HY | 17 | 9,398, |  |  |  | 9,398, | 9,398, |  | 0, | 9,398,  |
+
+428111 04-01-24
+(D) - Asset disposed
+* ITC, Salvage, Bonus, Commercial Revitalization Deduction, GO Zone
+
+--- PAGE 12 ---
+2024 DEPRECIATION AND AMORTIZATION REPORT
+
+OTHER DEPRECIATION
+
+|  Asset No | Description | Date Acquired | Method | Life | C. P. T. | Lime No. | Unadjusted Cost Or Basis | Bus % Excl | Section 179 Expense | Reduction In Basis | Basis For Depreciation | Beginning Accumulated Depreciation | Current Sec 179 Expense | Current Year Deduction | Ending Accumulated Depreciation  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  23 | EQUIPMENT | 06/30/13 | 200DN | 7.00 | HY17 |  | 1,500, |  |  |  | 1,500, | 1,500, |  | 0, | 1,500,  |
+|  25 | COMPUTER | 03/18/14 | 200DN | 5.00 | HY17 |  | 2,859, |  |  |  | 2,859, | 2,859, |  | 0, | 2,859,  |
+|  26 | COMPUTER | 03/18/14 | 200DN | 5.00 | HY17 |  | 2,932, |  |  |  | 2,932, | 2,932, |  | 0, | 2,932,  |
+|  27 | SECURITY CAMERA | 11/25/14 | 200DN | 7.00 | HY17 |  | 4,500, |  |  |  | 4,500, | 4,500, |  | 0, | 4,500,  |
+|  28 | SECURITY CAMERA | 10/08/14 | 200DN | 7.00 | HY17 |  | 3,571, |  |  |  | 3,571, | 3,571, |  | 0, | 3,571,  |
+|  29 | TOOLS | 04/25/14 | 200DN | 7.00 | HY17 |  | 1,475, |  |  |  | 1,475, | 1,475, |  | 0, | 1,475,  |
+|  30 | TOOLS | 03/04/14 | 200DN | 7.00 | HY17 |  | 1,750, |  |  |  | 1,750, | 1,750, |  | 0, | 1,750,  |
+|  31 | TOOLS | 07/17/14 | 200DN | 7.00 | HY17 |  | 375, |  |  |  | 375, | 375, |  | 0, | 375,  |
+|  32 | OVEN | 05/23/14 | 200DN | 7.00 | HY17 |  | 19,373, |  |  |  | 19,373, | 19,373, |  | 0, | 19,373,  |
+|  33 | TOOLS | 01/21/14 | 200DN | 7.00 | HY17 |  | 1,100, |  |  |  | 1,100, | 1,100, |  | 0, | 1,100,  |
+|  35 | TOOLING | 08/04/15 | 200DN | 7.00 | HY17 |  | 650, |  | 650, |  |  |  |  | 0, |   |
+|  36 | TOOLING | 09/02/15 | 200DN | 7.00 | HY17 |  | 1,488, |  | 1,488, |  |  |  |  | 0, |   |
+|  37 | TOOLING | 09/02/15 | 200DN | 7.00 | HY17 |  | 370, |  | 370, |  |  |  |  | 0, |   |
+|  38 | CAMERA | 01/13/15 | 200DN | 7.00 | HY17 |  | 2,660, |  | 2,660, |  |  |  |  | 0, |   |
+|  41 | MACHINERY EQUIPMENT | 12/16/16 | 200DN | 7.00 | HY17 |  | 60,961, |  | 60,961, |  |  |  |  | 0, |   |
+|  42 | PRO-FINISH - FL SILICA | 02/09/17 | 200DN | 7.00 | HY17 |  | 81,631, |  | 81,631, |  |  |  |  | 0, |   |
+|  43 | ELECTRICAL TEST PANEL ELECTRONIC TEST CONSOLE | 01/24/17 | 200DN | 7.00 | HY17 |  | 3,200, |  | 3,200, |  |  |  |  | 0, |   |
+|  44 | INTERFACE | 07/11/17 | 200DN | 7.00 | HY17 |  | 3,500, |  | 3,500, |  |  |  |  | 0, |   |
+
+42B111 04-01-24
+
+(D) - Asset disposed
+
+* ITC, Salvage, Bonus, Commercial Revitalization Deduction, GO Zone
+
+--- PAGE 13 ---
+2024 DEPRECIATION AND AMORTIZATION REPORT
+
+OTHER DEPRECIATION
+
+OTHER
+
+|  Agent No | Description | Date Acquired | Method | Life | Con | Lift | Upset | Unadjusted Cost Or Basis | Bus % Excl | Section 179 Expense | Reduction In Basis | Basis For Depreciation | Beginning Accumulated Depreciation | Current Sec 179 Expense | Current Year Deduction | Ending Accumulated Depreciation  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  45 | INTERFACE BOX FOR CRJ | 04/25/17 | 200DN | 7.00 | HY | 17 | 4,200, |  | 4,200, |  |  |  |  |  | 0, |   |
+|  48 | MACHINERY | 11/30/17 | 200DN | 7.00 | HY | 17 | 10,978, |  | 10,978, |  |  |  |  |  | 0, |   |
+|  52 | MACHINERY | 12/12/18 | 200DN | 7.00 | HY | 17 | 32,486, |  | 32,486, |  |  |  |  |  | 0, |   |
+|  56 | PLATING PROCESS TANKS WITH ACCESSORIES | 10/31/22 | 200DN | 7.00 | MC | 17 | 7,000, |  |  | 7,000, |  |  |  |  | 0, |   |
+|  61 | EQUIPMENT | 11/04/19 | 200DN | 7.00 | HY | 17 | 40,867, |  |  | 40,867, |  |  |  |  | 0, |   |
+|  64 | METALMAQ MODEL 3VKH VERTICAL MILL | 06/15/20 | 200DN | 7.00 | HY | 17 | 25,771, |  |  | 25,771, |  |  |  |  | 0, |   |
+|  69 | DAKE 50 TON HYDRAULIC PRESS | 04/16/21 | 200DN | 7.00 | HY | 17 | 3,266, |  |  | 3,266, |  |  |  |  | 0, |   |
+|  78 | MSC BORING MILL | 01/25/23 | 200DN | 7.00 | HY | 17 | 8,058, |  | 8,058, |  |  |  |  |  | 0, |   |
+|  88 | CARRYOVER FROM 2023 ASSET # 78 |  |  |  |  | 10 |  |  |  |  |  |  |  | 8,058, | 8,058, |   |
+|  91 | MACHINERY & EQUIPMENT | 09/24/24 | 200DN | 7.00 | HY | 19C | 3,390, |  | 3,390, |  |  |  |  | 3,390, | 3,390, |   |
+|  92 | MACHINERY & EQUIPMENT | 10/15/24 | 200DN | 7.00 | HY | 19C | 8,271, |  | 8,271, |  |  |  |  | 8,271, | 8,271, |   |
+|  93 | MACHINERY & EQUIPMENT | 10/22/24 | 200DN | 7.00 | HY | 19C | 3,518, |  | 3,518, |  |  |  |  | 3,518, | 3,518, |   |
+|  94 | MACHINERY & EQUIPMENT | 11/22/24 | 200DN | 7.00 | HY | 19C | 5,527, |  | 5,527, |  |  |  |  | 5,527, | 5,527, |   |
+|  95 | MACHINERY & EQUIPMENT | 12/03/24 | 200DN | 7.00 | HY | 19C | 5,528, |  | 5,528, |  |  |  |  | 5,528, | 5,528, |   |
+|   | " OTHER TOTAL - |  |  |  |  |  | 390,296, |  | 236,416, | 76,904, | 76,976, | 76,976, | 34,292, | 34,292, | 76,976, |   |
+|  15 | TECHNICAL LIBRARY | 07/01/11 | 200DN | 7.00 | HY | 17 | 1,479, |  |  |  | 1,479, | 1,479, |  |  | 0, | 1,479,  |
+|   | " OTHER TOTAL - |  |  |  |  |  | 1,479, |  |  |  | 1,479, | 1,479, |  |  | 0, | 1,479,  |
+|  6 | LEASEHOLD IMPROVEMENTS | 07/01/12 | SL | 39.00 |  | 16 | 6,000, |  |  |  | 6,000, | 1,764, |  |  | 154, | 1,918,  |
+
+428111 04-01-24
+
+(D) - Asset disposed
+
+* ITC, Salvage, Bonus, Commercial Revitalization Deduction, GO Zone
+
+--- PAGE 14 ---
+2024 DEPRECIATION AND AMORTIZATION REPORT
+
+OTHER DEPRECIATION
+OTHER
+
+|  Asset No | Description | Date Acquired | Method | Life | Service | Line No. | Unadjusted Cost Or Basis | Bus % Excl | Section 179 Expense | Reduction In Basis | Basis For Depreciation | Beginning Accumulated Depreciation | Current Sec 179 Expense | Current Year Deduction | Ending Accumulated Depreciation  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  57 | A/C SYSTEM | 03/07/22 | SL | 39.00 | NM | 17 | 23,500. |  |  |  | 23,500. | 1,080. |  | 603. | 1,683.  |
+|   |  " OTHER TOTAL - |  |  |  |  |  | 29,500. |  |  |  | 29,500. | 2,844. |  | 757. | 3,601.  |
+|  46 | AUTOMOTIVE | 04/20/17 | 200DM | 5.00 | HX | 21 | 4,310. |  | 4,310. |  |  |  |  | 0. |   |
+|  53 | AUTOMOTIVE | 07/20/18 | 200DM | 5.00 | HX | 17 | 1,524. |  | 1,524. |  |  |  |  | 0. |   |
+|   |  " OTHER TOTAL - |  |  |  |  |  | 5,834. |  | 5,834. |  | 0. | 0. |  | 0. | 0.  |
+|  65 | PILOT LOAN COSTS | 08/01/20 |  | 120M |  | 43 | 164,353. |  |  |  | 164,353. | 56,153. |  | 16,435. | 72,588.  |
+|  72 | AEGIS LOAN COSTS | 06/01/21 |  | 12M |  | 43 | 77,069. |  |  |  | 77,069. | 77,069. |  | 0. | 77,069.  |
+|   |  " OTHER TOTAL - |  |  |  |  |  | 241,422. |  |  |  | 241,422. | 133,222. |  | 16,435. | 149,657.  |
+|   |  " GRAND TOTAL OTHER DEPR & AMORT |  |  |  |  |  | 865,360. |  | 412,679. | 88,186. | 364,495. | 229,639. | 154,161. | 171,353. | 246,831.  |
+|   |  LESS: SEC 179 ALLOC TO SHAREHOLDERS |  |  |  |  |  |  |  |  |  |  |  |  | 154,161. |   |
+|   |  NET DEPRECIATION |  |  |  |  |  |  |  |  |  |  |  |  | 17,192. |   |
+|   |  CURRENT YEAR ACTIVITY |  |  |  |  |  |  |  |  |  |  |  |  |  |   |
+|   |  BEGINNING BALANCE |  |  |  |  |  | 744,350. |  | 291,669. | 88,186. | 364,495. | 229,639. |  |  | 246,831.  |
+|   |  ACQUISITIONS |  |  |  |  |  | 121,010. |  | 121,010. | 0. | 0. | 0. |  |  | 0.  |
+|   |  DISPOSITIONS/RETIRED |  |  |  |  |  | 0. |  | 0. | 0. | 0. | 0. |  |  | 0.  |
+|  ENDING BALANCE |  |  |  |  |  | 865,360. |  | 412,679. | 88,186. | 364,495. | 229,639. |  |  | 246,831.  |   |
+
+428111 04-01-24
+
+(D) - Asset disposed
+
+* ITC, Salvage, Bonus, Commercial Revitalization Deduction, GO Zone
+
+--- PAGE 15 ---
+4562
+
+Department of the Treasury
+Internal Revenue Service
+
+BOOK Depreciation and Amortization
+(Including Information on Listed Property) OTHER
+Attach to your tax return.
+Go to www.irs.gov/Form4562 for instructions and the latest information.
+
+OMB No. 1545-0172
+2024
+Attachment
+Sequence No. 179
+
+Name(s) shown on return
+Business or activity to which this form relates
+Identifying number
+
+COM-JET CORPORATION
+OTHER DEPRECIATION
+59-2051580
+
+Part I Election To Expense Certain Property Under Section 179 Note: If you have any listed property, complete Part V before you complete Part I.
+
+|  1 Maximum amount (see instructions) |   |   | 1 | 1,220,000.  |
+| --- | --- | --- | --- | --- |
+|  2 Total cost of section 179 property placed in service (see instructions) |   |   | 2 |   |
+|  3 Threshold cost of section 179 property before reduction in limitation |   |   | 3 | 3,050,000.  |
+|  4 Reduction in limitation. Subtract line 3 from line 2. If zero or less, enter -0- |   |   | 4 |   |
+|  5 Dollar limitation for tax year. Subtract line 4 from line 1. If zero or less, enter -0-. If married filing separately, see instructions |   |   | 5 |   |
+|  6 (a) Description of property | (b) Cost (business use only) | (c) Elected cost |  |   |
+|  |   |   |   |   |
+|  |   |   |   |   |
+|  |   |   |   |   |
+|  |   |   |   |   |
+|  7 Listed property. Enter the amount from line 29 |   | 7 |  |   |
+|  8 Total elected cost of section 179 property. Add amounts in column (c), lines 6 and 7 |   |   | 8 |   |
+|  9 Tentative deduction. Enter the smaller of line 5 or line 8 |   |   | 9 |   |
+|  10 Carryover of disallowed deduction from line 13 of your 2023 Form 4562 |   |   | 10 |   |
+|  11 Business income limitation. Enter the smaller of business income (not less than zero) or line 5 |   |   | 11 |   |
+|  12 Section 179 expense deduction. Add lines 9 and 10, but don't enter more than line 11 |   |   | 12 |   |
+|  13 Carryover of disallowed deduction to 2025. Add lines 9 and 10, less line 12 |   | 13 |  |   |
+
+Note: Don't use Part II or Part III below for listed property. Instead, use Part V.
+
+Part II Special Depreciation Allowance and Other Depreciation (Don't include listed property.)
+
+|  14 Special depreciation allowance for qualified property (other than listed property) placed in service during the tax year |   |   | 14 |   |
+| --- | --- | --- | --- | --- |
+|  15 Property subject to section 168(f)(1) election |   |   | 15 |   |
+|  16 Other depreciation (including ACRS) |   |   | 16 | 36,181.  |
+|  Part III | MACRS Depreciation (Don't include listed property. See instructions.)  |   |   |   |
+
+Section A
+
+|  17 | MACRS deductions for assets placed in service in tax years beginning before 2024 | 17 |   |
+| --- | --- | --- | --- |
+|  18 | If you are electing to group any assets placed in service during the tax year into one or more general asset accounts, check here |  |   |
+
+Section B - Assets Placed in Service During 2024 Tax Year Using the General Depreciation System
+
+|  (a) Classification of property |   | (b) Month and year placed in service | (c) Basis for depreciation (business/investment use only - see instructions) | (d) Recovery period | (e) Convention | (f) Method | (g) Depreciation deduction  |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  19a | 3-year property |  |  |  |  |  |   |
+|  b | 5-year property |  |  |  |  |  |   |
+|  c | 7-year property |  |  |  |  |  |   |
+|  d | 10-year property |  |  |  |  |  |   |
+|  e | 15-year property |  |  |  |  |  |   |
+|  f | 20-year property |  |  |  |  |  |   |
+|  g | 25-year property |  |  | 25 yrs. |  | S/L |   |
+|  h | Residential rental property | / |  | 27.5 yrs. | MM | S/L |   |
+|   |   |  / |  | 27.5 yrs. | MM | S/L |   |
+|  i | Nonresidential real property | / |  | 39 yrs. | MM | S/L |   |
+|   |   |  / |  |  | MM | S/L |   |
+
+Section C - Assets Placed in Service During 2024 Tax Year Using the Alternative Depreciation System
+
+|  20a | Class life |  |  |  |  | S/L |   |
+| --- | --- | --- | --- | --- | --- | --- | --- |
+|  b | 12-year |  |  | 12 yrs. |  | S/L |   |
+|  c | 30-year | / |  | 30 yrs. | MM | S/L |   |
+|  d | 40-year | / |  | 40 yrs. | MM | S/L |   |
+
+Part IV Summary (See instructions.)
+
+|  21 | Listed property. Enter amount from line 28 |   |   | 21 |   |
+| --- | --- | --- | --- | --- | --- |
+|  22 | Total. Add amounts from line 12, lines 14 through 17, lines 19 and 20 in column (g), and line 21. Enter here and on the appropriate lines of your return. Partnerships and S corporations - see instr. |   |   | 22 | 36,181.  |
+|  23 | For assets shown above and placed in service during the current year, enter the portion of the basis attributable to section 263A costs |   | 23 |  |   |
+
+416251 12-20-24 LHA For Paperwork Reduction Act Notice, see separate instructions.
+
+13350722 756350 18968000
+
+2024.04010 COM-JET CORPORATION
+
+Form 4562 (2024)
+
+18968001
+
+--- PAGE 16 ---
+Form 4562 (2024)
+COM-JET CORPORATION
+59-2051580
+Page 2
+
+Part V Listed Property (Include automobiles, certain other vehicles, certain aircraft, and property used for entertainment, recreation, or amusement.)
+Note: For any vehicle for which you are using the standard mileage rate or deducting lease expense, complete only 24a, 24b, columns (a) through (c) of Section A, all of Section B, and Section C if applicable.
+
+Section A - Depreciation and Other Information (Caution: See the instructions for limits for passenger automobiles.)
+
+|  24a Do you have evidence to support the business/investment use claimed? |   |   |   | ☑ | Yes | ☐ | No | 24b If “Yes,” is the evidence written? |   |   | ☑ | Yes | ☐ | No  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  (a) Type of property (list vehicles first) | (b) Date placed in service | (c) Business/investment use percentage | (d) Cost or other basis | (e) Basis for depreciation (business/investment use only) |   | (f) Recovery period |   | (g) Method/Convention |   | (h) Depreciation deduction |   | (i) Elected section 179 cost |   |   |
+|  25 Special depreciation allowance for qualified listed property placed in service during the tax year and used more than 50% in a qualified business use |   |   |   |   |   |   |   |   | 25 |  |   |  |   |   |
+
+26 Property used more than 50% in a qualified business use:
+
+|  AUTOMOTIVE | 042017 | 100.00 % | 4,310. | 4,310. | 5.00 | SL | -HY |  |   |   |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|   |  | % |  |  |  |  |  |  |   |   |
+|   |  | % |  |  |  |  |  |  |   |   |
+
+27 Property used 50% or less in a qualified business use:
+
+|   | : | % |  |  |  | S/L - |  |   |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|   | : | % |  |  |  | S/L - |  |   |
+|   | : | % |  |  |  | S/L - |  |   |
+|  28 Add amounts in column (h), lines 25 through 27. Enter here and on line 21, page 1 |   |   |   |   |   | 28 |  |   |
+|  29 Add amounts in column (i), line 26. Enter here and on line 7, page 1 |   |   |   |   |   |   | 29 |   |
+
+Section B - Information on Use of Vehicles
+
+Complete this section for vehicles used by a sole proprietor, partner, or other "more than 5% owner," or related person. If you provided vehicles to your employees, first answer the questions in Section C to see if you meet an exception to completing this section for those vehicles.
+
+|  30 Total business/investment miles driven during the year (don't include commuting miles) | (a) Vehicle 1 |   | (b) Vehicle 2 |   | (c) Vehicle 3 |   | (d) Vehicle 4 |   | (e) Vehicle 5 |   | (f) Vehicle 6  |   |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|   |  |   |   |   |   |   |   |   |   |   |   |   |
+|  31 Total commuting miles driven during the year |  |   |  |   |  |   |  |   |  |   |   |   |
+|  32 Total other personal (noncommuting) miles driven |  |   |  |   |  |   |  |   |  |   |   |   |
+|  33 Total miles driven during the year. Add lines 30 through 32 |  |   |  |   |  |   |  |   |  |   |   |   |
+|  34 Was the vehicle available for personal use during off-duty hours? | Yes | No | Yes | No | Yes | No | Yes | No | Yes | No | Yes | No  |
+|  35 Was the vehicle used primarily by a more than 5% owner or related person? |  |  |  |  |  |  |  |  |  |  |  |   |
+|  36 Is another vehicle available for personal use? |  |  |  |  |  |  |  |  |  |  |  |   |
+
+Section C - Questions for Employers Who Provide Vehicles for Use by Their Employees
+
+Answer these questions to determine if you meet an exception to completing Section B for vehicles used by employees who aren't more than 5% owners or related persons.
+
+|  37 Do you maintain a written policy statement that prohibits all personal use of vehicles, including commuting, by your employees? | Yes | No  |
+| --- | --- | --- |
+|  38 Do you maintain a written policy statement that prohibits personal use of vehicles, except commuting, by your employees? See the instructions for vehicles used by corporate officers, directors, or 1% or more owners |  |   |
+|  39 Do you treat all use of vehicles by employees as personal use? |  |   |
+|  40 Do you provide more than five vehicles to your employees, obtain information from your employees about the use of the vehicles, and retain the information received? |  |   |
+|  41 Do you meet the requirements concerning qualified automobile demonstration use? |  |   |
+|  Note: If your answer to 37, 38, 39, 40, or 41 is “Yes,” don’t complete Section B for the covered vehicles.  |   |   |
+
+Part VI Amortization
+
+|  (a) Description of costs | (b) Date amortization begins | (c) Amortizable amount | (d) Code section | (e) Amortization period or percentage | (f) Amortization for this year  |
+| --- | --- | --- | --- | --- | --- |
+
+42 Amortization of costs that begins during your 2024 tax year:
+
+|  |   |   |   |   |   |
+| --- | --- | --- | --- | --- | --- |
+|  |   |   |   |   |   |
+|  43 Amortization of costs that began before your 2024 tax year |   |   |   | 43 | 16,435.  |
+|  44 Total. Add amounts in column (f). See the instructions for where to report |   |   |   | 44 | 16,435.  |
+
+416252 12-20-24
+Form 4562 (2024)
+13350722 756350 18968000
+2024.04010 COM-JET CORPORATION
+18968001
+
+--- PAGE 17 ---
+2024 DEPRECIATION AND AMORTIZATION REPORT
+
+|  Asset No. | Description | Date Acquired | Method | Life | Cry. # | Unit No. | Unadjusted Cost Or Basis | Bus % Excl | Section 179 Expense | Reduction In Basis | Basis For Depreciation | Beginning Accumulated Depreciation | Current Sec 179 Expense | Current Year Deduction | Ending Accumulated Depreciation  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  4 | FURNITURE & FIXTURES | 07/01/11 | SL | 7.00 | HY16 |  | 838, |  |  |  | 838, | 838, |  | 0, | 838,  |
+|  5 | FURNITURE & FIXTURES | 07/01/12 | SL | 7.00 | HY16 |  | 1,600, |  |  |  | 1,600, | 1,600, |  | 0, | 1,600,  |
+|  17 | FURNITURE & FIXTURES | 03/31/13 | SL | 7.00 | HY16 |  | 1,850, |  |  |  | 1,850, | 1,850, |  | 0, | 1,850,  |
+|  34 | SHELVING | 06/23/15 | SL | 7.00 | HY16 |  | 930, |  |  |  | 930, | 930, |  | 0, | 930,  |
+|  39 | OFFICE FURNITURE | 10/05/16 | SL | 7.00 | HY16 |  | 7,995, |  |  |  | 7,995, | 7,995, |  | 0, | 7,995,  |
+|  49 | FURNITURE | 10/19/17 | SL | 7.00 | HY16 |  | 10,420, |  |  |  | 10,420, | 9,180, |  | 1,240, | 10,420,  |
+|  50 | FURNITURE | 07/05/18 | SL | 7.00 | HY16 |  | 6,654, |  |  |  | 6,654, | 5,229, |  | 951, | 6,180,  |
+|  54 | GULFSTREAM CONTAINER | 10/12/22 | SL | 7.00 | MC16 |  | 2,700, |  |  |  | 2,700, | 482, |  | 386, | 868,  |
+|  73 | NATIONAL BUSINESS FURNITURE | 01/31/23 | SL | 7.00 | HY16 |  | 11,843, |  |  |  | 11,843, | 1,551, |  | 1,692, | 3,243,  |
+|  74 | FURNITURE & FIXTURES | 03/30/23 | SL | 7.00 | HY16 |  | 3,250, |  |  |  | 3,250, | 348, |  | 464, | 812,  |
+|  77 | FURNITURE & FIXTURES | 12/13/23 | SL | 7.00 | HY16 |  | 10,000, |  |  |  | 10,000, | 119, |  | 1,429, | 1,548,  |
+|  85 | CARRYOVER FROM 2023 ASSET # 73 |  |  |  |  |  |  |  |  |  |  |  |  | 0, |   |
+|  86 | CARRYOVER FROM 2023 ASSET # 74 |  |  |  |  |  |  |  |  |  |  |  |  | 0, |   |
+|  87 | CARRYOVER FROM 2023 ASSET # 77 |  |  |  |  |  |  |  |  |  |  |  |  | 0, |   |
+|  89 | FURNITURE & FIXTURES | 03/11/24 | SL | 7.00 | HY16 |  | 9,950, |  |  |  | 9,950, |  |  | 1,185, | 1,185,  |
+|  90 | FURNITURE & FIXTURES | 07/26/24 | SL | 7.00 | HY16 |  | 14,913, |  |  |  | 14,913, |  |  | 888, | 888,  |
+|  96 | FURNITURE & FIXTURES | 11/08/24 | SL | 7.00 | HY16 |  | 14,913, |  |  |  | 14,913, |  |  | 355, | 355,  |
+|  97 | FURNITURE & FIXTURES | 06/12/24 | SL | 7.00 | HY16 |  | 55,000, |  |  |  | 55,000, |  |  | 4,583, | 4,583,  |
+
+428111 04-01-24
+
+(C) - Asset disposed
+
+* ITC, Salvage, Bonus, Commercial Revitalization Deduction, GO Zone
+
+--- PAGE 18 ---
+2024 DEPRECIATION AND AMORTIZATION REPORT
+
+|  Asset No | Description | Date Acquired | Method | Life | Cry | Lift Rec | Unadjusted Cost Or Basis | Bus % Excl | Section 179 Expense | Reduction In Basis | Basis For Depreciation | Beginning Accumulated Depreciation | Current Sec 179 Expense | Current Year Deduction | Ending Accumulated Depreciation  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|   | * OTHER TOTAL - |  |  |  |  |  | 152,856, |  | 0. | 0. | 152,856, | 30,122, | 0. | 13,173, | 43,295,  |
+|  10 | OFFICE EQUIPMENT | 07/01/11 | SL | 7.00 | HY16 |  | 5,524, |  |  |  | 5,524, | 5,524, |  | 0. | 5,524,  |
+|  12 | OFFICE EQUIPMENT | 07/01/12 | SL | 7.00 | HY16 |  | 898, |  |  |  | 898, | 898, |  | 0. | 898,  |
+|  19 | OFFICE EQUIPMENT | 10/31/13 | SL | 7.00 | HY16 |  | 1,275, |  |  |  | 1,275, | 1,275, |  | 0. | 1,275,  |
+|  24 | COMPUTER | 05/30/14 | SL | 5.00 | HY16 |  | 3,133, |  |  |  | 3,133, | 3,133, |  | 0. | 3,133,  |
+|  40 | OFFICE EQUIPMENT | 11/02/16 | SL | 7.00 | HY16 |  | 21,114, |  |  |  | 21,114, | 21,114, |  | 0. | 21,114,  |
+|  47 | OFFICE EQUIPMENT | 06/27/17 | SL | 7.00 | HY16 |  | 284, |  |  |  | 284, | 265, |  | 19, | 284,  |
+|  51 | OFFICE EQUIPMENT | 10/01/18 | SL | 7.00 | HY16 |  | 3,163, |  |  |  | 3,163, | 2,373, |  | 452, | 2,825,  |
+|  55 | NETWORK COMPUTER PROS | 10/31/22 | SL | 5.00 | MJ16 |  | 2,503, |  |  |  | 2,503, | 584, |  | 501, | 1,085,  |
+|  62 | OFFICE EQUIPMENT | 11/17/19 | SL | 5.00 | HY16 |  | 3,206, |  |  |  | 3,206, | 2,618, |  | 588, | 3,206,  |
+|  63 | 2 DELL COMPUTERS | 05/05/20 | SL | 5.00 | HY16 |  | 2,873, |  |  |  | 2,873, | 2,108, |  | 575, | 2,683,  |
+|   | * OTHER TOTAL - |  |  |  |  |  | 43,973, |  | 0. | 0. | 43,973, | 39,892, | 0. | 2,135, | 42,027,  |
+|  11 | MACHINERY & EQUIPMENT | 07/01/11 | SL | 7.00 | HY16 |  | 6,057, |  |  |  | 6,057, | 6,057, |  | 0. | 6,057,  |
+|  13 | SHOP EQUIPMENT | 07/01/12 | SL | 7.00 | HY16 |  | 17,961, |  |  |  | 17,961, | 17,961, |  | 0. | 17,961,  |
+|  18 | OFFICE EQUIPMENT | 08/31/13 | SL | 7.00 | HY16 |  | 560, |  |  |  | 560, | 560, |  | 0. | 560,  |
+|  20 | MACHINERY & EQUIPMENT | 02/28/13 | SL | 7.00 | HY16 |  | 950, |  |  |  | 950, | 950, |  | 0. | 950,  |
+|  21 | MACHINERY & EQUIPMENT | 08/31/13 | SL | 7.00 | HY16 |  | 2,615, |  |  |  | 2,615, | 2,615, |  | 0. | 2,615,  |
+|  22 | MACHINERY & EQUIPMENT | 12/31/13 | SL | 7.00 | HY16 |  | 9,389, |  |  |  | 9,389, | 9,389, |  | 0. | 9,389,  |
+
+428111 04-01-24
+
+(D) - Asset disposed
+
+* ITC, Salvage, Bonus, Commercial Revitalization Deduction, GO Zone
+
+--- PAGE 19 ---
+2024 DEPRECIATION AND AMORTIZATION REPORT
+
+|  Asset No | Description | Date Acquired | Method | Life | Cry | Lime Rec | Unadjusted Cost Or Basis | Bus % Excl | Section 179 Expense | Reduction In Basis | Basis For Depreciation | Beginning Accumulated Depreciation | Current Sec 179 Expense | Current Year Deduction | Ending Accumulated Depreciation  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  23 | EQUIPMENT | 06/30/13 | SL | 7.00 | HY16 |  | 1,500, |  |  |  | 1,500, | 1,500, |  | 0, | 1,500,  |
+|  25 | COMPUTER | 03/18/14 | SL | 5.00 | HY16 |  | 2,859, |  |  |  | 2,859, | 2,859, |  | 0, | 2,859,  |
+|  26 | COMPUTER | 03/18/14 | SL | 5.00 | HY16 |  | 2,932, |  |  |  | 2,932, | 2,932, |  | 0, | 2,932,  |
+|  27 | SECURITY CAMERA | 11/25/14 | SL | 7.00 | HY16 |  | 4,500, |  |  |  | 4,500, | 4,500, |  | 0, | 4,500,  |
+|  28 | SECURITY CAMERA | 10/08/14 | SL | 7.00 | HY16 |  | 3,571, |  |  |  | 3,571, | 3,571, |  | 0, | 3,571,  |
+|  29 | TOOLS | 04/25/14 | SL | 7.00 | HY16 |  | 1,475, |  |  |  | 1,475, | 1,475, |  | 0, | 1,475,  |
+|  30 | TOOLS | 03/04/14 | SL | 7.00 | HY16 |  | 1,750, |  |  |  | 1,750, | 1,750, |  | 0, | 1,750,  |
+|  31 | TOOLS | 07/17/14 | SL | 7.00 | HY16 |  | 375, |  |  |  | 375, | 375, |  | 0, | 375,  |
+|  32 | OVEN | 05/23/14 | SL | 7.00 | HY16 |  | 19,373, |  |  |  | 19,373, | 19,373, |  | 0, | 19,373,  |
+|  33 | TOOLS | 01/21/14 | SL | 7.00 | HY16 |  | 1,100, |  |  |  | 1,100, | 1,100, |  | 0, | 1,100,  |
+|  35 | TOOLING | 08/04/15 | SL | 7.00 | HY16 |  | 650, |  |  |  | 650, | 650, |  | 0, | 650,  |
+|  36 | TOOLING | 09/02/15 | SL | 7.00 | HY16 |  | 1,488, |  |  |  | 1,488, | 1,488, |  | 0, | 1,488,  |
+|  37 | TOOLING | 09/02/15 | SL | 7.00 | HY16 |  | 370, |  |  |  | 370, | 370, |  | 0, | 370,  |
+|  38 | CAMERA | 01/13/15 | SL | 7.00 | HY16 |  | 2,660, |  |  |  | 2,660, | 2,660, |  | 0, | 2,660,  |
+|  41 | MACHINERY EQUIPMENT | 12/16/16 | SL | 7.00 | HY16 |  | 60,961, |  |  |  | 60,961, | 60,961, |  | 0, | 60,961,  |
+|  42 | PRO-FINISH - FL SILICA | 02/09/17 | SL | 7.00 | HY16 |  | 81,361, |  |  |  | 81,361, | 80,582, |  | 779, | 81,361,  |
+|  43 | ELECTRICAL TEST PANEL ELECTRONIC TEST CONSOLE | 01/24/17 | SL | 7.00 | HY16 |  | 3,200, |  |  |  | 3,200, | 3,162, |  | 38, | 3,200,  |
+|  44 | INTERFACE | 07/11/17 | SL | 7.00 | HY16 |  | 3,500, |  |  |  | 3,500, | 3,250, |  | 250, | 3,500,  |
+
+428111 04-01-24
+
+(D) - Asset disposed
+
+* ITC, Salvage, Bonus, Commercial Revitalization Deduction, GO Zone
+
+--- PAGE 20 ---
+2024 DEPRECIATION AND AMORTIZATION REPORT
+
+|  Asset No | Description | Date Acquired | Method | Life | Cry | Life No. | Unadjusted Cost Or Basis | Bus % Excl | Section 179 Expense | Reduction In Basis | Basis For Depreciation | Beginning Accumulated Depreciation | Current Sec 179 Expense | Current Year Deduction | Ending Accumulated Depreciation  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  45 | INTERFACE BOX FOR CRJ | 04/25/17 | SL | 7.00 | HY16 |  | 4,200, |  |  |  | 4,200, | 4,000, |  | 200, | 4,200,  |
+|  48 | MACHINERY | 11/30/17 | SL | 7.00 | HY16 |  | 10,978, |  |  |  | 10,978, | 9,540, |  | 1,438, | 10,978,  |
+|  52 | MACHINERY | 12/12/18 | SL | 7.00 | HY16 |  | 32,486, |  |  |  | 32,486, | 23,591, |  | 4,641, | 28,232,  |
+|  56 | PLATING PROCESS TANKS WITH ACCESSORIES | 10/31/22 | SL | 7.00 | MQ16 |  | 7,000, |  |  |  | 7,000, | 1,167, |  | 1,000, | 2,167,  |
+|  61 | EQUIPMENT | 11/04/19 | SL | 7.00 | HY16 |  | 40,867, |  |  |  | 40,867, | 24,325, |  | 5,838, | 30,163,  |
+|  64 | METALMAQ MODEL 3VKH VERTICAL MILL | 06/15/20 | SL | 7.00 | HY16 |  | 25,771, |  |  |  | 25,771, | 13,193, |  | 3,682, | 16,875,  |
+|  69 | DAKE 50 TON HYDRAULIC PRESS | 04/16/21 | SL | 7.00 | HY16 |  | 3,266, |  |  |  | 3,266, | 1,245, |  | 467, | 1,712,  |
+|  78 | MSC BORING MILL CARRYOVER FROM 2023 ASSET # 78 | 01/25/23 | SL | 7.00 | HY16 |  | 8,058, |  |  |  | 8,058, | 1,055, |  | 1,151, | 2,206,  |
+|  88 | MACHINERY & EQUIPMENT | 09/24/24 | SL | 7.00 | HY16 |  | 3,390, |  |  |  | 3,390, |  |  | 0, |   |
+|  91 | MACHINERY & EQUIPMENT | 10/15/24 | SL | 7.00 | HY16 |  | 8,271, |  |  |  | 8,271, |  |  | 121, | 121,  |
+|  92 | MACHINERY & EQUIPMENT | 10/22/24 | SL | 7.00 | HY16 |  | 3,518, |  |  |  | 3,518, |  |  | 295, | 295,  |
+|  93 | MACHINERY & EQUIPMENT | 11/22/24 | SL | 7.00 | HY16 |  | 5,527, |  |  |  | 5,527, |  |  | 84, | 84,  |
+|  94 | MACHINERY & EQUIPMENT | 12/03/24 | SL | 7.00 | HY16 |  | 5,528, |  |  |  | 5,528, |  |  | 66, | 66,  |
+|  95 | MACHINERY & EQUIPMENT | 12/03/24 | SL | 7.00 | HY16 |  | 390,017, |  | 0, | 0, | 390,017, | 308,206, | 0, | 20,116, | 328,322,  |
+|  15 | TECHNICAL LIBRARY | 07/01/11 | SL | 7.00 | HY16 |  | 1,479, |  |  |  | 1,479, | 1,479, |  | 0, | 1,479,  |
+|  15 | TECHNICAL LIBRARY | 07/01/11 | SL | 7.00 | HY16 |  | 1,479, |  | 0, | 0, | 1,479, | 1,479, | 0, | 0, | 1,479,  |
+|  6 | LEASEHOLD IMPROVEMENTS | 07/01/12 | SL | 39.00 | HY16 |  | 6,000, |  |  |  | 6,000, | 1,764, |  | 154, | 1,918,  |
+
+428111 04-01-24
+
+(D) - Asset disposed
+
+* ITC, Salvage, Bonus, Commercial Revitalization Deduction, GO Zone
+
+--- PAGE 21 ---
+2024 DEPRECIATION AND AMORTIZATION REPORT
+
+|  Asset No | Description | Date Acquired | Method | Life | Cust | Lure No | Unadjusted Cost Or Basis | Bus % Excl | Section 179 Expense | Reduction In Basis | Basis For Depreciation | Beginning Accumulated Depreciation | Current Sec 179 Expense | Current Year Deduction | Ending Accumulated Depreciation  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  57 | A/C SYSTEM | 03/07/22 | SL | 39.00 | NM | 16 | 23,500. |  |  |  | 23,500. | 1,105. |  | 603. | 1,708.  |
+|   |  * OTHER TOTAL - |  |  |  |  |  | 29,500. |  | 0. | 0. | 29,500. | 2,869. | 0. | 757. | 3,626.  |
+|  46 | AUTOMOTIVE | 04/20/17 | SL | 5.00 | NY | 21 | 4,310. |  |  |  | 4,310. | 4,310. |  | 0. | 4,310.  |
+|  53 | AUTOMOTIVE | 07/20/18 | SL | 5.00 | NY | 16 | 1,524. |  |  |  | 1,524. | 1,524. |  | 0. | 1,524.  |
+|   |  * OTHER TOTAL - |  |  |  |  |  | 5,834. |  | 0. | 0. | 5,834. | 5,834. | 0. | 0. | 5,834.  |
+|  65 | PILOT LOAN COSTS | 08/01/20 |  | 120M |  | 43 | 164,353. |  |  |  | 164,353. | 56,153. |  | 16,435. | 72,588.  |
+|  72 | AEGIS LOAN COSTS | 06/01/21 |  | 12M |  | 43 | 77,069. |  |  |  | 77,069. | 77,069. |  | 0. | 77,069.  |
+|   |  * OTHER TOTAL - |  |  |  |  |  | 241,422. |  | 0. | 0. | 241,422. | 133,222. | 0. | 16,435. | 149,657.  |
+|   |  * GRAND TOTAL OTHER DEPR & AMORT |  |  |  |  |  | 865,081. |  | 0. | 0. | 865,081. | 521,624. | 0. | 52,616. | 574,240.  |
+|   |  CURRENT YEAR ACTIVITY |  |  |  |  |  |  |  |  |  |  |  |  |  |   |
+|   |  BEGINNING BALANCE |  |  |  |  |  | 744,071. |  | 0. | 0. | 744,071. | 521,624. |  |  | 566,597.  |
+|   |  ACQUISITIONS |  |  |  |  |  | 121,010. |  | 0. | 0. | 121,010. | 0. |  |  | 7,643.  |
+|   |  DISPOSITIONS/RETIRED |  |  |  |  |  | 0. |  | 0. | 0. | 0. | 0. |  |  | 0.  |
+|   |  ENDING BALANCE |  |  |  |  |  | 865,081. |  | 0. | 0. | 865,081. | 521,624. |  |  | 574,240.  |
+
+428111 04-01-24
+
+(D) - Asset disposed
+
+* ITC, Salvage, Bonus, Commercial Revitalization Deduction, GO Zone
+
+--- PAGE 22 ---
+COM-JET CORPORATION
+Qualified Business Income (Section 199A)
+59-2051580
+
+|  SSTS | PTP | Description | EIN | Ordinary Business Income (Loss) | Rental Income (Loss) | Royalty Income (Loss) | Section 1231 Gain (Loss) | Other Income (Loss) | Section 179 Deduction  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|   |  | TRADE OR BUSINESS |  | 936,614, |  |  |  |  | 154,161,  |
+|   |  | TOTAL |  | 936,614, |  |  |  |  | 154,161,  |
+|  |   |   |   |   |   |   |   |   |   |
+|  |   |   |   |   |   |   |   |   |   |
+|  |   |   |   |   |   |   |   |   |   |
+|  |   |   |   |   |   |   |   |   |   |
+|  |   |   |   |   |   |   |   |   |   |
+|  |   |   |   |   |   |   |   |   |   |
+|  |   |   |   |   |   |   |   |   |   |
+|  |   |   |   |   |   |   |   |   |   |
+|  |   |   |   |   |   |   |   |   |   |
+|  |   |   |   |   |   |   |   |   |   |
+|  |   |   |   |   |   |   |   |   |   |
+|  |   |   |   |   |   |   |   |   |   |
+|  |   |   |   |   |   |   |   |   |   |
+|  |   |   |   |   |   |   |   |   |   |
+|  |   |   |   |   |   |   |   |   |   |
+|  |   |   |   |   |   |   |   |   |   |
+|  SSTS | PTP | Description | Other Deductions | W-2 Wages | Unadjusted Basis of Assets | Cooperative |   | Reserved | Reserved  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|   |   |   |   |   |   |  Quarted Business Income | W-2 Wages  |   |   |
+|   |  | TRADE OR BUSINESS |  | 3,920,146, | 530,365, |  |  |  |   |
+|   |  | TOTAL |  | 3,920,146, | 530,365, |  |  |  |   |
+|  |   |   |   |   |   |   |   |   |   |
+|  |   |   |   |   |   |   |   |   |   |
+|  |   |   |   |   |   |   |   |   |   |
+|  |   |   |   |   |   |   |   |   |   |
+|  |   |   |   |   |   |   |   |   |   |
+|  |   |   |   |   |   |   |   |   |   |
+|  |   |   |   |   |   |   |   |   |   |
+|  |   |   |   |   |   |   |   |   |   |
+|  |   |   |   |   |   |   |   |   |   |
+
+Qualified REIT dividends
+414B21 04-01-24
+
+--- PAGE 23 ---
+SECTION 1.263(A)-1(F) DE MINIMIS SAFE HARBOR ELECTION
+
+COM-JET CORPORATION
+8235 NW 56 STREET
+MIAMI, FL 33166
+
+EMPLOYER IDENTIFICATION NUMBER: 59-2051580
+
+FOR THE YEAR ENDING DECEMBER 31, 2024
+
+COM-JET CORPORATION IS MAKING THE DE MINIMIS SAFE HARBOR ELECTION UNDER REG. SEC. 1.263(A)-1(F).
+
+--- PAGE 24 ---
+COM-JET CORPORATION
+59-2051580
+
+|  FORM 1120S | TAXES AND LICENSES | STATEMENT 1  |
+| --- | --- | --- |
+|  DESCRIPTION |  | AMOUNT  |
+|  LICENSES AND PERMITS |  | 15,085.  |
+|  OTHER TAXES |  | 6,882.  |
+|  PAYROLL TAXES |  | 305,318.  |
+|  TOTAL TO FORM 1120S, PAGE 1, LINE 12 |   | 327,285.  |
+|  FORM 1120S | OTHER DEDUCTIONS | STATEMENT 2  |
+| --- | --- | --- |
+|  DESCRIPTION |  | AMOUNT  |
+|  ACCOUNTING FEES |  | 48,686.  |
+|  AMORTIZATION EXPENSE |  | 16,435.  |
+|  BANK CHARGES |  | 51,780.  |
+|  COMMUNICATION AND TELEPHONE |  | 42,808.  |
+|  CONSULTING FEES |  | 235,334.  |
+|  DUES AND SUBSCRIPTIONS |  | 48,467.  |
+|  FREIGHT |  | 6,099.  |
+|  INSURANCE- GENERAL |  | 226,779.  |
+|  INSURANCE- GROUP HEALTH |  | 172,317.  |
+|  LEGAL FEES |  | 161,534.  |
+|  MEALS |  | 103,012.  |
+|  MISCELLANEOUS |  | 168,231.  |
+|  OFFICE SUPPLIES AND OTHER |  | 119,398.  |
+|  PRINTING |  | 16,160.  |
+|  SEMINARS |  | 44,938.  |
+|  SMALL TOOLS AND SUPPLIES |  | 240,953.  |
+|  TRAVEL |  | 251,219.  |
+|  UNIFORMS |  | 1,500.  |
+|  UTILITIES |  | 89,637.  |
+|  VEHICLE AND TRANSPORTATION |  | 79,282.  |
+|  WASTE REMOVAL |  | 23,915.  |
+|  TOTAL TO FORM 1120S, PAGE 1, LINE 20 |   | 2,148,484.  |
+|  SCHEDULE K | INTEREST INCOME | STATEMENT 3  |
+| --- | --- | --- |
+|  DESCRIPTION |  | AMOUNT  |
+|  INTEREST INCOME |  | 22,176.  |
+|  TOTAL TO SCHEDULE K, LINE 4 |  | 22,176.  |
+
+13350722 756350 18968000
+STATEMENT(S) 1, 2, 3
+2024.04010 COM-JET CORPORATION
+18968001
+
+--- PAGE 25 ---
+COM-JET CORPORATION
+59-2051580
+
+|  SCHEDULE K | CASH CHARITABLE CONTRIBUTIONS |   |   | STATEMENT 4  |
+| --- | --- | --- | --- | --- |
+|  DESCRIPTION | NO LIMIT | 50%, 60% OR 100% LIMIT | 30% LIMIT | 20% LIMIT  |
+|  CASH CHARITABLE CONTRIBUTIONS (60%) |   | 20,401. |  |   |
+|  TOTALS TO SCHEDULE K, LINE 12A |   | 20,401. |  |   |
+|  SCHEDULE K | NONDEDUCTIBLE EXPENSES | STATEMENT 5  |
+| --- | --- | --- |
+|  DESCRIPTION |  | AMOUNT  |
+|  ENTERTAINMENT |  | 43,876.  |
+|  EXCLUDED MEALS EXPENSES |  | 103,011.  |
+|  TOTAL TO SCHEDULE K, LINE 16C |  | 146,887.  |
+|  SCHEDULE K | OTHER ITEMS, LINE 17D | STATEMENT 6  |
+| --- | --- | --- |
+|  DESCRIPTION |  | AMOUNT  |
+|  AGGREGATE BUSINESS ACTIVITY GROSS INCOME OR GAIN |  | 6,187,300.  |
+|  AGGREGATE BUSINESS ACTIVITY DEDUCTIONS |  | 5,250,686.  |
+|  SECTION 199A - ORDINARY INCOME (LOSS) |  | 936,614.  |
+|  SECTION 199A - SECTION 179 DEDUCTION |  | 154,161.  |
+|  SECTION 199A - W-2 WAGES |  | 3,920,146.  |
+|  SECTION 199A - UNADJUSTED BASIS OF ASSETS |  | 530,365.  |
+|  SCHEDULE L | OTHER CURRENT ASSETS | STATEMENT 7  |
+| --- | --- | --- |
+|  DESCRIPTION |  | BEGINNING OF TAX YEAR  |
+|  DUE FROM OTHERS |  | 146.  |
+|  TOTAL TO SCHEDULE L, LINE 6 |  | 146.  |
+
+13350722 756350 18968000
+2024.04010 COM-JET CORPORATION
+18968001
+
+--- PAGE 26 ---
+COM-JET CORPORATION
+59-2051580
+
+|  SCHEDULE L | OTHER ASSETS | STATEMENT 8  |
+| --- | --- | --- |
+|  DESCRIPTION | BEGINNING OF TAX YEAR | END OF TAX YEAR  |
+|  DUE FROM OTHERS | 215,251. | 340,976.  |
+|  WORK IN PROCESS | 483,840. | 1,702,557.  |
+|  RIGHT OF USE ASSETS | 1,245,191. | 0.  |
+|  TOTAL TO SCHEDULE L, LINE 14 | 1,944,282. | 2,043,533.  |
+|  SCHEDULE L | OTHER CURRENT LIABILITIES | STATEMENT 9  |
+| --- | --- | --- |
+|  DESCRIPTION | BEGINNING OF TAX YEAR | END OF TAX YEAR  |
+|  CUSTOMER DEPOSITS | 24,305. | 73,015.  |
+|  DUE TO OTHERS | 14,350. | 70,000.  |
+|  RETIREMENT PLAN PAYABLE | 1,545. | 1,330.  |
+|  BANK OVERDRAFT | 11,028. | 0.  |
+|  CREDIT CARDS PAYABLE | 113,414. | 77,032.  |
+|  SHORT TERM LEASE LIABILITY | 180,802. | 0.  |
+|  TOTAL TO SCHEDULE L, LINE 18 | 345,444. | 221,377.  |
+|  SCHEDULE L | OTHER LIABILITIES | STATEMENT 10  |
+| --- | --- | --- |
+|  DESCRIPTION | BEGINNING OF TAX YEAR | END OF TAX YEAR  |
+|  CAPITAL LEASE OBLIGATION | 1,068,987. | 0.  |
+|  TOTAL TO SCHEDULE L, LINE 21 | 1,068,987. | 0.  |
+
+13350722 756350 18968000
+STATEMENT(S) 8, 9, 10
+2024.04010 COM-JET CORPORATION
+18968001
+
+--- PAGE 27 ---
+COM-JET CORPORATION
+59-2051580
+
+|  SCHEDULE L | ANALYSIS OF TOTAL RETAINED EARNINGS PER BOOKS | STATEMENT 11  |
+| --- | --- | --- |
+|  DESCRIPTION |  | AMOUNT  |
+|  BALANCE AT BEGINNING OF YEAR |  | -2,601,881.  |
+|  NET INCOME PER BOOKS |  | 723,009.  |
+|  DISTRIBUTIONS |  | 0.  |
+|  OTHER INCREASES (DECREASES) |  |   |
+|  BALANCE AT END OF YEAR - SCHEDULE L, LINE 24, COLUMN (D) |   | -1,878,872.  |
+|  SCHEDULE L | ADJUSTMENTS TO SHAREHOLDERS' EQUITY | STATEMENT 12  |
+| --- | --- | --- |
+|  DESCRIPTION | BEGINNING OF TAX YEAR | END OF TAX YEAR  |
+|  BOOK ACCUMULATED DEPRECIATION ADJUSTMENT | 353,424. | 353,424.  |
+|  TOTAL TO SCHEDULE L, LINE 25 | 353,424. | 353,424.  |
+|  SCHEDULE M-1 | EXPENSES RECORDED ON BOOKS THIS YEAR NOT INCLUDED ON SCHEDULE K | STATEMENT 13  |
+| --- | --- | --- |
+|  DESCRIPTION |  | AMOUNT  |
+|  ENTERTAINMENT |  | 43,876.  |
+|  OFFICERS LIFE INSURANCE PREMIUMS |  | 33,069.  |
+|  TOTAL TO SCHEDULE M-1, LINE 3 |  | 76,945.  |
+|  SCHEDULE M-2 ACCUMULATED ADJUSTMENTS ACCOUNT - OTHER ADDITIONS | STATEMENT 14  |
+| --- | --- |
+|  DESCRIPTION | AMOUNT  |
+|  PORTFOLIO INTEREST INCOME | 22,176.  |
+|  TOTAL TO SCHEDULE M-2, LINE 3 - COLUMN (A) | 22,176.  |
+
+13350722 756350 18968000
+STATEMENT(S) 11, 12, 13, 14
+2024.04010 COM-JET CORPORATION
+18968001
+
+--- PAGE 28 ---
+COM-JET CORPORATION
+59-2051580
+
+SCHEDULE M-2 ACCUMULATED ADJUSTMENTS ACCOUNT- OTHER REDUCTIONS STATEMENT 15
+
+|  DESCRIPTION | AMOUNT  |
+| --- | --- |
+|  CHARITABLE CONTRIBUTIONS | 20,401.  |
+|  SECTION 179 EXPENSE DEDUCTION | 154,161.  |
+|  NONDEDUCTIBLE EXPENSES | 146,887.  |
+|  TOTAL TO SCHEDULE M-2, LINE 5 - COLUMN (A) | 321,449.  |
+
+SCHEDULES M-2/L RECONCILIATION OF ENDING SCHEDULE M-2 AND RETAINED EARNINGS STATEMENT 16
+
+|  DESCRIPTION | AAA | OAA | SUTIPT | PRIOR EARNINGS & PROFITS & OTHER ADJ.  |
+| --- | --- | --- | --- | --- |
+|  SCH. M-2 BALANCES | -816,919. |  |  |   |
+|  PRIOR YEAR DIFFERENCE | -755,295. |  |  |   |
+|  BOOK/TAX DEPRECIATION ADJUSTMENT | 2,774. |  |  |   |
+|  OFFICERS LIFE INSURANCE PREMIUMMS | -99,296. |  |  |   |
+|  BOOK/TAX GAIN/LOSS ADJUSTMENT | -182,745. |  |  |   |
+|  DISITRIBUTIONS IN EXCESS OF BASIS | -37,287. |  |  |   |
+|  TAX EXEMPT INTEREST |  | 9,896. |  |   |
+|  SUBTOTALS | -1,888,768. | 9,896. |  |   |
+|  TOTAL RECONCILED SCHEDULE M-2 BALANCES |  |  |  | -1,878,872.  |
+|  ENDING RETAINED EARNINGS FROM SCHEDULE L, LINE 24 |  |  |  | -1,878,872.  |
+|  FORM 1125-A | OTHER COSTS | STATEMENT 17  |
+| --- | --- | --- |
+|  DESCRIPTION |  | AMOUNT  |
+|  CGS - OTHER COSTS |  | 187,807.  |
+|  TOTAL TO LINE 5 |  | 187,807.  |
+
+13350722 756350 18968000
+2024.04010 COM-JET CORPORATION
+18968001
+
+--- PAGE 29 ---
+COM-JET CORPORATION
+59-2051580
+
+|  FORM 4562 | PART I - SECTION 179 EXPENSE |   |   | STATEMENT 18  |
+| --- | --- | --- | --- | --- |
+|  (A) DESCRIPTION OF PROPERTY |  | (B) COST | (C) ELECTED COST |   |
+|  FURNITURE & FIXTURES |  | 9,950. | 9,950. |   |
+|  FURNITURE & FIXTURES |  | 14,913. | 14,913. |   |
+|  MACHINERY & EQUIPMENT |  | 3,390. | 3,390. |   |
+|  MACHINERY & EQUIPMENT |  | 8,271. | 8,271. |   |
+|  MACHINERY & EQUIPMENT |  | 3,518. | 3,518. |   |
+|  MACHINERY & EQUIPMENT |  | 5,527. | 5,527. |   |
+|  MACHINERY & EQUIPMENT |  | 5,528. | 5,528. |   |
+|  FURNITURE & FIXTURES |  | 14,913. | 14,913. |   |
+|  FURNITURE & FIXTURES |  | 55,000. | 55,000. |   |
+|  TOTAL TO FORM 4562, PART I, LINE 6 |   | 121,010. | 121,010. |   |
+|  FORM 4562 | PART VI - AMORTIZATION |   |   |   | STATEMENT 19  |   |
+| --- | --- | --- | --- | --- | --- | --- |
+|  (A) DESCRIPTION OF COSTS | (B) DATE BEGAN | (C) AMORT. AMOUNT | (D) CODE SECT. | (E) LIFE/ RATE | (F) ACCUM. AMORT. | (G) AMORT. THIS YR.  |
+|  PILOT LOAN COSTS | 08/01/20 | 164,353. |  | 120M | 56,153. | 16,435.  |
+|  TOTAL TO FORM 4562, LINE 43 |  |  |  |  |  | 16,435.  |
+
+STATEMENT(S) 18, 19
+13350722 756350 18968000
+2024.04010 COM-JET CORPORATION
+18968001
+
+--- PAGE 30 ---
+ALTERNATIVE MINIMUM TAX DEPRECIATION REPORT
+
+|  Accred No | Description | Date Acquired | AMT Method | AMT Life | AMT Cost Or Basis | AMT Accumulated | Regular Depreciation | AMT Depreciation | AMT Adjustment  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  89 | FURNITURE & FIXTURES | 03/11/24 | 200DB7.00 | 9,950. | 0. | 9,950. | 9,950. | 0. | 0.  |
+|  90 | FURNITURE & FIXTURES | 07/26/24 | 200DB7.00 | 14,913. | 0. | 14,913. | 14,913. | 0. | 0.  |
+|  96 | FURNITURE & FIXTURES | 11/08/24 | 200DB7.00 | 14,913. | 0. | 14,913. | 14,913. | 0. | 0.  |
+|  97 | FURNITURE & FIXTURES | 06/12/24 | 200DB7.00 | 55,000. | 0. | 55,000. | 55,000. | 0. | 0.  |
+|  91 | MACHINERY & EQUIPMENT | 09/24/24 | 200DB7.00 | 3,390. | 0. | 3,390. | 3,390. | 0. | 0.  |
+|  92 | MACHINERY & EQUIPMENT | 10/15/24 | 200DB7.00 | 8,271. | 0. | 8,271. | 8,271. | 0. | 0.  |
+|  93 | MACHINERY & EQUIPMENT | 10/22/24 | 200DB7.00 | 3,518. | 0. | 3,518. | 3,518. | 0. | 0.  |
+|  94 | MACHINERY & EQUIPMENT | 11/22/24 | 200DB7.00 | 5,527. | 0. | 5,527. | 5,527. | 0. | 0.  |
+|  95 | MACHINERY & EQUIPMENT | 12/03/24 | 200DB7.00 | 5,528. | 0. | 5,528. | 5,528. | 0. | 0.  |
+|  6 | LEASEHOLD IMPROVEMENTS | 07/01/12 | 39.00 | 6,000. | 308. | 154. | 154. | 0. | 0.  |
+|  57 | A/C SYSTEM | 03/07/22 | SL | 39.00 | 23,500. | 1,080. | 603. | 603. | 0.  |
+|   | TOTALS |  |  | 150,510. | 1,388. | 121,767. | 121,767. | 0. | 0.  |
+
+439354
+04-01-24
+
+--- PAGE 31 ---
+2024 DEPRECIATION AND AMORTIZATION REPORT
+
+- CURRENT YEAR BOOK
+
+COM-JET CORPORATION
+
+|  Asset No | Description | Date Acquired | Method | Life | Line No | Unadjusted Cost Or Basis | Bus % Excl | Reduction In Basis | Basis For Depreciation | Accumulated Depreciation | Current Sec 179 | Current Year Deduction  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  4 | FURNITURE & FIXTURES | 07011111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111111 | SL | 7.00 | 16 | 838. |  |  | 838. | 838. |  | 0.  |
+|  5 | FURNITURE & FIXTURES | 070111212121212121212121212121212121212121212121212121212121212121212121212121212121212121212 | SL | 7.00 | 16 | 1,600. |  |  | 1,600. | 1,600. |  | 0.  |
+|  17 | FURNITURE & FIXTURES | 0331133131313131313131313131313131313131313131313131313131313131313131313131313131313131313131313 | SL | 7.00 | 16 | 1,850. |  |  | 1,850. | 1,850. |  | 0.  |
+|  34 | SHELVING | 0623155L | SL | 7.00 | 16 | 930. |  |  | 930. | 930. |  | 0.  |
+|  39 | OFFICE FURNITURE | 100516SL | SL | 7.00 | 16 | 7,995. |  |  | 7,995. | 7,995. |  | 0.  |
+|  49 | FURNITURE | 101917SL | SL | 7.00 | 16 | 10,420. |  |  | 10,420. | 9,180. |  | 1,240.  |
+|  50 | FURNITURE GULFSTREAM | 070518SL | SL | 7.00 | 16 | 6,654. |  |  | 6,654. | 5,229. |  | 951.  |
+|  54 | CONTAINER | 101222SL | SL | 7.00 | 16 | 2,700. |  |  | 2,700. | 482. |  | 386.  |
+|  73 | NATIONAL BUSINESS | 013123SL | SL | 7.00 | 16 | 11,843. |  |  | 11,843. | 1,551. |  | 1,692.  |
+|  74 | FURNITURE & FIXTURES | 033023SL | SL | 7.00 | 16 | 3,250. |  |  | 3,250. | 348. |  | 464.  |
+|  77 | FURNITURE & FIXTURES | 121323SL | SL | 7.00 | 16 | 10,000. |  |  | 10,000. | 119. |  | 1,429.  |
+|  85 | CARRYOVER FROM 2023 |  |  |  |  |  |  |  |  |  |  | 0.  |
+|  86 | ASSET # 73 |  |  |  |  |  |  |  |  |  |  | 0.  |
+|  87 | ASSET # 74 |  |  |  |  |  |  |  |  |  |  | 0.  |
+|  89 | CARRYOVER FROM 2023 |  |  |  |  |  |  |  |  |  |  | 0.  |
+|  90 | ASSET # 77 |  |  |  |  |  |  |  |  |  |  | 0.  |
+|  91 | FURNITURE & FIXTURES | 031124SL | SL | 7.00 | 16 | 9,950. |  |  | 9,950. |  |  | 1,185.  |
+|  90 | FURNITURE & FIXTURES | 072624SL | SL | 7.00 | 16 | 14,913. |  |  | 14,913. |  |  | 888.  |
+|  96 | FURNITURE & FIXTURES | 110824SL | SL | 7.00 | 16 | 14,913. |  |  | 14,913. |  |  | 355.  |
+|  97 | FURNITURE & FIXTURES | 061224SL | SL | 7.00 | 16 | 55,000. |  |  | 55,000. |  |  | 4,583.  |
+
+428102 04-01-24
+
+(C) - Asset disposed
+
+* ITC, Section 179, Salvage, Bonus, Commercial Revitalization Deduction
+
+--- PAGE 32 ---
+2024 DEPRECIATION AND AMORTIZATION REPORT
+
+- CURRENT YEAR BOOK
+
+COM-JET CORPORATION
+
+|  Asset No | Description | Date Acquired |   | Method | Life | Line No. | Unadjusted Cost Or Basis | Bus % Excl | Reduction In Basis | Basis For Depreciation | Accumulated Depreciation | Current Sec 179 | Current Year Deduction  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|   | * OTHER TOTAL - |  |  |  |  |  | 152,856. |  |  | 152,856. | 30,122. | 0. | 13,173.  |
+|  10 | OFFICE EQUIPMENT | 07 | 01 | 11 | SL | 7.00 | 16 | 5,524. |  | 5,524. | 5,524. |  | 0.  |
+|  12 | OFFICE EQUIPMENT | 07 | 01 | 12 | SL | 7.00 | 16 | 898. |  | 898. | 898. |  | 0.  |
+|  19 | OFFICE EQUIPMENT | 10 | 31 | 13 | SL | 7.00 | 16 | 1,275. |  | 1,275. | 1,275. |  | 0.  |
+|  24 | COMPUTER | 05 | 30 | 14 | SL | 5.00 | 16 | 3,133. |  | 3,133. | 3,133. |  | 0.  |
+|  40 | OFFICE EQUIPMENT | 11 | 02 | 16 | SL | 7.00 | 16 | 21,114. |  | 21,114. | 21,114. |  | 0.  |
+|  47 | OFFICE EQUIPMENT | 06 | 27 | 17 | SL | 7.00 | 16 | 284. |  | 284. | 265. |  | 19.  |
+|  51 | OFFICE EQUIPMENT NETWORK COMPUTER | 10 | 01 | 18 | SL | 7.00 | 16 | 3,163. |  | 3,163. | 2,373. |  | 452.  |
+|  55 | PROS | 10 | 31 | 22 | SL | 5.00 | 16 | 2,503. |  | 2,503. | 584. |  | 501.  |
+|  62 | OFFICE EQUIPMENT | 11 | 17 | 19 | SL | 5.00 | 16 | 3,206. |  | 3,206. | 2,618. |  | 588.  |
+|  63 | 2 DELL COMPUTERS | 05 | 05 | 20 | SL | 5.00 | 16 | 2,873. |  | 2,873. | 2,108. |  | 575.  |
+|   | * OTHER TOTAL - MACHINERY & EQUIPMENT | 07 | 01 | 11 | SL | 7.00 | 16 | 43,973. |  | 43,973. | 39,892. | 0. | 2,135.  |
+|  11 | SHOP EQUIPMENT | 07 | 01 | 12 | SL | 7.00 | 16 | 6,057. |  | 6,057. | 6,057. |  | 0.  |
+|  13 | OFFICE EQUIPMENT MACHINERY & EQUIPMENT | 08 | 31 | 13 | SL | 7.00 | 16 | 17,961. |  | 17,961. | 17,961. |  | 0.  |
+|  18 | MACHINERY & EQUIPMENT | 02 | 28 | 13 | SL | 7.00 | 16 | 560. |  | 560. | 560. |  | 0.  |
+|  20 | MACHINERY & EQUIPMENT | 08 | 31 | 13 | SL | 7.00 | 16 | 950. |  | 950. | 950. |  | 0.  |
+|  21 | MACHINERY & EQUIPMENT | 12 | 31 | 13 | SL | 7.00 | 16 | 2,615. |  | 2,615. | 2,615. |  | 0.  |
+|  22 | MACHINERY & EQUIPMENT | 12 | 31 | 13 | SL | 7.00 | 16 | 9,389. |  | 9,389. | 9,389. |  | 0.  |
+
+428102 04-01-24
+
+(0) - Asset disposed
+
+* ITC, Section 179, Salvage, Bonus, Commercial Revitalization Deduction
+
+--- PAGE 33 ---
+2024 DEPRECIATION AND AMORTIZATION REPORT
+
+- CURRENT YEAR BOOK
+
+COM-JET CORPORATION
+
+|  Asset No | Description | Date Acquired | Method | Life | Line No | Unadjusted Cost Or Basis | Bus % Excl | Reduction In Basis | Basis For Depreciation | Accumulated Depreciation | Current Sec 179 | Current Year Deduction  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  23 | EQUIPMENT | 063013 | SL | 7.00 | 16 | 1,500. |  |  | 1,500. | 1,500. |  | 0.  |
+|  25 | COMPUTER | 031814 | SL | 5.00 | 16 | 2,859. |  |  | 2,859. | 2,859. |  | 0.  |
+|  26 | COMPUTER | 031814 | SL | 5.00 | 16 | 2,932. |  |  | 2,932. | 2,932. |  | 0.  |
+|  27 | SECURITY CAMERA | 112514 | SL | 7.00 | 16 | 4,500. |  |  | 4,500. | 4,500. |  | 0.  |
+|  28 | SECURITY CAMERA | 100814 | SL | 7.00 | 16 | 3,571. |  |  | 3,571. | 3,571. |  | 0.  |
+|  29 | TOOLS | 042514 | SL | 7.00 | 16 | 1,475. |  |  | 1,475. | 1,475. |  | 0.  |
+|  30 | TOOLS | 030414 | SL | 7.00 | 16 | 1,750. |  |  | 1,750. | 1,750. |  | 0.  |
+|  31 | TOOLS | 071714 | SL | 7.00 | 16 | 375. |  |  | 375. | 375. |  | 0.  |
+|  32 | OVEN | 052314 | SL | 7.00 | 16 | 19,373. |  |  | 19,373. | 19,373. |  | 0.  |
+|  33 | TOOLS | 012114 | SL | 7.00 | 16 | 1,100. |  |  | 1,100. | 1,100. |  | 0.  |
+|  35 | TOOLING | 080415 | SL | 7.00 | 16 | 650. |  |  | 650. | 650. |  | 0.  |
+|  36 | TOOLING | 090215 | SL | 7.00 | 16 | 1,488. |  |  | 1,488. | 1,488. |  | 0.  |
+|  37 | TOOLING | 090215 | SL | 7.00 | 16 | 370. |  |  | 370. | 370. |  | 0.  |
+|  38 | CAMERA | 011315 | SL | 7.00 | 16 | 2,660. |  |  | 2,660. | 2,660. |  | 0.  |
+|  41 | MACHINERY EQUIPMENT | 121616 | SL | 7.00 | 16 | 60,961. |  |  | 60,961. | 60,961. |  | 0.  |
+|  42 | PRO-FINISH - FL |  |  |  |  |  |  |  |  |  |  |   |
+|  43 | SILICA ELECTRICAL TEST | 020917 | SL | 7.00 | 16 | 81,361. |  |  | 81,361. | 80,582. |  | 779.  |
+|  43 | PANEL ELECTRONIC TEST | 012417 | SL | 7.00 | 16 | 3,200. |  |  | 3,200. | 3,162. |  | 38.  |
+|  44 | CONSOLE INTERFACE | 071117 | SL | 7.00 | 16 | 3,500. |  |  | 3,500. | 3,250. |  | 250.  |
+
+428102 04-01-24
+
+(C) - Asset disposed
+
+* ITC, Section 179, Salvage, Bonus, Commercial Revitalization Deduction
+
+--- PAGE 34 ---
+2024 DEPRECIATION AND AMORTIZATION REPORT
+
+- CURRENT YEAR BOOK
+
+COM-JET CORPORATION
+
+|  Asset No. | Description | Date Acquired | Method | Life | Line No. | Unadjusted Cost Or Basis | Bus % Excl | Reduction In Basis | Basis For Depreciation | Accumulated Depreciation | Current Sec 179 | Current Year Deduction  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  45 | INTERFACE BOX FOR CRJ | 04 25 17 SL | 7.00 | 16 | 4,200. |  |  |  | 4,200. | 4,000. |  | 200.  |
+|  48 | MACHINERY | 11 30 17 SL | 7.00 | 16 | 10,978. |  |  |  | 10,978. | 9,540. |  | 1,438.  |
+|  52 | MACHINERY PLATING PROCESS | 12 12 18 SL | 7.00 | 16 | 32,486. |  |  |  | 32,486. | 23,591. |  | 4,641.  |
+|  56 | TANKS WITH ACCESSOR | 10 31 22 SL | 7.00 | 16 | 7,000. |  |  |  | 7,000. | 1,167. |  | 1,000.  |
+|  61 | EQUIPMENT | 11 04 19 SL | 7.00 | 16 | 40,867. |  |  |  | 40,867. | 24,325. |  | 5,838.  |
+|  64 | METALMAQ MODEL 3VKH VERTICAL MILL | 06 15 20 SL | 7.00 | 16 | 25,771. |  |  |  | 25,771. | 13,193. |  | 3,682.  |
+|  69 | DAKE 50 TON HYDRAULIC PRESS | 04 16 21 SL | 7.00 | 16 | 3,266. |  |  |  | 3,266. | 1,245. |  | 467.  |
+|  78 | MSC BORING MILL CARRYOVER FROM 2023 | 01 25 23 SL | 7.00 | 16 | 8,058. |  |  |  | 8,058. | 1,055. |  | 1,151.  |
+|  88 | ASSET # 78 MACHINERY & |  |  |  |  |  |  |  |  |  |  | 0.  |
+|  91 | EQUIPMENT MACHINERY & | 09 24 24 SL | 7.00 | 16 | 3,390. |  |  |  | 3,390. |  |  | 121.  |
+|  92 | EQUIPMENT MACHINERY & | 10 15 24 SL | 7.00 | 16 | 8,271. |  |  |  | 8,271. |  |  | 295.  |
+|  93 | EQUIPMENT MACHINERY & | 10 22 24 SL | 7.00 | 16 | 3,518. |  |  |  | 3,518. |  |  | 84.  |
+|  94 | EQUIPMENT MACHINERY & | 11 22 24 SL | 7.00 | 16 | 5,527. |  |  |  | 5,527. |  |  | 66.  |
+|  95 | EQUIPMENT | 12 03 24 SL | 7.00 | 16 | 5,528. |  |  |  | 5,528. |  |  | 66.  |
+|   | * OTHER TOTAL - |  |  |  | 390,017. |  |  |  | 390,017. | 308,206. | 0. | 20,116.  |
+|  15 | TECHNICAL LIBRARY | 07 01 11 SL | 7.00 | 16 | 1,479. |  |  |  | 1,479. | 1,479. |  | 0.  |
+|   | * OTHER TOTAL - LEASEHOLD |  |  |  | 1,479. |  |  |  | 1,479. | 1,479. | 0. | 0.  |
+|  6 | IMPROVEMENTS | 07 01 12 SL | 39.00 | 16 | 6,000. |  |  |  | 6,000. | 1,764. |  | 154.  |
+
+409102 04-01-04
+
+(D) - Asset disposed
+
+* ITC, Section 179, Salvage, Bonus, Commercial Revitalization Deduction
+
+--- PAGE 35 ---
+2024 DEPRECIATION AND AMORTIZATION REPORT
+
+- CURRENT YEAR BOOK
+
+COM-JET CORPORATION
+
+|  Asset No. | Description | Date Acquired | Method | Life | Less No. | Unadjusted Cost Or Basis | Bus % Excl | Reduction In Basis | Basis For Depreciation | Accumulated Depreciation | Current Sec 179 | Current Year Deduction  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  57 | A/C SYSTEM | 03 07 22 SL | 39.00 | 16 | 23,500. |  |  |  | 23,500. | 1,105. |  | 603.  |
+|   | * OTHER TOTAL - |  |  |  | 29,500. |  |  |  | 29,500. | 2,869. | 0. | 757.  |
+|  46 | AUTOMOTIVE | 04 20 17 SL | 5.00 | 21 | 4,310. |  |  |  | 4,310. | 4,310. |  | 0.  |
+|  53 | AUTOMOTIVE | 07 20 18 SL | 5.00 | 16 | 1,524. |  |  |  | 1,524. | 1,524. |  | 0.  |
+|   | * OTHER TOTAL - |  |  |  | 5,834. |  |  |  | 5,834. | 5,834. | 0. | 0.  |
+|  65 | PILOT LOAN COSTS | 08 01 20 | 120M | 43 | 164,353. |  |  |  | 164,353. | 56,153. |  | 16,435.  |
+|  72 | AEGIS LOAN COSTS | 06 01 21 | 12M | 43 | 77,069. |  |  |  | 77,069. | 77,069. |  | 0.  |
+|   | * OTHER TOTAL - |  |  |  | 241,422. |  |  |  | 241,422. | 133,222. | 0. | 16,435.  |
+|   | * GRAND TOTAL OTHER DEPR & AMORT |  |  |  | 865,081. |  |  |  | 865,081. | 521,624. | 0. | 52,616.  |
+|   | CURRENT ACTIVITY |  |  |  |  |  |  |  |  |  |  |   |
+|   | BEGINNING BALANCE |  |  |  | 744,071. |  | 0. | 744,071. | 521,624. |  |  |   |
+|   | ACQUISITIONS |  |  |  | 121,010. |  | 0. | 121,010. | 0. |  |  |   |
+|   | DISPOSITIONS |  |  |  | 0. |  | 0. | 0. | 0. |  |  |   |
+|   | ENDING BALANCE |  |  |  | 865,081. |  | 0. | 865,081. | 521,624. |  |  |   |
+
+409102 04-01-24
+
+(D) - Asset disposed
+
+* ITC, Section 179, Salvage, Bonus, Commercial Revitalization Deduction
+
+--- PAGE 36 ---
+2025 DEPRECIATION AND AMORTIZATION REPORT
+
+- NEXT YEAR BOOK
+
+COM-JET CORPORATION
+
+|  Asset No. | Description | Date Acquired | Method | Life | Unadjusted Cost Or Basis | * Reduction In Basis | Basis For Depreciation | Accumulated Depreciation | Amount Of Depreciation  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  4 | FURNITURE & FIXTURES | 0701111SL | 7.00 | 838. |  |  | 838. | 838. | 0.  |
+|  5 | FURNITURE & FIXTURES | 0701112SL | 7.00 | 1,600. |  |  | 1,600. | 1,600. | 0.  |
+|  17 | FURNITURE & FIXTURES | 0331113SL | 7.00 | 1,850. |  |  | 1,850. | 1,850. | 0.  |
+|  34 | SHELVING | 0623115SL | 7.00 | 930. |  |  | 930. | 930. | 0.  |
+|  39 | OFFICE FURNITURE | 1005116SL | 7.00 | 7,995. |  |  | 7,995. | 7,995. | 0.  |
+|  49 | FURNITURE | 1019117SL | 7.00 | 10,420. |  |  | 10,420. | 10,420. | 0.  |
+|  50 | FURNITURE | 0705118SL | 7.00 | 6,654. |  |  | 6,654. | 6,180. | 474.  |
+|  54 | GULFSTREAM CONTAINER | 1012222SL | 7.00 | 2,700. |  |  | 2,700. | 868. | 386.  |
+|  73 | NATIONAL BUSINESS FURNITURE | 0131223SL | 7.00 | 11,843. |  |  | 11,843. | 3,243. | 1,692.  |
+|  74 | FURNITURE & FIXTURES | 0330223SL | 7.00 | 3,250. |  |  | 3,250. | 812. | 464.  |
+|  77 | FURNITURE & FIXTURES | 1213223SL | 7.00 | 10,000. |  |  | 10,000. | 1,548. | 1,429.  |
+|  85 | CARRYOVER FROM 2023 ASSET # 73 |  |  |  |  |  |  |  | 0.  |
+|  86 | CARRYOVER FROM 2023 ASSET # 74 |  |  |  |  |  |  |  | 0.  |
+|  87 | CARRYOVER FROM 2023 ASSET # 77 |  |  |  |  |  |  |  | 0.  |
+|  89 | FURNITURE & FIXTURES | 0311224SL | 7.00 | 9,950. |  |  | 9,950. | 1,185. | 1,421.  |
+|  90 | FURNITURE & FIXTURES | 0726224SL | 7.00 | 14,913. |  |  | 14,913. | 888. | 2,130.  |
+|  96 | FURNITURE & FIXTURES | 1108224SL | 7.00 | 14,913. |  |  | 14,913. | 355. | 2,130.  |
+|  97 | FURNITURE & FIXTURES | 0612224SL | 7.00 | 55,000. |  |  | 55,000. | 4,583. | 7,857.  |
+|   | * OTHER TOTAL - |  |  | 152,856. |  |  | 152,856. | 43,295. | 17,983.  |
+|  10 | OFFICE EQUIPMENT | 0701111SL | 7.00 | 5,524. |  |  | 5,524. | 5,524. | 0.  |
+|  12 | OFFICE EQUIPMENT | 0701112SL | 7.00 | 898. |  |  | 898. | 898. | 0.  |
+|  19 | OFFICE EQUIPMENT | 1031113SL | 7.00 | 1,275. |  |  | 1,275. | 1,275. | 0.  |
+|  24 | COMPUTER | 0530114SL | 5.00 | 3,133. |  |  | 3,133. | 3,133. | 0.  |
+|  40 | OFFICE EQUIPMENT | 1102116SL | 7.00 | 21,114. |  |  | 21,114. | 21,114. | 0.  |
+|  47 | OFFICE EQUIPMENT | 0627117SL | 7.00 | 284. |  |  | 284. | 284. | 0.  |
+|  51 | OFFICE EQUIPMENT | 1001118SL | 7.00 | 3,163. |  |  | 3,163. | 2,825. | 338.  |
+|  55 | NETWORK COMPUTER PROS | 1031222SL | 5.00 | 2,503. |  |  | 2,503. | 1,085. | 501.  |
+|  62 | OFFICE EQUIPMENT | 1117119SL | 5.00 | 3,206. |  |  | 3,206. | 3,206. | 0.  |
+|  63 | 2 DELL COMPUTERS | 0505202SL | 5.00 | 2,873. |  |  | 2,873. | 2,683. | 190.  |
+|   | * OTHER TOTAL - |  |  | 43,973. |  |  | 43,973. | 42,027. | 1,029.  |
+|  11 | MACHINERY & EQUIPMENT | 0701111SL | 7.00 | 6,057. |  |  | 6,057. | 6,057. | 0.  |
+|  13 | SHOP EQUIPMENT | 0701112SL | 7.00 | 17,961. |  |  | 17,961. | 17,961. | 0.  |
+|  18 | OFFICE EQUIPMENT | 0831113SL | 7.00 | 560. |  |  | 560. | 560. | 0.  |
+|  20 | MACHINERY & EQUIPMENT | 0228113SL | 7.00 | 950. |  |  | 950. | 950. | 0.  |
+
+429103 04-01-24
+
+(D) - Asset disposed
+
+* ITC, Section 179, Salvage, HR 3090, Commercial Revitalization Deduction, GO Zone
+
+--- PAGE 37 ---
+2025 DEPRECIATION AND AMORTIZATION REPORT
+
+- NEXT YEAR BOOK
+
+COM-JET CORPORATION
+
+|  Asset No | Description | Date Acquired | Method | Life | Unadjusted Cost Or Basis | * Reduction In Basis | Basis For Depreciation | Accumulated Depreciation | Amount Of Depreciation  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  21 | MACHINERY & EQUIPMENT | 083113 | SL | 7.00 | 2,615. |  | 2,615. | 2,615. | 0.  |
+|  22 | MACHINERY & EQUIPMENT | 123113 | SL | 7.00 | 9,389. |  | 9,389. | 9,389. | 0.  |
+|  23 | EQUIPMENT | 063013 | SL | 7.00 | 1,500. |  | 1,500. | 1,500. | 0.  |
+|  25 | COMPUTER | 031814 | SL | 5.00 | 2,859. |  | 2,859. | 2,859. | 0.  |
+|  26 | COMPUTER | 031814 | SL | 5.00 | 2,932. |  | 2,932. | 2,932. | 0.  |
+|  27 | SECURITY CAMERA | 112514 | SL | 7.00 | 4,500. |  | 4,500. | 4,500. | 0.  |
+|  28 | SECURITY CAMERA | 100814 | SL | 7.00 | 3,571. |  | 3,571. | 3,571. | 0.  |
+|  29 | TOOLS | 042514 | SL | 7.00 | 1,475. |  | 1,475. | 1,475. | 0.  |
+|  30 | TOOLS | 030414 | SL | 7.00 | 1,750. |  | 1,750. | 1,750. | 0.  |
+|  31 | TOOLS | 071714 | SL | 7.00 | 375. |  | 375. | 375. | 0.  |
+|  32 | OVEN | 052314 | SL | 7.00 | 19,373. |  | 19,373. | 19,373. | 0.  |
+|  33 | TOOLS | 012114 | SL | 7.00 | 1,100. |  | 1,100. | 1,100. | 0.  |
+|  35 | TOOLING | 080415 | SL | 7.00 | 650. |  | 650. | 650. | 0.  |
+|  36 | TOOLING | 090215 | SL | 7.00 | 1,488. |  | 1,488. | 1,488. | 0.  |
+|  37 | TOOLING | 090215 | SL | 7.00 | 370. |  | 370. | 370. | 0.  |
+|  38 | CAMERA | 011315 | SL | 7.00 | 2,660. |  | 2,660. | 2,660. | 0.  |
+|  41 | MACHINERY EQUIPMENT | 121616 | SL | 7.00 | 60,961. |  | 60,961. | 60,961. | 0.  |
+|  42 | PRO-FINISH - FL SILICA | 020917 | SL | 7.00 | 81,361. |  | 81,361. | 81,361. | 0.  |
+|  43 | ELECTRICAL TEST PANEL | 012417 | SL | 7.00 | 3,200. |  | 3,200. | 3,200. | 0.  |
+|  44 | ELECTRONIC TEST CONSOLE INTERFACE | 071117 | SL | 7.00 | 3,500. |  | 3,500. | 3,500. | 0.  |
+|  45 | INTERFACE BOX FOR CRJ | 042517 | SL | 7.00 | 4,200. |  | 4,200. | 4,200. | 0.  |
+|  48 | MACHINERY | 113017 | SL | 7.00 | 10,978. |  | 10,978. | 10,978. | 0.  |
+|  52 | MACHINERY | 121218 | SL | 7.00 | 32,486. |  | 32,486. | 28,232. | 4,254.  |
+|   | PLATING PROCESS TANKS WITH |  |  |  |  |  |  |  |   |
+|  56 | ACCESSORIES | 103122 | SL | 7.00 | 7,000. |  | 7,000. | 2,167. | 1,000.  |
+|  61 | EQUIPMENT | 110419 | SL | 7.00 | 40,867. |  | 40,867. | 30,163. | 5,838.  |
+|  64 | METALMAQ MODEL 3VKH VERTICAL MILL | 061520 | SL | 7.00 | 25,771. |  | 25,771. | 16,875. | 3,682.  |
+|  69 | DAKE 50 TON HYDRAULIC PRESS | 041621 | SL | 7.00 | 3,266. |  | 3,266. | 1,712. | 467.  |
+|  78 | MSC BORING MILL | 012523 | SL | 7.00 | 8,058. |  | 8,058. | 2,206. | 1,151.  |
+|  88 | CARRYOVER FROM 2023 ASSET # 78 |  |  |  |  |  |  |  | 0.  |
+|  91 | MACHINERY & EQUIPMENT | 092424 | SL | 7.00 | 3,390. |  | 3,390. | 121. | 484.  |
+|  92 | MACHINERY & EQUIPMENT | 101524 | SL | 7.00 | 8,271. |  | 8,271. | 295. | 1,182.  |
+|  93 | MACHINERY & EQUIPMENT | 102224 | SL | 7.00 | 3,518. |  | 3,518. | 84. | 503.  |
+|  94 | MACHINERY & EQUIPMENT | 112224 | SL | 7.00 | 5,527. |  | 5,527. | 66. | 790.  |
+
+409103 04-01-04
+
+(D) - Asset disposed
+
+* ITC, Section 179, Salvage, HR 3090, Commercial Revitalization Deduction, GO Zone
+
+--- PAGE 38 ---
+2025 DEPRECIATION AND AMORTIZATION REPORT
+
+- NEXT YEAR BOOK
+
+COM-JET CORPORATION
+
+|  Asset No. | Description | Date Acquired | Method | Life | Unadjusted Cost Or Basis | * Reduction In Basis | Basis For Depreciation | Accumulated Depreciation | Amount Of Depreciation  |
+| --- | --- | --- | --- | --- | --- | --- | --- | --- | --- |
+|  95 | MACHINERY & EQUIPMENT | 12/03/24 | SL | 7.00 | 5,528. |  | 5,528. | 66. | 790.  |
+|   | * OTHER TOTAL - |  |  |  | 390,017. |  | 390,017. | 328,322. | 20,141.  |
+|  15 | TECHNICAL LIBRARY | 07/01/11 | SL | 7.00 | 1,479. |  | 1,479. | 1,479. | 0.  |
+|   | * OTHER TOTAL - |  |  |  | 1,479. |  | 1,479. | 1,479. | 0.  |
+|  6 | LEASEHOLD IMPROVEMENTS | 07/01/12 | SL | 39.00 | 6,000. |  | 6,000. | 1,918. | 154.  |
+|  57 | A/C SYSTEM | 03/07/22 | SL | 39.00 | 23,500. |  | 23,500. | 1,708. | 603.  |
+|   | * OTHER TOTAL - |  |  |  | 29,500. |  | 29,500. | 3,626. | 757.  |
+|  46 | AUTOMOTIVE | 04/20/17 | SL | 5.00 | 4,310. |  | 4,310. | 4,310. | 0.  |
+|  53 | AUTOMOTIVE | 07/20/18 | SL | 5.00 | 1,524. |  | 1,524. | 1,524. | 0.  |
+|   | * OTHER TOTAL - |  |  |  | 5,834. |  | 5,834. | 5,834. | 0.  |
+|  65 | PILOT LOAN COSTS | 08/01/20 |  | 120M | 164,353. |  | 164,353. | 72,588. | 16,435.  |
+|  72 | AEGIS LOAN COSTS | 06/01/21 |  | 12M | 77,069. |  | 77,069. | 77,069. | 0.  |
+|   | * OTHER TOTAL - |  |  |  | 241,422. |  | 241,422. | 149,657. | 16,435.  |
+|   | * GRAND TOTAL OTHER DEPR & AMORT |  |  |  | 865,081. |  | 865,081. | 574,240. | 56,345.  |
+
+428103 04-01-24
+
+(D) - Asset disposed
+
+* ITC, Section 179, Salvage, HR 3090, Commercial Revitalization Deduction, GO Zone
+
+--- PAGE 39 ---
+671124
+
+# Schedule K-1 (Form 1120-S)
+
+Department of the Treasury
+Internal Revenue Service
+
+2024
+
+For calendar year 2024, or tax
+year beginning
+ending
+
+Shareholder's Share of Income, Deductions, Credits, etc. See separate instructions.
+
+|  Part I Information About the Corporation  |   |
+| --- | --- |
+|  A Corporation's employer identification number 59-2051580  |   |
+|  B Corporation's name, address, city, state, and ZIP code COM-JET CORPORATION 8235 NW 56 STREET MIAMI, FL 33166  |   |
+|  C IRS Center where corporation filed return E-FILE  |   |
+|  D Corporation's total number of shares Beginning of tax year 1,000.00 End of tax year 1,000.00  |   |
+|  Part II Information About the Shareholder  |   |
+|  E Shareholder's identifying number 262-96-9168  |   |
+|  F1 Shareholder's name, address, city, state, and ZIP code JEANNETTE FOREMAN 485 COURTNEY OAKS DRIVE ST AUGUSTINE, FL 32092  |   |
+|  F2 If the shareholder is a disregarded entity, a trust, an estate, or a nominee or similar person, enter the individual or entity responsible for reporting: TIN Name F3 What type of entity is this shareholder? INDIVIDUAL  |   |
+|  G Current year allocation percentage 42.000000%  |   |
+|  H Shareholder's number of shares Beginning of tax year 420.00 End of tax year 420.00  |   |
+|  I Loans from shareholder Beginning of tax year $ 6,161. End of tax year $ 6,161.  |   |
+|  For IRS Use Only  |   |
+
+☐ Final K-1 ☐ Amended K-1 OMB No. 1545-0123
+
+|  Part III Shareholder's Share of Current Year Income, Deductions, Credits, and Other Items  |   |   |   |
+| --- | --- | --- | --- |
+|  1 | Ordinary business income (loss) 393,378. | 13 | Credits  |
+|  2 | Net rental real estate inc (loss) |  |   |
+|  3 | Other net rental income (loss) |  |   |
+|  4 | Interest income 9,314. |  |   |
+|  5a | Ordinary dividends |  |   |
+|  5b | Qualified dividends | 14 | Schedule K-3 is attached if checked ☐  |
+|  6 | Royalties | 15 | Alternative min tax (AMT) items  |
+|  7 | Net short-term capital gain (loss) |  |   |
+|  8a | Net long-term capital gain (loss) |  |   |
+|  8b | Collectibles (28%) gain (loss) |  |   |
+|  8c | Unrecaptured sec 1250 gain |  |   |
+|  9 | Net section 1231 gain (loss) | 16 C* | Items affecting shareholder basis 61,693.  |
+|  10 | Other income (loss) |  |   |
+|  |   |   |   |
+|  |   |   |   |
+|   |  | 17 A | Other information 9,314.  |
+|  11 | Section 179 deduction 64,748. | V | * STMT  |
+|  12 A | Other deductions 8,568. | AC | * STMT  |
+|   |  | AJ | * STMT  |
+|  |   |   |   |
+|  |   |   |   |
+|  |   |   |   |
+|  |   |   |   |
+|  |   |   |   |
+|  18 ☐ More than one activity for at-risk purposes* 19 ☐ More than one activity for passive activity purposes* *See attached statement for additional information.  |   |   |   |
+
+LHA For Paperwork Reduction Act Notice, see the Instructions for Form 1120-S.
+
+411271 12-10-24
+
+www.irs.gov/Form1120S
+
+Schedule K-1 (Form 1120-S) 2024
+
+13350722 756350 18968000
+
+2024.04010 COM-JET CORPORATION
+
+18968001
+
+--- PAGE 40 ---
+COM-JET CORPORATION
+59-2051580
+
+SCHEDULE K-1 NONDEDUCTIBLE EXPENSES, BOX 16, CODE C
+
+|  DESCRIPTION | AMOUNT | SHAREHOLDER FILING INSTRUCTIONS  |
+| --- | --- | --- |
+|  ENTERTAINMENT | 18,428. |   |
+|  EXCLUDED MEALS EXPENSES | 43,265. | SEE SHAREHOLDERS INSTRUCTIONS  |
+|  TOTAL | 61,693. |   |
+
+SCHEDULE K-1 SECTION 199A ADDITIONAL INFORMATION
+
+THE SECTION 199A AMOUNTS TO BE USED IN THE CALCULATION OF THE QUALIFIED BUSINESS INCOME DEDUCTION ON YOUR 1040/1041 RETURN ARE REPORTED ON LINE 17, UNDER CODE V. PLEASE CONSULT YOUR TAX ADVISOR REGARDING THE CALCULATION OF QUALIFIED BUSINESS INCOME DEDUCTION, INCLUDING THE POSSIBLE AGGREGATIONS AND LIMITATIONS THAT MAY APPLY AND THE FILING OF THE 1.199A-4(C)(2)(I) ANNUAL DISCLOSURE STATEMENT.
+
+SCHEDULE K-1 SECTION 199A ITEMS, BOX 17 CODE V
+
+|  DESCRIPTION | AMOUNT  |
+| --- | --- |
+|  TRADE OR BUSINESS |   |
+|  ORDINARY INCOME (LOSS) | 393,378.  |
+|  SECTION 179 DEDUCTION | 64,748.  |
+|  W-2 WAGES | 1,646,461.  |
+|  UNADJUSTED BASIS | 222,753.  |
+
+13350722 756350 18968000
+40
+SHAREHOLDER 1
+2024.04010 COM-JET CORPORATION
+18968001
+
+--- PAGE 41 ---
+COM-JET CORPORATION
+59-2051580
+
+SCHEDULE K-1 GROSS RECEIPTS FOR SECTION 448(C), BOX 17, CODE AC
+
+|  DESCRIPTION | AMOUNT  |
+| --- | --- |
+|  GROSS RECEIPTS - CURRENT YEAR | 6,028,508.  |
+
+SCHEDULE K-1 SCHEDULE K-3 NOTIFICATION
+
+THE SCHEDULE K-3 HAS NOT BEEN PREPARED FOR YOU. YOU WILL NOT RECEIVE A COPY OF THE SCHEDULE UNLESS YOU REQUEST ONE.
+
+SCHEDULE K-1 EXCESS BUSINESS LOSS LIMITATION, BOX 17, CODE AJ
+
+|  DESCRIPTION | AMOUNT | SHAREHOLDER FILING INSTRUCTIONS  |
+| --- | --- | --- |
+|  AGGREGATE BUSINESS ACTIVITY |  |   |
+|  GROSS INCOME OR GAIN | 2,598,666. | SEE IRS SCH. K-1 INSTRUCTIONS  |
+|  AGGREGATE BUSINESS ACTIVITY DEDUCTIONS | 2,205,288. | SEE IRS SCH. K-1 INSTRUCTIONS  |
+
+13350722 756350 18968000
+41
+SHAREHOLDER 1
+2024.04010 COM-JET CORPORATION
+18968001
+
+--- PAGE 42 ---
+1
+
+# List of Codes
+
+This list identifies the codes used on Schedule K-1 for all shareholders. For detailed reporting and filing information, see the specific line instructions, earlier, and the instructions for your income tax return.
+
+## Box 10. Other income (loss)
+
+|  Code | L | Deductions - Portfolio income (other) | Q | Unused investment credit from the qualifying advanced energy project credit allocated from cooperatives  |
+| --- | --- | --- | --- | --- |
+|  A | Other portfolio income (loss) | M | Preproductive period expenses |   |
+|  B | Involuntary conversions | N | Reserved for future use | R  |
+|  C | Section 1256 contracts and straddles | O | Reforestation expense deduction |   |
+|  D | Mining exploration costs recapture | P - V | Reserved for future use | S  |
+|  E | Section 951A(a) income inclusions | W | Soil and water conservation | U  |
+|  F | Inclusions of subpart F income | X | Film, television, and theatrical production expenditures | V  |
+|  G | Section 951(a)(1)(B) inclusions | Y | Expenditures for removal of barriers | V  |
+|  H | Reserved for future use | Z | Itemized deductions | Z  |
+|  I | Gain (loss) from disposition of oil, gas, geothermal, or other mineral properties | AA | Contributions to a capital construction fund (CCF) | U  |
+|  J | Recoveries of tax benefit items | AB | Penalty on early withdrawal of savings | V  |
+|  K | Gambling gains and losses | AC | Interest expense allocated to debt financed distributions | V  |
+|  L | Reserved for future use | AD - AJ | Reserved for future use | V  |
+|  M | Gain eligible for section 1045 rollover (replacement stock purchased by the corporation) | ZZ | Other deductions | Z  |
+|  N | Gain eligible for section 1045 rollover (replacement stock not purchased by the corporation) | Box 13. Credits |  |   |
+|  O | Sale or exchange of QSB stock with section 1202 exclusion | A | Zero-emission nuclear power production credit | W  |
+|  P - R | Reserved for future use | B | Credit for production from advanced nuclear power facilities | W  |
+|  S | Non-portfolio capital gain (loss) | C | Low-income housing credit (section 42(j)(5)) from post-2007 buildings | C  |
+|  T - X | Reserved for future use | D | Low-income housing credit (other) from post-2007 buildings | C  |
+|  ZZ | Other income (loss) | E | Qualified rehabilitation expenditures (rental real estate) | Z  |
+|  Box 12. Other deductions |  | F | Other rental real estate credits | Z  |
+|  A | Cash contributions (60%) | G | Other rental credits | Z  |
+|  B | Cash contributions (30%) | H | Undistributed capital gains credit | H  |
+|  C | Noncash contributions (50%) | I | Biofuel producer credit | I  |
+|  D | Noncash contributions (30%) | J | Work opportunity credit | J  |
+|  E | Capital gain property to a 50% limit organization (30%) | K | Disabled access credit | K  |
+|  F | Capital gain property (20%) | L | Empowerment zone employment credit | L  |
+|  G | Contributions (100%) | M | Credit for increasing research activities | M  |
+|  H | Investment interest expense | N | Credit for empoyer social security and Medicare taxes | N  |
+|  I | Deductions - Royalty income | O | Backup withholding | O  |
+|  J | Section 59(e)(2) expenditures | P | Unused investment credit from the qualifying advanced coal project credit or qualifying gasification project credit allocated from cooperatives | P  |
+|  K | Reserved for future use |  |  |   |
+
+411799
+01-16-25
+
+13350722 756350 18968000
+
+-20-
+
+42
+
+2024.04010 COM-JET CORPORATION
+
+1
+
+18968001
+
+--- PAGE 43 ---
+1
+
+AT Qualified school construction bond credit
+AU Build America bond credit
+AV Credit for employer differential wage payments
+AW Carbon oxide sequestration credit
+AX Carbon oxide sequestration credit recapture
+AY New clean vehicle credit
+AZ Qualified commercial clean vehicle credit
+BA Credit for small employer health insurance premiums
+BB Employer credit for paid family and medical leave
+BC Eligible credits from transferor(s) under section 6418
+BD-BG Reserved for future use
+ZZ Other credits
+
+Box 15. Alternative minimum tax (AMT) items
+A Post-1986 depreciation adjustment
+B Adjusted gain or loss
+C Depletion (other than oil &amp; gas)
+D Oil, gas, &amp; geothermal - Gross income
+E Oil, gas, &amp; geothermal - Deductions
+F Other AMT items
+
+Box 16. Items affecting shareholder basis
+A Tax-exempt interest income
+B Other tax - exempt income
+C Nondeductible expenses
+D Distributions
+E Repayment of loans from shareholders
+F Foreign taxes paid or accrued
+
+Box 17. Other information
+A Investment income
+B Investment expenses
+C Qualified rehabilitation expenditures (other than rental real estate)
+D Basis of energy property
+E Recapture of low-income housing credit (section 42(j)(5))
+F Recapture of low-income housing credit (other)
+G Recapture of investment credit
+H Recapture of other credits
+I Look - back interest - Completed long-term contracts
+J Look-back interest - income forecast method
+K Dispositions of property with section 179 deductions
+L Recapture of section 179 deduction
+M Section 453(l)(3) information
+N Section 453A(c) information
+O Section 1260(b) information
+P Interest allocable to production expenditures
+Q Capital construction fund (CCF) nonqualified withdrawals
+R Depletion information - Oil and gas
+S-T Reserved for future use
+U Net investment income
+V Section 199A information
+W-Z Reserved for future use
+AA Excess taxable income
+AB Excess business interest income
+AC Gross receipts for section 448(c)
+AD-AI Reserved for future use
+AJ Excess business loss limitation
+
+AK-AM Reserved for future use
+AN Farming and fishing income
+AO Reserved for future use
+AP Inversion gain
+AQ-AR Reserved for future use
+AS Qualifying advanced coal project property and qualifying gasification project property
+AT Qualifying advanced energy project property
+AU Advanced manufacturing investment property
+AV Clean electricity investment property
+AW Reportable transactions
+AX-BD Reserved for future use
+ZZ Other information
+
+411800
+01-16-25
+13350722 756350 18968000
+-21-
+43
+2024.04010 COM-JET CORPORATION
+18968001
+
+--- PAGE 44 ---
+671124
+
+# Schedule K-1 (Form 1120-S)
+
+Department of the Treasury
+Internal Revenue Service
+
+2024
+
+For calendar year 2024, or tax
+year beginning
+ending
+
+Shareholder's Share of Income, Deductions, Credits, etc. See separate instructions.
+
+|  Part I Information About the Corporation  |   |
+| --- | --- |
+|  A Corporation's employer identification number 59-2051580  |   |
+|  B Corporation's name, address, city, state, and ZIP code COM-JET CORPORATION 8235 NW 56 STREET MIAMI, FL 33166  |   |
+|  C IRS Center where corporation filed return E-FILE  |   |
+|  D Corporation's total number of shares Beginning of tax year 1,000.00 End of tax year 1,000.00  |   |
+|  Part II Information About the Shareholder  |   |
+|  E Shareholder's identifying number 592-07-9965  |   |
+|  F1 Shareholder's name, address, city, state, and ZIP code MELANIE FOREMAN 560 WESTWOOD LANE WESTON, FL 33326  |   |
+|  F2 If the shareholder is a disregarded entity, a trust, an estate, or a nominee or similar person, enter the individual or entity responsible for reporting; TIN Name F3 What type of entity is this shareholder? INDIVIDUAL  |   |
+|  G Current year allocation percentage 14.500000%  |   |
+|  H Shareholder's number of shares Beginning of tax year 145.00 End of tax year 145.00  |   |
+|  I Loans from shareholder Beginning of tax year $ End of tax year $ 128,694.  |   |
+|  For IRS Use Only  |   |
+
+☐ Final K-1 ☐ Amended K-1
+OMB No. 1545-0123
+
+|  Part III Shareholder's Share of Current Year Income, Deductions, Credits, and Other Items  |   |   |   |
+| --- | --- | --- | --- |
+|  1 | Ordinary business income (loss) 135,809. | 13 | Credits  |
+|  2 | Net rental real estate inc (loss) |  |   |
+|  3 | Other net rental income (loss) |  |   |
+|  4 | Interest income 3,215. |  |   |
+|  5a | Ordinary dividends |  |   |
+|  5b | Qualified dividends | 14 | Schedule K-3 is attached if checked ☐  |
+|  6 | Royalties | 15 | Alternative min tax (AMT) items  |
+|  7 | Net short-term capital gain (loss) |  |   |
+|  8a | Net long-term capital gain (loss) |  |   |
+|  8b | Collectibles (28%) gain (loss) |  |   |
+|  8c | Unrecaptured sec 1250 gain |  |   |
+|  9 | Net section 1231 gain (loss) | 16 C* | Items affecting shareholder basis 21,298.  |
+|  10 | Other income (loss) |  |   |
+|  |   |   |   |
+|  |   |   |   |
+|   |  | 17 A | Other information 3,215.  |
+|  11 | Section 179 deduction 22,353. | V | * STMT  |
+|  12 A | Other deductions 2,959. | AC | * STMT  |
+|   |  | AJ | * STMT  |
+|  |   |   |   |
+|  |   |   |   |
+|  |   |   |   |
+|  |   |   |   |
+|  |   |   |   |
+|  |   |   |   |
+|  18 | More than one activity for at-risk purposes* |  |   |
+|  19 | More than one activity for passive activity purposes* |  |   |
+|  *See attached statement for additional information.  |   |   |   |
+
+LHA For Paperwork Reduction Act Notice, see the Instructions for Form 1120-S.
+
+411271 12-10-24
+
+www.irs.gov/Form1120S
+
+Schedule K-1 (Form 1120-S) 2024
+
+13350722 756350 18968000
+
+2024.04010 COM-JET CORPORATION
+
+18968001
+
+--- PAGE 45 ---
+COM-JET CORPORATION
+59-2051580
+
+SCHEDULE K-1 NONDEDUCTIBLE EXPENSES, BOX 16, CODE C
+
+|  DESCRIPTION | AMOUNT | SHAREHOLDER FILING INSTRUCTIONS  |
+| --- | --- | --- |
+|  ENTERTAINMENT | 6,362. |   |
+|  EXCLUDED MEALS EXPENSES | 14,936. | SEE SHAREHOLDERS INSTRUCTIONS  |
+|  TOTAL | 21,298. |   |
+
+SCHEDULE K-1 SECTION 199A ADDITIONAL INFORMATION
+
+THE SECTION 199A AMOUNTS TO BE USED IN THE CALCULATION OF THE QUALIFIED BUSINESS INCOME DEDUCTION ON YOUR 1040/1041 RETURN ARE REPORTED ON LINE 17, UNDER CODE V. PLEASE CONSULT YOUR TAX ADVISOR REGARDING THE CALCULATION OF QUALIFIED BUSINESS INCOME DEDUCTION, INCLUDING THE POSSIBLE AGGREGATIONS AND LIMITATIONS THAT MAY APPLY AND THE FILING OF THE 1.199A-4(C)(2)(I) ANNUAL DISCLOSURE STATEMENT.
+
+SCHEDULE K-1 SECTION 199A ITEMS, BOX 17 CODE V
+
+|  DESCRIPTION | AMOUNT  |
+| --- | --- |
+|  TRADE OR BUSINESS |   |
+|  ORDINARY INCOME (LOSS) | 135,809.  |
+|  SECTION 179 DEDUCTION | 22,353.  |
+|  W-2 WAGES | 568,421.  |
+|  UNADJUSTED BASIS | 76,903.  |
+
+13350722 756350 18968000
+45
+SHAREHOLDER 2
+2024.04010 COM-JET CORPORATION
+18968001
+
+--- PAGE 46 ---
+COM-JET CORPORATION
+59-2051580
+
+SCHEDULE K-1 GROSS RECEIPTS FOR SECTION 448(C), BOX 17, CODE AC
+
+|  DESCRIPTION | AMOUNT  |
+| --- | --- |
+|  GROSS RECEIPTS - CURRENT YEAR | 2,081,270.  |
+
+SCHEDULE K-1 SCHEDULE K-3 NOTIFICATION
+
+THE SCHEDULE K-3 HAS NOT BEEN PREPARED FOR YOU. YOU WILL NOT RECEIVE A COPY OF THE SCHEDULE UNLESS YOU REQUEST ONE.
+
+SCHEDULE K-1 EXCESS BUSINESS LOSS LIMITATION, BOX 17, CODE AJ
+
+|  DESCRIPTION | AMOUNT | SHAREHOLDER FILING INSTRUCTIONS  |
+| --- | --- | --- |
+|  AGGREGATE BUSINESS ACTIVITY |  |   |
+|  GROSS INCOME OR GAIN | 897,159. | SEE IRS SCH. K-1 INSTRUCTIONS  |
+|  AGGREGATE BUSINESS ACTIVITY DEDUCTIONS | 761,350. | SEE IRS SCH. K-1 INSTRUCTIONS  |
+
+13350722 756350 18968000
+46
+SHAREHOLDER 2
+2024.04010 COM-JET CORPORATION
+18968001
+
+--- PAGE 47 ---
+2
+
+# List of Codes
+
+This list identifies the codes used on Schedule K-1 for all shareholders. For detailed reporting and filing information, see the specific line instructions, earlier, and the instructions for your income tax return.
+
+## Box 10. Other income (loss)
+
+|  Code | Description | Notes  |
+| --- | --- | --- |
+|  A | Other portfolio income (loss) | L Deductions - Portfolio income (other)  |
+|  B | Involuntary conversions | M Preproductive period expenses  |
+|  C | Section 1256 contracts and straddles | N Reserved for future use  |
+|  D | Mining exploration costs recapture | O Reforestation expense deduction  |
+|  E | Section 951A(a) income inclusions | P - V Reserved for future use  |
+|  F | Inclusions of subpart F income | W Soil and water conservation  |
+|  G | Section 951(a)(1)(B) inclusions | X Film, television, and theatrical production expenditures  |
+|  H | Reserved for future use | Y Expenditures for removal of barriers  |
+|  I | Gain (loss) from disposition of oil, gas, geothermal, or other mineral properties | Z Itemized deductions  |
+|  J | Recoveries of tax benefit items | AA Contributions to a capital construction fund (CCF)  |
+|  K | Gambling gains and losses | AB Penalty on early withdrawal of savings  |
+|  L | Reserved for future use | AC Interest expense allocated to debt financed distributions  |
+|  M | Gain eligible for section 1045 rollover (replacement stock purchased by the corporation) | AD - AJ Reserved for future use  |
+|  N | Gain eligible for section 1045 rollover (replacement stock not purchased by the corporation) | ZZ Other deductions  |
+|  O | Sale or exchange of QSB stock with section 1202 exclusion |   |
+|  P - R | Reserved for future use |   |
+|  S | Non-portfolio capital gain (loss) |   |
+|  T - X | Reserved for future use |   |
+|  ZZ | Other income (loss) |   |
+
+## Box 12. Other deductions
+
+|  Code | Description | Notes  |
+| --- | --- | --- |
+|  A | Cash contributions (60%) | L Deductions - Portfolio income (other)  |
+|  B | Cash contributions (30%) | M Preproductive period expenses  |
+|  C | Noncash contributions (30%) | N Reserved for future use  |
+|  D | Capital gain property to a 50% limit organization (30%) | O Reforestation expense deduction  |
+|  E | Capital gain property (20%) | P - V Reserved for future use  |
+|  G | Contributions (100%) | AD - AJ Reserved for future use  |
+|  H | Investment interest expense | ZZ Other deductions  |
+|  I | Deductions - Royalty income |   |
+|  J | Section 59(e)(2) expenditures |   |
+|  K | Reserved for future use |   |
+
+## Q
+Unused investment credit from the qualifying advanced energy project credit allocated from cooperatives
+
+## R
+Unused investment credit from the advanced manufacturing investment credit allocated from cooperatives
+
+## S
+Unused investment credit from clean electricity credit allocated from cooperatives
+
+## T
+Unused investment credit from the energy credit allocated from cooperatives
+
+## U
+Unused investment credit from the rehabilitation credit allocated from cooperatives
+
+## V
+Advanced manufacturing production credit
+
+## W
+Clean electricity production credit
+
+## X
+Clean fuel production credit
+
+## Y
+Clean hydrogen production credit
+
+## Z
+Orphan drug credit
+
+## AA
+Enhanced oil recovery credit
+
+## AB
+Renewable electricity production credit
+
+## AC
+Biodiesel, renewable diesel, or sustainable aviation fuels credit
+
+## AD
+New markets credit
+
+## AE
+Credit for small employer pension plan startup costs
+
+## AF
+Credit for small employer auto-enrollment
+
+## AG
+Credit for military spouse participation
+
+## AH
+Credit for employer-provided childcare facilities and services
+
+## AI
+Low sulfur diesel fuel production credit
+
+## AJ
+Qualified railroad track maintenance credit
+
+## AK
+Credit for oil and gas production from marginal wells
+
+## AL
+Distilled spirits credit
+
+## AM
+Energy efficient home credit
+
+## AN
+Reserved for future use
+
+## AO
+Alternative fuel vehicle refueling property credit
+
+## AP
+Clean renewable energy bond credit
+
+## AQ
+New clean renewable energy bond credit
+
+## AR
+Qualified energy conservation bond credit
+
+## AS
+Qualified zone academy bond credit
+
+411799
+01-16-25
+13350722 756350 18968000
+-20-
+47
+2024.04010 COM-JET CORPORATION
+2
+18968001
+
+--- PAGE 48 ---
+2
+
+AT Qualified school construction bond credit
+AU Build America bond credit
+AV Credit for employer differential wage payments
+AW Carbon oxide sequestration credit
+AX Carbon oxide sequestration credit recapture
+AY New clean vehicle credit
+AZ Qualified commercial clean vehicle credit
+BA Credit for small employer health insurance premiums
+BB Employer credit for paid family and medical leave
+BC Eligible credits from transferor(s) under section 6418
+BD-BG Reserved for future use
+ZZ Other credits
+
+Box 15. Alternative minimum tax (AMT) items
+A Post-1986 depreciation adjustment
+B Adjusted gain or loss
+C Depletion (other than oil &amp; gas)
+D Oil, gas, &amp; geothermal - Gross income
+E Oil, gas, &amp; geothermal - Deductions
+F Other AMT items
+
+Box 16. Items affecting shareholder basis
+A Tax-exempt interest income
+B Other tax - exempt income
+C Nondeductible expenses
+D Distributions
+E Repayment of loans from shareholders
+F Foreign taxes paid or accrued
+
+Box 17. Other information
+A Investment income
+B Investment expenses
+C Qualified rehabilitation expenditures (other than rental real estate)
+D Basis of energy property
+E Recapture of low-income housing credit (section 42(j)(5))
+F Recapture of low-income housing credit (other)
+G Recapture of investment credit
+H Recapture of other credits
+I Look - back interest - Completed long-term contracts
+J Look-back interest - income forecast method
+K Dispositions of property with section 179 deductions
+L Recapture of section 179 deduction
+M Section 453(l)(3) information
+N Section 453A(c) information
+O Section 1260(b) information
+P Interest allocable to production expenditures
+Q Capital construction fund (CCF) nonqualified withdrawals
+R Depletion information - Oil and gas
+S-T Reserved for future use
+U Net investment income
+V Section 199A information
+W-Z Reserved for future use
+AA Excess taxable income
+AB Excess business interest income
+AC Gross receipts for section 448(c)
+AD-AI Reserved for future use
+AJ Excess business loss limitation
+
+AK-AM Reserved for future use
+AN Farming and fishing income
+AO Reserved for future use
+AP Inversion gain
+AQ-AR Reserved for future use
+AS Qualifying advanced coal project property and qualifying gasification project property
+AT Qualifying advanced energy project property
+AU Advanced manufacturing investment property
+AV Clean electricity investment property
+AW Reportable transactions
+AX-BD Reserved for future use
+ZZ Other information
+
+411800
+01-16-25
+13350722 756350 18968000
+-21-
+48
+2024.04010 COM-JET CORPORATION
+18968001
+
+--- PAGE 49 ---
+671124
+
+# Schedule K-1 (Form 1120-S)
+
+Department of the Treasury
+Internal Revenue Service
+
+2024
+
+For calendar year 2024, or tax
+year beginning
+ending
+
+Shareholder's Share of Income, Deductions, Credits, etc. See separate instructions.
+
+|  Part I Information About the Corporation  |   |
+| --- | --- |
+|  A Corporation's employer identification number 59-2051580 | 5a  |
+|  B Corporation's name, address, city, state, and ZIP code COM-JET CORPORATION 8235 NW 56 STREET MIAMI, FL 33166 | 5b  |
+|  C IRS Center where corporation filed return E-FILE | 8a  |
+|  D Corporation's total number of shares Beginning of tax year 1,000.00 End of tax year 1,000.00 | 8b  |
+|   | 8c  |
+|  Part II Information About the Shareholder  |   |
+|  E Shareholder's identifying number 593-07-0171 | 10  |
+|  F1 Shareholder's name, address, city, state, and ZIP code MICHAEL A. FOREMAN, JR 1405 DAYTONIA ROAD #204 MIAMI BEACH, FL 33141 |   |
+|  F2 If the shareholder is a disregarded entity, a trust, an estate, or a nominee or similar person, enter the individual or entity responsible for reporting: TIN Name F3 What type of entity is this shareholder? INDIVIDUAL | 12 A  |
+|  G Current year allocation percentage 14.500000% |   |
+|  H Shareholder's number of shares Beginning of tax year 145.00 End of tax year 145.00 |   |
+|  I Loans from shareholder Beginning of tax year $ End of tax year $ |   |
+|  For IRS Use Only |   |
+|   |  49  |
+
+☐ Final K-1 ☐ Amended K-1 OMB No. 1545-0123
+
+|  Part III |   | Shareholder's Share of Current Year Income, Deductions, Credits, and Other Items  |   |
+| --- | --- | --- | --- |
+|  1 | Ordinary business income (loss) 135,809. | 13 | Credits  |
+|  2 | Net rental real estate inc (loss) |  |   |
+|  3 | Other net rental income (loss) |  |   |
+|  4 | Interest income 3,216. |  |   |
+|  5a | Ordinary dividends |  |   |
+|  5b | Qualified dividends | 14 | Schedule K-3 is attached if checked ☐  |
+|  6 | Royalties | 15 | Alternative min tax (AMT) items  |
+|  7 | Net short-term capital gain (loss) |  |   |
+|  8a | Net long-term capital gain (loss) |  |   |
+|  8b | Collectibles (28%) gain (loss) |  |   |
+|  8c | Unrecaptured sec 1250 gain |  |   |
+|  9 | Net section 1231 gain (loss) | 16 C* | Items affecting shareholder basis 21,299.  |
+|  10 | Other income (loss) |  |   |
+|  |   |   |   |
+|  |   |   |   |
+|   |  | 17 A | Other information 3,216.  |
+|  11 | Section 179 deduction 22,353. | V | * STMT  |
+|  12 A | Other deductions 2,958. | AC | * STMT  |
+|   |  | AJ | * STMT  |
+|  |   |   |   |
+|  |   |   |   |
+|  |   |   |   |
+|  |   |   |   |
+|  |   |   |   |
+|  18 | More than one activity for at-risk purposes* |  |   |
+|  19 | More than one activity for passive activity purposes* |  |   |
+|  *See attached statement for additional information.  |   |   |   |
+
+LHA For Paperwork Reduction Act Notice, see the Instructions for Form 1120-S.
+
+411271 12-10-24
+
+www.irs.gov/Form1120S
+
+Schedule K-1 (Form 1120-S) 2024
+
+13350722 756350 18968000
+
+2024.04010 COM-JET CORPORATION
+
+18968001
+
+--- PAGE 50 ---
+COM-JET CORPORATION
+59-2051580
+
+SCHEDULE K-1 NONDEDUCTIBLE EXPENSES, BOX 16, CODE C
+
+|  DESCRIPTION | AMOUNT | SHAREHOLDER FILING INSTRUCTIONS  |
+| --- | --- | --- |
+|  ENTERTAINMENT | 6,362. |   |
+|  EXCLUDED MEALS EXPENSES | 14,937. | SEE SHAREHOLDERS INSTRUCTIONS  |
+|  TOTAL | 21,299. |   |
+
+SCHEDULE K-1 SECTION 199A ADDITIONAL INFORMATION
+
+THE SECTION 199A AMOUNTS TO BE USED IN THE CALCULATION OF THE QUALIFIED BUSINESS INCOME DEDUCTION ON YOUR 1040/1041 RETURN ARE REPORTED ON LINE 17, UNDER CODE V. PLEASE CONSULT YOUR TAX ADVISOR REGARDING THE CALCULATION OF QUALIFIED BUSINESS INCOME DEDUCTION, INCLUDING THE POSSIBLE AGGREGATIONS AND LIMITATIONS THAT MAY APPLY AND THE FILING OF THE 1.199A-4(C)(2)(I) ANNUAL DISCLOSURE STATEMENT.
+
+SCHEDULE K-1 SECTION 199A ITEMS, BOX 17 CODE V
+
+|  DESCRIPTION | AMOUNT  |
+| --- | --- |
+|  TRADE OR BUSINESS |   |
+|  ORDINARY INCOME (LOSS) | 135,809.  |
+|  SECTION 179 DEDUCTION | 22,353.  |
+|  W-2 WAGES | 568,422.  |
+|  UNADJUSTED BASIS | 76,903.  |
+
+13350722 756350 18968000
+50
+SHAREHOLDER 3
+2024.04010 COM-JET CORPORATION
+18968001
+
+--- PAGE 51 ---
+COM-JET CORPORATION
+59-2051580
+
+SCHEDULE K-1 GROSS RECEIPTS FOR SECTION 448(C), BOX 17, CODE AC
+
+|  DESCRIPTION | AMOUNT  |
+| --- | --- |
+|  GROSS RECEIPTS - CURRENT YEAR | 2,081,271.  |
+
+SCHEDULE K-1 SCHEDULE K-3 NOTIFICATION
+
+THE SCHEDULE K-3 HAS NOT BEEN PREPARED FOR YOU. YOU WILL NOT RECEIVE A COPY OF THE SCHEDULE UNLESS YOU REQUEST ONE.
+
+SCHEDULE K-1 EXCESS BUSINESS LOSS LIMITATION, BOX 17, CODE AJ
+
+|  DESCRIPTION | AMOUNT | SHAREHOLDER FILING INSTRUCTIONS  |
+| --- | --- | --- |
+|  AGGREGATE BUSINESS ACTIVITY |  |   |
+|  GROSS INCOME OR GAIN | 897,158. | SEE IRS SCH. K-1 INSTRUCTIONS  |
+|  AGGREGATE BUSINESS ACTIVITY DEDUCTIONS | 761,349. | SEE IRS SCH. K-1 INSTRUCTIONS  |
+
+13350722 756350 18968000
+51
+SHAREHOLDER 3
+2024.04010 COM-JET CORPORATION
+18968001
+
+--- PAGE 52 ---
+3
+
+# List of Codes
+
+This list identifies the codes used on Schedule K-1 for all shareholders. For detailed reporting and filing information, see the specific line instructions, earlier, and the instructions for your income tax return.
+
+## Box 10. Other income (loss)
+
+|  Code | L | Deductions - Portfolio income (other) | Q | Unused investment credit from the qualifying advanced energy project credit allocated from cooperatives  |
+| --- | --- | --- | --- | --- |
+|  A | Other portfolio income (loss) | M Preproductive period expenses | R | Unused investment credit from the advanced manufacturing investment credit allocated from cooperatives  |
+|  B | Involuntary conversions | N Reserved for future use | S | Unused investment credit from clean electricity credit allocated from cooperatives  |
+|  C | Section 1256 contracts and straddles | O Reforestation expense deduction | T | Unused investment credit from the energy credit allocated from cooperatives  |
+|  D | Mining exploration costs recapture | P - V Reserved for future use | U | Unused investment credit from the rehabilitation credit allocated from cooperatives  |
+|  E | Section 951A(a) income inclusions | W Soil and water conservation | V | Advanced manufacturing production credit  |
+|  F | Inclusions of subpart F income | X Film, television, and theatrical production expenditures | W | Clean electricity production credit  |
+|  G | Section 951(a)(1)(B) inclusions | Y Expenditures for removal of barriers | X | Clean fuel production credit  |
+|  H | Reserved for future use | Z Itemized deductions | Y | Clean hydrogen production credit  |
+|  I | Gain (loss) from disposition of oil, gas, geothermal, or other mineral properties | AA Contributions to a capital construction fund (CCF) | Z | Orphan drug credit  |
+|  J | Recoveries of tax benefit items | AB Penalty on early withdrawal of savings | AA | Enhanced oil recovery credit  |
+|  K | Gambling gains and losses | AC Interest expense allocated to debt financed distributions | AB | Renewable electricity production credit  |
+|  L | Reserved for future use | AD - AJ Reserved for future use | AC | Biodiesel, renewable diesel, or sustainable aviation fuels credit  |
+|  M | Gain eligible for section 1045 rollover (replacement stock purchased by the corporation) | ZZ Other deductions | AD | New markets credit  |
+|  N | Gain eligible for section 1045 rollover (replacement stock not purchased by the corporation) | Box 13. Credits | AE | Credit for small employer pension plan startup costs  |
+|  O | Sale or exchange of QSB stock with section 1202 exclusion | A Zero-emission nuclear power production credit | AF | Credit for small employer auto-enrollment  |
+|  P - R | Reserved for future use | B Credit for production from advanced nuclear power facilities | AG | Credit for military spouse participation  |
+|  S | Non-portfolio capital gain (loss) | C Low-income housing credit (section 42(j)(5)) from post-2007 buildings | AH | Credit for employer-provided childcare facilities and services  |
+|  T - X | Reserved for future use | D Low-income housing credit (other) from post-2007 buildings | AI | Low sulfur diesel fuel production credit  |
+|  ZZ | Other income (loss) | E Qualified rehabilitation expenditures (rental real estate) | AJ | Qualified railroad track maintenance credit  |
+
+## Box 12. Other deductions
+
+|  A | Cash contributions (60%)  |
+| --- | --- |
+|  B | Cash contributions (30%)  |
+|  C | Noncash contributions (50%)  |
+|  D | Noncash contributions (30%)  |
+|  E | Capital gain property to a 50% limit organization (30%)  |
+|  F | Capital gain property (20%)  |
+|  G | Contributions (100%)  |
+|  H | Investment interest expense  |
+|  I | Deductions - Royalty income  |
+|  J | Section 59(e)(2) expenditures  |
+|  K | Reserved for future use  |
+|  L | Bondsell, renewable diesel, or sustainable aviation fuels credit  |
+| --- | --- |
+|  AD | New markets credit  |
+|  AE | Credit for small employer pension plan startup costs  |
+|  AF | Credit for small employer auto-enrollment  |
+|  AG | Credit for military spouse participation  |
+|  AH | Credit for employer-provided childcare facilities and services  |
+|  AI | Low sulfur diesel fuel production credit  |
+|  AJ | Qualified railroad track maintenance credit  |
+|  AK | Credit for oil and gas production from marginal wells  |
+|  AL | Distilled spirits credit  |
+|  AM | Energy efficient home credit  |
+|  AN | Reserved for future use  |
+|  AO | Alternative fuel vehicle refueling property credit  |
+|  AP | Clean renewable energy bond credit  |
+|  AQ | New clean renewable energy bond credit  |
+|  AR | Qualified energy conservation bond credit  |
+|  AS | Qualified zone academy bond credit  |
+
+411799
+01-16-25
+13350722 756350 18968000
+-20-
+52
+2024.04010 COM-JET CORPORATION
+3
+18968001
+
+--- PAGE 53 ---
+3
+
+AT Qualified school construction bond credit
+AU Build America bond credit
+AV Credit for employer differential wage payments
+AW Carbon oxide sequestration credit
+AX Carbon oxide sequestration credit recapture
+AY New clean vehicle credit
+AZ Qualified commercial clean vehicle credit
+BA Credit for small employer health insurance premiums
+BB Employer credit for paid family and medical leave
+BC Eligible credits from transferor(s) under section 6418
+BD-BG Reserved for future use
+ZZ Other credits
+
+Box 15. Alternative minimum tax (AMT) items
+A Post-1986 depreciation adjustment
+B Adjusted gain or loss
+C Depletion (other than oil &amp; gas)
+D Oil, gas, &amp; geothermal - Gross income
+E Oil, gas, &amp; geothermal - Deductions
+F Other AMT items
+
+Box 16. Items affecting shareholder basis
+A Tax-exempt interest income
+B Other tax - exempt income
+C Nondeductible expenses
+D Distributions
+E Repayment of loans from shareholders
+F Foreign taxes paid or accrued
+
+Box 17. Other information
+A Investment income
+B Investment expenses
+C Qualified rehabilitation expenditures (other than rental real estate)
+D Basis of energy property
+E Recapture of low-income housing credit (section 42(j)(5))
+F Recapture of low - income housing credit (other)
+G Recapture of investment credit
+H Recapture of other credits
+I Look - back interest - Completed long-term contracts
+J Look-back interest - income forecast method
+K Dispositions of property with section 179 deductions
+L Recapture of section 179 deduction
+M Section 453(l)(3) information
+N Section 453A(c) information
+O Section 1260(b) information
+P Interest allocable to production expenditures
+Q Capital construction fund (CCF) nonqualified withdrawals
+R Depletion information - Oil and gas
+S-T Reserved for future use
+U Net investment income
+V Section 199A information
+W-Z Reserved for future use
+AA Excess taxable income
+AB Excess business interest income
+AC Gross receipts for section 448(c)
+AD-AI Reserved for future use
+AJ Excess business loss limitation
+
+AK-AM Reserved for future use
+AN Farming and fishing income
+AO Reserved for future use
+AP Inversion gain
+AQ-AR Reserved for future use
+AS Qualifying advanced coal project property and qualifying gasification project property
+AT Qualifying advanced energy project property
+AU Advanced manufacturing investment property
+AV Clean electricity investment property
+AW Reportable transactions
+AX-BD Reserved for future use
+ZZ Other information
+
+411800
+01-16-25
+13350722 756350 18968000
+-21-
+53
+2024.04010 COM-JET CORPORATION
+18968001
+
+--- PAGE 54 ---
+671124
+
+# Schedule K-1 (Form 1120-S)
+
+Department of the Treasury
+Internal Revenue Service
+
+2024
+
+For calendar year 2024, or tax
+year beginning
+ending
+
+Shareholder's Share of Income, Deductions, Credits, etc. See separate instructions.
+
+|  Part I Information About the Corporation  |   |
+| --- | --- |
+|  A Corporation's employer identification number 59-2051580 | 5a  |
+|  B Corporation's name, address, city, state, and ZIP code COM-JET CORPORATION 8235 NW 56 STREET MIAMI, FL 33166 | 5b  |
+|  C IRS Center where corporation filed return E-FILE | 8a  |
+|  D Corporation's total number of shares Beginning of tax year 1,000.00 End of tax year 1,000.00 | 8b  |
+|   | 8c  |
+|  Part II Information About the Shareholder  |   |
+|  E Shareholder's identifying number 593-07-0240 | 10  |
+|  F1 Shareholder's name, address, city, state, and ZIP code MICHELLE FOREMAN 485 COURTNEY OAKS DRIVE ST AUGUSTINE, FL 32092 |   |
+|  F2 If the shareholder is a disregarded entity, a trust, an estate, or a nominee or similar person, enter the individual or entity responsible for reporting: TIN Name F3 What type of entity is this shareholder? INDIVIDUAL | 12 A  |
+|  G Current year allocation percentage 14.500000% |   |
+|  H Shareholder's number of shares Beginning of tax year 145.00 End of tax year 145.00 |   |
+|  I Loans from shareholder Beginning of tax year $ End of tax year $ 103,101. |   |
+|  For IRS Use Only |   |
+
+☐ Final K-1 ☐ Amended K-1
+OMB No. 1545-0123
+
+|  Part III Shareholder's Share of Current Year Income, Deductions, Credits, and Other Items  |   |   |   |
+| --- | --- | --- | --- |
+|  1 | Ordinary business income (loss) 135,809. | 13 | Credits  |
+|  2 | Net rental real estate inc (loss) |  |   |
+|  3 | Other net rental income (loss) |  |   |
+|  4 | Interest income 3,215. |  |   |
+|  5a | Ordinary dividends |  |   |
+|  5b | Qualified dividends | 14 | Schedule K-3 is attached if checked ☐  |
+|  6 | Royalties | 15 | Alternative min tax (AMT) items  |
+|  7 | Net short-term capital gain (loss) |  |   |
+|  8a | Net long-term capital gain (loss) |  |   |
+|  8b | Collectibles (28%) gain (loss) |  |   |
+|  8c | Unrecaptured sec 1250 gain |  |   |
+|  9 | Net section 1231 gain (loss) | 16 C* | Items affecting shareholder basis 21,298.  |
+|  10 | Other income (loss) |  |   |
+|  |   |   |   |
+|  |   |   |   |
+|   |  | 17 A | Other information 3,215.  |
+|  11 | Section 179 deduction 22,354. | V | * STMT  |
+|  12 A | Other deductions 2,958. | AC | * STMT  |
+|   |  | AJ | * STMT  |
+|  |   |   |   |
+|  |   |   |   |
+|  |   |   |   |
+|  |   |   |   |
+|  |   |   |   |
+|  18 | More than one activity for at-risk purposes*  |   |   |
+|  19 | More than one activity for passive activity purposes*  |   |   |
+|   | *See attached statement for additional information.  |   |   |
+
+LHA For Paperwork Reduction Act Notice, see the Instructions for Form 1120-S.
+
+411271 12:10:24
+
+www.irs.gov/Form1120S
+
+Schedule K-1 (Form 1120-S) 2024
+
+13350722 756350 18968000
+
+2024.04010 COM-JET CORPORATION
+
+18968001
+
+--- PAGE 55 ---
+COM-JET CORPORATION
+59-2051580
+
+SCHEDULE K-1 NONDEDUCTIBLE EXPENSES, BOX 16, CODE C
+
+|  DESCRIPTION | AMOUNT | SHAREHOLDER FILING INSTRUCTIONS  |
+| --- | --- | --- |
+|  ENTERTAINMENT | 6,362. |   |
+|  EXCLUDED MEALS EXPENSES | 14,936. | SEE SHAREHOLDERS INSTRUCTIONS  |
+|  TOTAL | 21,298. |   |
+
+SCHEDULE K-1 SECTION 199A ADDITIONAL INFORMATION
+
+THE SECTION 199A AMOUNTS TO BE USED IN THE CALCULATION OF THE QUALIFIED BUSINESS INCOME DEDUCTION ON YOUR 1040/1041 RETURN ARE REPORTED ON LINE 17, UNDER CODE V. PLEASE CONSULT YOUR TAX ADVISOR REGARDING THE CALCULATION OF QUALIFIED BUSINESS INCOME DEDUCTION, INCLUDING THE POSSIBLE AGGREGATIONS AND LIMITATIONS THAT MAY APPLY AND THE FILING OF THE 1.199A-4(C)(2)(I) ANNUAL DISCLOSURE STATEMENT.
+
+SCHEDULE K-1 SECTION 199A ITEMS, BOX 17 CODE V
+
+|  DESCRIPTION | AMOUNT  |
+| --- | --- |
+|  TRADE OR BUSINESS |   |
+|  ORDINARY INCOME (LOSS) | 135,809.  |
+|  SECTION 179 DEDUCTION | 22,354.  |
+|  W-2 WAGES | 568,421.  |
+|  UNADJUSTED BASIS | 76,903.  |
+
+13350722 756350 18968000
+55
+SHAREHOLDER 4
+2024.04010 COM-JET CORPORATION
+18968001
+
+--- PAGE 56 ---
+COM-JET CORPORATION
+59-2051580
+
+SCHEDULE K-1 GROSS RECEIPTS FOR SECTION 448(C), BOX 17, CODE AC
+
+|  DESCRIPTION | AMOUNT  |
+| --- | --- |
+|  GROSS RECEIPTS - CURRENT YEAR | 2,081,270.  |
+
+SCHEDULE K-1 SCHEDULE K-3 NOTIFICATION
+
+THE SCHEDULE K-3 HAS NOT BEEN PREPARED FOR YOU. YOU WILL NOT RECEIVE A COPY OF THE SCHEDULE UNLESS YOU REQUEST ONE.
+
+SCHEDULE K-1 EXCESS BUSINESS LOSS LIMITATION, BOX 17, CODE AJ
+
+|  DESCRIPTION | AMOUNT | SHAREHOLDER FILING INSTRUCTIONS  |
+| --- | --- | --- |
+|  AGGREGATE BUSINESS ACTIVITY |  |   |
+|  GROSS INCOME OR GAIN | 897,159. | SEE IRS SCH. K-1 INSTRUCTIONS  |
+|  AGGREGATE BUSINESS ACTIVITY DEDUCTIONS | 761,350. | SEE IRS SCH. K-1 INSTRUCTIONS  |
+
+13350722 756350 18968000
+56
+2024.04010 COM-JET CORPORATION
+SHAREHOLDER 4
+18968001
+
+--- PAGE 57 ---
+4
+
+# List of Codes
+
+This list identifies the codes used on Schedule K-1 for all shareholders. For detailed reporting and filing information, see the specific line instructions, earlier, and the instructions for your income tax return.
+
+## Box 10. Other income (loss)
+
+|  Code | Description  |
+| --- | --- |
+|  A | Other portfolio income (loss)  |
+|  B | Involuntary conversions  |
+|  C | Section 1256 contracts and straddles  |
+|  D | Mining exploration costs recapture  |
+|  E | Section 951A(a) income inclusions  |
+|  F | Inclusions of subpart F income  |
+|  G | Section 951(a)(1)(B) inclusions  |
+|  H | Reserved for future use  |
+|  I | Gain (loss) from disposition of oil, gas, geothermal, or other mineral properties  |
+|  J | Recoveries of tax benefit items  |
+|  K | Gambling gains and losses  |
+|  L | Reserved for future use  |
+|  M | Gain eligible for section 1045 rollover (replacement stock purchased by the corporation)  |
+|  N | Gain eligible for section 1045 rollover (replacement stock not purchased by the corporation)  |
+|  O | Sale or exchange of QSB stock with section 1202 exclusion  |
+|  P - R | Reserved for future use  |
+|  S | Non-portfolio capital gain (loss)  |
+|  T - X | Reserved for future use  |
+|  ZZ | Other income (loss)  |
+
+## Box 12. Other deductions
+
+|  Code | Description  |
+| --- | --- |
+|  A | Cash contributions (60%)  |
+|  B | Cash contributions (30%)  |
+|  C | Noncash contributions (50%)  |
+|  D | Noncash contributions (30%)  |
+|  E | Capital gain property to a 50% limit organization (30%)  |
+|  F | Capital gain property (20%)  |
+|  G | Contributions (100%)  |
+|  H | Investment interest expense  |
+|  I | Deductions - Royalty income  |
+|  J | Section 59(e)(2) expenditures  |
+|  K | Reserved for future use  |
+|  Code | Description  |
+| --- | --- |
+|  L | Deductions - Portfolio income (other)  |
+|  M | Preproductive period expenses  |
+|  N | Reserved for future use  |
+|  O | Reforestation expense deduction  |
+|  P - V | Reserved for future use  |
+|  W | Soil and water conservation  |
+|  X | Film, television, and theatrical production expenditures  |
+|  Y | Expenditures for removal of barriers  |
+|  Z | Itemized deductions  |
+|  AA | Contributions to a capital construction fund (CCF)  |
+|  AB | Penalty on early withdrawal of savings  |
+|  AC | Interest expense allocated to debt financed distributions  |
+|  AD - AJ | Reserved for future use  |
+|  ZZ | Other deductions  |
+
+## Box 13. Credits
+
+|  Code | Description  |
+| --- | --- |
+|  A | Zero-emission nuclear power production credit  |
+|  B | Credit for production from advanced nuclear power facilities  |
+|  C | Low-income housing credit (section 42(i)(5)) from post-2007 buildings  |
+|  D | Low-income housing credit (other) from post-2007 buildings  |
+|  E | Qualified rehabilitation expenditures (rental real estate)  |
+|  F | Other rental real estate credits  |
+|  G | Other rental credits  |
+|  H | Undistributed capital gains credit  |
+|  I | Biofuel producer credit  |
+|  J | Work opportunity credit  |
+|  K | Disabled access credit  |
+|  L | Empowerment zone employment credit  |
+|  M | Credit for increasing research activities  |
+|  N | Credit for employer social security and Medicare taxes  |
+|  O | Backup withholding  |
+|  P | Unused investment credit from the qualifying advanced coal project credit or qualifying gasification project credit allocated from cooperatives  |
+|  Code | Description  |
+| --- | --- |
+|  Q | Unused investment credit from the qualifying advanced energy project credit allocated from cooperatives  |
+|  R | Unused investment credit from the advanced manufacturing investment credit allocated from cooperatives  |
+|  S | Unused investment credit from clean electricity credit allocated from cooperatives  |
+|  T | Unused investment credit from the energy credit allocated from cooperatives  |
+|  U | Unused investment credit from the rehabilitation credit allocated from cooperatives  |
+|  V | Advanced manufacturing production credit  |
+|  W | Clean electricity production credit  |
+|  X | Clean fuel production credit  |
+|  Y | Clean hydrogen production credit  |
+|  Z | Orphan drug credit  |
+|  AA | Enhanced oil recovery credit  |
+|  AB | Renewable electricity production credit  |
+|  AC | Biodiesel, renewable diesel, or sustainable aviation fuels credit  |
+|  AD | New markets credit  |
+|  AE | Credit for small employer pension plan startup costs  |
+|  AF | Credit for small employer auto-enrollment  |
+|  AG | Credit for military spouse participation  |
+|  AH | Credit for employer-provided childcare facilities and services  |
+|  AI | Low sulfur diesel fuel production credit  |
+|  AJ | Qualified railroad track maintenance credit  |
+|  AK | Credit for oil and gas production from marginal wells  |
+|  AL | Distilled spirits credit  |
+|  AM | Energy efficient home credit  |
+|  AN | Reserved for future use  |
+|  AO | Alternative fuel vehicle refueling property credit  |
+|  AP | Clean renewable energy bond credit  |
+|  AQ | New clean renewable energy bond credit  |
+|  AR | Qualified energy conservation bond credit  |
+|  AS | Qualified zone academy bond credit  |
+
+411799
+01-16-25
+13350722 756350 18968000
+-20-
+57
+2024.04010 COM-JET CORPORATION
+4
+18968001
+
+--- PAGE 58 ---
+4
+
+AT Qualified school construction bond credit
+AU Build America bond credit
+AV Credit for employer differential wage payments
+AW Carbon oxide sequestration credit
+AX Carbon oxide sequestration credit recapture
+AY New clean vehicle credit
+AZ Qualified commercial clean vehicle credit
+BA Credit for small employer health insurance premiums
+BB Employer credit for paid family and medical leave
+BC Eligible credits from transferor(s) under section 6418
+BD-BG Reserved for future use
+ZZ Other credits
+
+Box 15. Alternative minimum tax (AMT) items
+A Post-1986 depreciation adjustment
+B Adjusted gain or loss
+C Depletion (other than oil &amp; gas)
+D Oil, gas, &amp; geothermal - Gross income
+E Oil, gas, &amp; geothermal - Deductions
+F Other AMT items
+
+Box 16. Items affecting shareholder basis
+A Tax-exempt interest income
+B Other tax - exempt income
+C Nondeductible expenses
+D Distributions
+E Repayment of loans from shareholders
+F Foreign taxes paid or accrued
+
+Box 17. Other information
+A Investment income
+B Investment expenses
+C Qualified rehabilitation expenditures (other than rental real estate)
+D Basis of energy property
+E Recapture of low-income housing credit (section 42(j)(5))
+F Recapture of low-income housing credit (other)
+G Recapture of investment credit
+H Recapture of other credits
+I Look - back interest - Completed long-term contracts
+J Look-back interest - income forecast method
+K Dispositions of property with section 179 deductions
+L Recapture of section 179 deduction
+M Section 453(l)(3) information
+N Section 453A(c) information
+O Section 1260(b) information
+P Interest allocable to production expenditures
+Q Capital construction fund (CCF) nonqualified withdrawals
+R Depletion information - Oil and gas
+S-T Reserved for future use
+U Net investment income
+V Section 199A information
+W-Z Reserved for future use
+AA Excess taxable income
+AB Excess business interest income
+AC Gross receipts for section 448(c)
+AD-AI Reserved for future use
+AJ Excess business loss limitation
+
+AK-AM Reserved for future use
+AN Farming and fishing income
+AO Reserved for future use
+AP Inversion gain
+AQ-AR Reserved for future use
+AS Qualifying advanced coal project property and qualifying gasification project property
+AT Qualifying advanced energy project property
+AU Advanced manufacturing investment property
+AV Clean electricity investment property
+AW Reportable transactions
+AX-BD Reserved for future use
+ZZ Other information
+
+411800
+01-16-25
+13350722 756350 18968000
+-21-
+58
+2024.04010 COM-JET CORPORATION
+18968001
+
+--- PAGE 59 ---
+671124
+
+# Schedule K-1 (Form 1120-S)
+
+Department of the Treasury
+Internal Revenue Service
+
+2024
+
+For calendar year 2024, or tax
+year beginning
+ending
+
+Shareholder's Share of Income, Deductions, Credits, etc. See separate instructions.
+
+|  Part I Information About the Corporation  |   |
+| --- | --- |
+|  A Corporation's employer identification number 59-2051580  |   |
+|  B Corporation's name, address, city, state, and ZIP code COM-JET CORPORATION 8235 NW 56 STREET MIAMI, FL 33166  |   |
+|  C IRS Center where corporation filed return E-FILE  |   |
+|  D Corporation's total number of shares Beginning of tax year 1,000.00 End of tax year 1,000.00  |   |
+|  Part II Information About the Shareholder  |   |
+|  E Shareholder's identifying number 593-07-2076  |   |
+|  F1 Shareholder's name, address, city, state, and ZIP code MARISA FOREMAN 16673 ROYAL POINCIANA DRIVE WESTON, FL 33326  |   |
+|  F2 If the shareholder is a disregarded entity, a trust, an estate, or a nominee or similar person, enter the individual or entity responsible for reporting; TIN Name  |   |
+|  F3 What type of entity is this shareholder? INDIVIDUAL  |   |
+|  G Current year allocation percentage 14.500000%  |   |
+|  H Shareholder's number of shares Beginning of tax year 145.00 End of tax year 145.00  |   |
+|  I Loans from shareholder Beginning of tax year $ 42,579. End of tax year $ 42,579.  |   |
+|  For IRS Use Only  |   |
+
+☐ Final K-1 ☐ Amended K-1 OMB No. 1545-0123
+
+|  Part III Shareholder's Share of Current Year Income, Deductions, Credits, and Other Items  |   |   |   |
+| --- | --- | --- | --- |
+|  1 | Ordinary business income (loss) 135,809. | 13 | Credits  |
+|  2 | Net rental real estate inc (loss) |  |   |
+|  3 | Other net rental income (loss) |  |   |
+|  4 | Interest income 3,216. |  |   |
+|  5a | Ordinary dividends |  |   |
+|  5b | Qualified dividends | 14 | Schedule K-3 is attached if checked ☐  |
+|  6 | Royalties | 15 | Alternative min tax (AMT) items  |
+|  7 | Net short-term capital gain (loss) |  |   |
+|  8a | Net long-term capital gain (loss) |  |   |
+|  8b | Collectibles (28%) gain (loss) |  |   |
+|  8c | Unrecaptured sec 1250 gain |  |   |
+|  9 | Net section 1231 gain (loss) | 16 C* | Items affecting shareholder basis 21,299.  |
+|  10 | Other income (loss) |  |   |
+|  |   |   |   |
+|  |   |   |   |
+|   |  | 17 A | Other information 3,216.  |
+|  11 | Section 179 deduction 22,353. | V | * STMT  |
+|  12 A | Other deductions 2,958. | AC | * STMT  |
+|   |  | AJ | * STMT  |
+|  |   |   |   |
+|  |   |   |   |
+|  |   |   |   |
+|  |   |   |   |
+|  |   |   |   |
+|  18 ☐ More than one activity for at-risk purposes* 19 ☐ More than one activity for passive activity purposes* *See attached statement for additional information.  |   |   |   |
+
+LHA For Paperwork Reduction Act Notice, see the Instructions for Form 1120-S.
+
+411271 12-10-24
+
+www.irs.gov/Form1120S
+
+Schedule K-1 (Form 1120-S) 2024
+
+13350722 756350 18968000
+
+2024.04010 COM-JET CORPORATION
+
+18968001
+
+--- PAGE 60 ---
+COM-JET CORPORATION
+59-2051580
+
+SCHEDULE K-1 NONDEDUCTIBLE EXPENSES, BOX 16, CODE C
+
+|  DESCRIPTION | AMOUNT | SHAREHOLDER FILING INSTRUCTIONS  |
+| --- | --- | --- |
+|  ENTERTAINMENT | 6,362. |   |
+|  EXCLUDED MEALS EXPENSES | 14,937. | SEE SHAREHOLDERS INSTRUCTIONS  |
+|  TOTAL | 21,299. |   |
+
+SCHEDULE K-1 SECTION 199A ADDITIONAL INFORMATION
+
+THE SECTION 199A AMOUNTS TO BE USED IN THE CALCULATION OF THE QUALIFIED BUSINESS INCOME DEDUCTION ON YOUR 1040/1041 RETURN ARE REPORTED ON LINE 17, UNDER CODE V. PLEASE CONSULT YOUR TAX ADVISOR REGARDING THE CALCULATION OF QUALIFIED BUSINESS INCOME DEDUCTION, INCLUDING THE POSSIBLE AGGREGATIONS AND LIMITATIONS THAT MAY APPLY AND THE FILING OF THE 1.199A-4(C)(2)(I) ANNUAL DISCLOSURE STATEMENT.
+
+SCHEDULE K-1 SECTION 199A ITEMS, BOX 17 CODE V
+
+|  DESCRIPTION | AMOUNT  |
+| --- | --- |
+|  TRADE OR BUSINESS |   |
+|  ORDINARY INCOME (LOSS) | 135,809.  |
+|  SECTION 179 DEDUCTION | 22,353.  |
+|  W-2 WAGES | 568,421.  |
+|  UNADJUSTED BASIS | 76,903.  |
+
+13350722 756350 18968000
+60
+SHAREHOLDER 5
+2024.04010 COM-JET CORPORATION
+18968001
+
+--- PAGE 61 ---
+COM-JET CORPORATION
+59-2051580
+
+SCHEDULE K-1 GROSS RECEIPTS FOR SECTION 448(C), BOX 17, CODE AC
+
+|  DESCRIPTION | AMOUNT  |
+| --- | --- |
+|  GROSS RECEIPTS - CURRENT YEAR | 2,081,271.  |
+
+SCHEDULE K-1 SCHEDULE K-3 NOTIFICATION
+
+THE SCHEDULE K-3 HAS NOT BEEN PREPARED FOR YOU. YOU WILL NOT RECEIVE A COPY OF THE SCHEDULE UNLESS YOU REQUEST ONE.
+
+SCHEDULE K-1 EXCESS BUSINESS LOSS LIMITATION, BOX 17, CODE AJ
+
+|  DESCRIPTION | AMOUNT | SHAREHOLDER FILING INSTRUCTIONS  |
+| --- | --- | --- |
+|  AGGREGATE BUSINESS ACTIVITY |  |   |
+|  GROSS INCOME OR GAIN | 897,158. | SEE IRS SCH. K-1 INSTRUCTIONS  |
+|  AGGREGATE BUSINESS ACTIVITY DEDUCTIONS | 761,349. | SEE IRS SCH. K-1 INSTRUCTIONS  |
+
+13350722 756350 18968000
+61
+SHAREHOLDER 5
+2024.04010 COM-JET CORPORATION
+18968001
+
+--- PAGE 62 ---
+5
+
+# List of Codes
+
+This list identifies the codes used on Schedule K-1 for all shareholders. For detailed reporting and filing information, see the specific line instructions, earlier, and the instructions for your income tax return.
+
+## Box 10. Other income (loss)
+
+|  Code | L | Deductions - Portfolio income (other) | Q | Unused investment credit from the qualifying advanced energy project credit allocated from cooperatives  |
+| --- | --- | --- | --- | --- |
+|  A | Other portfolio income (loss) | M | Preproductive period expenses |   |
+|  B | Involuntary conversions | N | Reserved for future use |   |
+|  C | Section 1256 contracts and straddles | O | Reforestation expense deduction | R  |
+|  D | Mining exploration costs recapture |  |  | Unused investment credit from the advanced manufacturing investment credit allocated from cooperatives  |
+|  E | Section 951A(a) income inclusions | P - V | Reserved for future use |   |
+|  F | Inclusions of subpart F income | W | Soil and water conservation | S  |
+|  G | Section 951(a)(1)(B) inclusions | X | Film, television, and theatrical production expenditures | T  |
+|  H | Reserved for future use | Y | Expenditures for removal of barriers | Unused investment credit from the energy credit allocated from cooperatives  |
+|  I | Gain (loss) from disposition of oil, gas, geothermal, or other mineral properties | Z | Itemized deductions |   |
+|  J | Recoveries of tax benefit items | AA | Contributions to a capital construction fund (CCF) | U  |
+|  K | Gambling gains and losses | AB | Penalty on early withdrawal of savings | V  |
+|  L | Reserved for future use | AC | Interest expense allocated to debt financed distributions | W  |
+|  M | Gain eligible for section 1045 rollover (replacement stock purchased by the corporation) | AD - AJ | Reserved for future use | X  |
+|  N | Gain eligible for section 1045 rollover (replacement stock not purchased by the corporation) | ZZ | Other deductions | Y  |
+|  O | Sale or exchange of QSB stock with section 1202 exclusion |  |  | Z  |
+|  P - R | Reserved for future use |  |  | O  |
+|  S | Non-portfolio capital gain (loss) |  |  | H  |
+|  T - X | Reserved for future use |  |  | Z  |
+|  ZZ | Other income (loss) |  |  | H  |
+
+## Box 12. Other deductions
+
+|  A | Cash contributions (60%)  |
+| --- | --- |
+|  B | Cash contributions (30%)  |
+|  C | Noncash contributions (50%)  |
+|  D | Noncash contributions (30%)  |
+|  E | Capital gain property to a 50% limit organization (30%)  |
+|  F | Capital gain property (20%)  |
+|  G | Contributions (100%)  |
+|  H | Investment interest expense  |
+|  I | Deductions - Royalty income  |
+|  J | Section 59(e)(2) expenditures  |
+|  K | Reserved for future use  |
+
+## Box 13. Credits
+
+|  A | Zero-emission nuclear power production credit  |
+| --- | --- |
+|  B | Credit for production from advanced nuclear power facilities  |
+|  C | Low-income housing credit (section 42(j)(5)) from post-2007 buildings  |
+|  D | Low-income housing credit (other) from post-2007 buildings  |
+|  E | Qualified rehabilitation expenditures (rental real estate)  |
+|  F | Other rental real estate credits  |
+|  G | Other rental credits  |
+|  H | Undistributed capital gains credit  |
+|  I | Biofuel producer credit  |
+|  J | Work opportunity credit  |
+|  K | Disabled access credit  |
+|  L | Empowerment zone employment credit  |
+|  M | Credit for increasing research activities  |
+|  N | Credit for employer social security and Medicare taxes  |
+|  O | Backup withholding  |
+|  P | Unused investment credit from the qualifying advanced coal project credit or qualifying gasification project credit allocated from cooperatives  |
+|  Q | Unused investment credit from the qualifying advanced energy project credit allocated from cooperatives  |
+| --- | --- |
+|  R | Unused investment credit from the advanced manufacturing investment credit allocated from cooperatives  |
+|  S | Unused investment credit from clean electricity credit allocated from cooperatives  |
+|  T | Unused investment credit from the energy credit allocated from cooperatives  |
+|  U | Unused investment credit from the rehabilitation credit allocated from cooperatives  |
+|  V | Advanced manufacturing production credit  |
+|  W | Clean electricity production credit  |
+|  X | Clean fuel production credit  |
+|  Y | Clean hydrogen production credit  |
+|  Z | Orphan drug credit  |
+|  AA | Enhanced oil recovery credit  |
+|  AB | Renewable electricity production credit  |
+|  AC | Biodiesel, renewable diesel, or sustainable aviation fuels credit  |
+|  AD | New markets credit  |
+|  AE | Credit for small employer pension plan startup costs  |
+|  AF | Credit for small employer auto-enrollment  |
+|  AG | Credit for military spouse participation  |
+|  AH | Credit for employer-provided childcare facilities and services  |
+|  AI | Low sulfur diesel fuel production credit  |
+|  AJ | Qualified railroad track maintenance credit  |
+|  AK | Credit for oil and gas production from marginal wells  |
+|  AL | Distilled spirits credit  |
+|  AM | Energy efficient home credit  |
+|  AN | Reserved for future use  |
+|  AO | Alternative fuel vehicle refueling property credit  |
+|  AP | Clean renewable energy bond credit  |
+|  AQ | New clean renewable energy bond credit  |
+|  AR | Qualified energy conservation bond credit  |
+|  AS | Qualified zone academy bond credit  |
+
+411799
+01-16-25
+13350722 756350 18968000
+-20-
+62
+2024.04010 COM-JET CORPORATION
+18968001
+
+--- PAGE 63 ---
+5
+
+AT Qualified school construction bond credit
+AU Build America bond credit
+AV Credit for employer differential wage payments
+AW Carbon oxide sequestration credit
+AX Carbon oxide sequestration credit recapture
+AY New clean vehicle credit
+AZ Qualified commercial clean vehicle credit
+BA Credit for small employer health insurance premiums
+BB Employer credit for paid family and medical leave
+BC Eligible credits from transferor(s) under section 6418
+BD-BG Reserved for future use
+ZZ Other credits
+
+Box 15. Alternative minimum tax (AMT) items
+A Post-1986 depreciation adjustment
+B Adjusted gain or loss
+C Depletion (other than oil &amp; gas)
+D Oil, gas, &amp; geothermal - Gross income
+E Oil, gas, &amp; geothermal - Deductions
+F Other AMT items
+
+Box 16. Items affecting shareholder basis
+A Tax-exempt interest income
+B Other tax - exempt income
+C Nondeductible expenses
+D Distributions
+E Repayment of loans from shareholders
+F Foreign taxes paid or accrued
+
+Box 17. Other information
+A Investment income
+B Investment expenses
+C Qualified rehabilitation expenditures (other than rental real estate)
+D Basis of energy property
+E Recapture of low-income housing credit (section 42(j)(5))
+F Recapture of low-income housing credit (other)
+G Recapture of investment credit
+H Recapture of other credits
+I Look - back interest - Completed long-term contracts
+J Look-back interest - income forecast method
+K Dispositions of property with section 179 deductions
+L Recapture of section 179 deduction
+M Section 453(l)(3) information
+N Section 453A(c) information
+O Section 1260(b) information
+P Interest allocable to production expenditures
+Q Capital construction fund (CCF) nonqualified withdrawals
+R Depletion information - Oil and gas
+S-T Reserved for future use
+U Net investment income
+V Section 199A information
+W-Z Reserved for future use
+AA Excess taxable income
+AB Excess business interest income
+AC Gross receipts for section 448(c)
+AD-AI Reserved for future use
+AJ Excess business loss limitation
+
+AK-AM Reserved for future use
+AN Farming and fishing income
+AO Reserved for future use
+AP Inversion gain
+AQ-AR Reserved for future use
+AS Qualifying advanced coal project property and qualifying gasification project property
+AT Qualifying advanced energy project property
+AU Advanced manufacturing investment property
+AV Clean electricity investment property
+AW Reportable transactions
+AX-BD Reserved for future use
+ZZ Other information
+
+411800
+01-16-25
+13350722 756350 18968000
+-21-
+63
+2024.04010 COM-JET CORPORATION
+18968001
+
+--- PAGE 64 ---
+Caution: Forms printed from within Adobe Acrobat products may not meet IRS or state taxing agency specifications. When using Acrobat, select the "Actual Size" in the Adobe "Print" dialog.
+
+SHAREHOLDERS' COPY
