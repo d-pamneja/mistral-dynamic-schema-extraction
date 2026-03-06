@@ -1,5 +1,5 @@
 import { NextRequest, NextResponse } from "next/server";
-import { verifyJWT } from "@/lib/auth";
+import { verifyApiKey } from "@/lib/auth";
 import { runMistralOCR } from "@/lib/ocr";
 import { postProcessDocument } from "@/lib/post-process";
 import { OCRRequestSchema } from "@/lib/request-schema";
@@ -9,7 +9,7 @@ export async function POST(request: NextRequest) {
   const totalStart = Date.now();
 
   // ── 1. Auth ──
-  const auth = await verifyJWT(request.headers.get("authorization"));
+  const auth = verifyApiKey(request.headers.get("authorization"));
   if (!auth.valid) {
     return NextResponse.json(
       { success: false, error: auth.error },
