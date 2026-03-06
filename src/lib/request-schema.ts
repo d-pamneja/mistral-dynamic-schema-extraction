@@ -18,7 +18,7 @@ export const OCRRequestSchema = z.object({
   metadata: z.record(z.any()).optional(),
   file_name: z.string().optional(),
   source_path: z.string().optional(),
-  loan_package_id: z.string().optional(),
+  loan_package_id: z.union([z.string(), z.number()]).transform(String).optional(),
   content_hash: z.string().optional(),
 });
 
