@@ -37,7 +37,7 @@ export async function POST(request: NextRequest) {
   let ocrResult;
   try {
     ocrResult = await runMistralOCR(body.file_url, {
-      model: body.ocr_config?.model || "mistral-ocr-latest",
+      model: body.ocr_config?.model || "mistral-document-ai-2512",
       includeImageBase64: body.ocr_config?.include_image_base64 || false,
       bboxSchema: body.ocr_config?.bbox_schema,
     });
@@ -73,7 +73,7 @@ export async function POST(request: NextRequest) {
       metadata: body.metadata || null,
     },
     processing: {
-      ocr_model: body.ocr_config?.model || "mistral-ocr-latest",
+      ocr_model: body.ocr_config?.model || "mistral-document-ai-2512",
       ocr_duration_ms: ocrResult.ocrDurationMs,
       postprocess_duration_ms: postResult.postprocess_duration_ms,
       total_duration_ms: now - totalStart,

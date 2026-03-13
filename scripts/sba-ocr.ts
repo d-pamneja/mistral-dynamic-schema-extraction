@@ -40,25 +40,25 @@ async function main() {
     process.exit(1);
   }
 
-  if (!process.env.MISTRAL_API_KEY) {
-    console.error("ERROR: MISTRAL_API_KEY not set. Check .env.local");
+  if (!process.env.AZURE_API_KEY) {
+    console.error("ERROR: AZURE_API_KEY not set. Check .env.local");
     process.exit(1);
   }
 
   const totalStart = Date.now();
 
   console.log("╔══════════════════════════════════════════════════════════╗");
-  console.log("║   OCR + Post-Process — Mistral OCR + Code Heuristics   ║");
+  console.log("║   OCR + Post-Process — Azure Mistral OCR + Heuristics  ║");
   console.log("╚══════════════════════════════════════════════════════════╝");
   console.log("");
   console.log(`File URL:   ${fileUrl}`);
-  console.log(`OCR Model:  mistral-ocr-latest`);
+  console.log(`OCR Model:  mistral-document-ai-2512`);
   console.log("");
 
   // ── Step 1: Mistral OCR (perception only — the ONLY AI cost) ──
-  console.log("Step 1: Running Mistral OCR...");
+  console.log("Step 1: Running Azure Mistral OCR...");
   const ocrResult = await runMistralOCR(fileUrl, {
-    model: "mistral-ocr-latest",
+    model: "mistral-document-ai-2512",
     includeImageBase64: false,
   });
 
@@ -87,7 +87,7 @@ async function main() {
       metadata: null,
     },
     processing: {
-      ocr_model: "mistral-ocr-latest",
+      ocr_model: "mistral-document-ai-2512",
       ocr_duration_ms: ocrResult.ocrDurationMs,
       postprocess_duration_ms: postResult.postprocess_duration_ms,
       total_duration_ms: now - totalStart,
